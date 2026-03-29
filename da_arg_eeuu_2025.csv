@@ -1,0 +1,2201 @@
+pais,seniority,salario_usd,ingles_avanzado,modalidad,industria,anios_exp,satisfaccion,skill_python,skill_sql,skill_power_bi,skill_tableau,skill_excel,skill_r,skill_dbt_airflow,skill_cloud_aws_gcp_azure,skill_inteligencia_artificial
+EEUU,Semi-Senior,8150,True,Híbrido,Government,2.9,4.1,1,1,1,0,1,1,0,1,1
+EEUU,Junior,6200,True,Presencial,E-commerce,2.2,4.3,1,0,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7800,True,Híbrido,Fintech,5.2,5.0,0,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,8600,True,Híbrido,Media,5.4,3.8,1,0,0,1,1,1,0,1,1
+EEUU,Junior,3600,True,Híbrido,Media,1.6,3.6,0,1,0,0,0,0,0,0,1
+Argentina,Junior,900,False,Presencial,Manufactura,1.5,3.0,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,9550,True,Híbrido,E-commerce,2.9,5.0,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1350,True,Híbrido,E-commerce,0.1,1.5,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Tecnología/SaaS,5.1,3.0,1,0,1,1,1,0,1,0,1
+Argentina,Senior,5050,False,Híbrido,Fintech,9.3,2.8,1,1,1,1,1,1,1,0,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Banca,4.2,3.2,1,1,1,0,1,1,1,0,0
+EEUU,Semi-Senior,8800,True,Híbrido,Finance,3.5,5.0,0,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2400,False,Remoto 100%,Telecomunicaciones,5.9,3.7,1,1,0,1,1,0,1,0,1
+EEUU,Senior,14850,True,Híbrido,Tech/SaaS,12.4,2.9,1,1,1,1,1,0,0,0,0
+EEUU,Senior,15600,True,Híbrido,Healthcare,14.6,3.6,1,1,1,0,1,1,1,0,1
+Argentina,Semi-Senior,3250,True,Remoto 100%,Tecnología/SaaS,2.9,4.5,1,1,1,1,1,1,0,1,0
+EEUU,Senior,12950,True,Híbrido,Consulting,11.2,4.4,1,1,0,1,1,1,1,1,1
+Argentina,Semi-Senior,2250,False,Remoto 100%,Consultoría,5.2,2.9,0,1,1,1,1,1,0,1,1
+EEUU,Junior,5700,True,Remoto 100%,Healthcare,1.1,3.3,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9000,True,Remoto 100%,Finance,4.1,3.1,1,1,1,1,1,0,0,1,1
+EEUU,Senior,14100,True,Remoto 100%,E-commerce,7.8,3.4,1,1,0,1,1,0,1,1,1
+EEUU,Junior,6200,True,Presencial,Tech/SaaS,1.8,3.8,1,1,0,1,1,0,0,0,1
+EEUU,Junior,6750,True,Remoto 100%,Media,1.5,4.1,1,1,1,1,1,0,1,1,0
+EEUU,Semi-Senior,9500,True,Híbrido,Retail,3.2,4.0,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1550,False,Remoto 100%,Manufactura,2.9,3.9,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8200,True,Híbrido,Fintech,2.9,3.8,1,1,0,1,1,1,1,1,1
+Argentina,Senior,4850,True,Remoto 100%,Gobierno,14.1,3.5,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,10000,True,Híbrido,Healthcare,4.2,4.4,1,1,1,1,1,1,0,0,0
+Argentina,Semi-Senior,3000,True,Remoto 100%,E-commerce,5.2,3.0,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2750,True,Remoto 100%,Telecomunicaciones,4.3,4.2,0,0,1,0,1,0,0,1,0
+Argentina,Junior,1350,False,Remoto 100%,Consultoría,1.1,3.5,0,1,1,0,1,0,1,1,1
+Argentina,Junior,1050,True,Híbrido,Banca,1.5,3.2,1,1,1,0,1,0,0,0,0
+EEUU,Senior,12400,True,Remoto 100%,Fintech,11.0,4.5,1,1,0,1,0,0,1,0,0
+Argentina,Junior,1100,True,Remoto 100%,Retail,2.3,3.0,0,0,1,1,1,1,0,0,1
+EEUU,Junior,7000,True,Remoto 100%,Consulting,0.9,3.6,1,1,1,1,0,0,0,0,1
+Argentina,Semi-Senior,2800,True,Remoto 100%,Telecomunicaciones,3.4,4.0,1,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,9100,True,Híbrido,Government,3.0,4.1,1,1,0,1,1,1,0,1,1
+Argentina,Semi-Senior,2650,True,Híbrido,E-commerce,3.6,3.4,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,2650,True,Remoto 100%,Retail,4.1,2.9,0,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,2200,False,Híbrido,Telecomunicaciones,4.4,2.7,0,1,0,0,1,1,0,1,0
+EEUU,Semi-Senior,8900,True,Híbrido,Retail,5.5,4.7,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2400,True,Remoto 100%,Retail,4.6,3.7,0,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,1700,False,Remoto 100%,Manufactura,5.8,4.8,1,1,1,1,0,0,0,0,0
+Argentina,Junior,800,False,Híbrido,Banca,2.4,3.3,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,1850,False,Remoto 100%,Manufactura,4.4,3.3,1,1,0,1,1,0,0,0,0
+Argentina,Junior,1000,False,Híbrido,Fintech,2.5,3.0,1,0,0,0,1,0,0,1,1
+Argentina,Junior,900,False,Remoto 100%,Manufactura,1.8,3.3,1,1,1,0,1,1,0,1,0
+EEUU,Junior,5950,True,Remoto 100%,Manufacturing,0.0,4.8,1,1,0,0,1,0,0,0,1
+EEUU,Junior,5700,True,Remoto 100%,Healthcare,1.5,4.1,1,1,1,0,1,0,1,1,0
+Argentina,Semi-Senior,2350,False,Remoto 100%,Consultoría,5.5,2.4,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2700,True,Híbrido,E-commerce,5.8,4.2,0,0,1,0,1,0,0,1,0
+EEUU,Semi-Senior,6450,True,Presencial,Finance,5.4,4.5,1,1,0,1,1,0,0,1,0
+EEUU,Semi-Senior,8500,True,Remoto 100%,Government,5.8,3.7,1,1,1,0,1,1,1,1,0
+Argentina,Junior,1300,False,Presencial,Salud,0.3,3.1,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,7900,True,Remoto 100%,Media,2.6,3.1,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,1550,True,Híbrido,Gobierno,3.0,4.7,1,1,1,0,1,1,0,1,0
+EEUU,Junior,4900,True,Presencial,Retail,0.7,4.0,1,1,1,1,0,0,1,0,1
+EEUU,Semi-Senior,6850,True,Híbrido,Retail,4.4,3.1,1,1,0,0,0,1,0,1,1
+Argentina,Junior,600,True,Presencial,Retail,0.0,3.4,0,1,0,1,1,1,0,0,1
+Argentina,Senior,4350,True,Remoto 100%,Manufactura,6.1,3.6,1,1,1,0,1,1,1,1,1
+EEUU,Senior,16450,True,Remoto 100%,Healthcare,7.3,4.7,1,1,1,1,1,1,1,1,1
+EEUU,Junior,5550,True,Presencial,Retail,1.5,3.4,1,0,0,0,1,1,0,1,1
+Argentina,Junior,1100,True,Híbrido,E-commerce,2.0,3.2,0,0,0,1,1,1,0,0,1
+EEUU,Junior,6350,True,Remoto 100%,E-commerce,1.6,3.7,1,1,0,1,1,1,0,1,1
+EEUU,Semi-Senior,7900,True,Híbrido,Retail,3.5,3.5,1,1,0,0,1,1,1,1,1
+Argentina,Semi-Senior,2750,True,Remoto 100%,E-commerce,5.3,4.1,1,0,1,1,1,1,0,1,1
+EEUU,Junior,6450,True,Remoto 100%,Media,2.2,4.0,1,1,0,1,1,1,0,1,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Consultoría,5.4,2.6,0,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,8500,True,Remoto 100%,Tech/SaaS,5.9,3.9,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1000,False,Híbrido,Banca,1.4,3.8,0,1,1,0,1,0,0,0,0
+EEUU,Senior,13850,True,Presencial,E-commerce,9.5,3.2,0,1,0,0,0,1,1,1,1
+EEUU,Junior,6200,True,Remoto 100%,Fintech,1.3,4.5,1,1,1,0,1,0,0,0,0
+EEUU,Senior,16000,True,Híbrido,E-commerce,8.1,4.2,1,1,0,1,1,1,0,1,1
+Argentina,Semi-Senior,1800,False,Remoto 100%,Gobierno,4.5,3.3,0,1,0,1,1,0,0,1,0
+Argentina,Junior,1300,False,Presencial,Fintech,0.3,3.2,1,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8850,True,Remoto 100%,Finance,4.2,3.0,1,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2500,True,Híbrido,Telecomunicaciones,3.9,4.7,1,1,0,1,1,0,0,0,1
+EEUU,Junior,6200,True,Híbrido,Media,2.4,3.5,1,1,0,1,1,0,0,1,1
+EEUU,Senior,11300,True,Híbrido,Media,14.6,2.5,1,1,0,1,1,1,1,1,1
+EEUU,Junior,6300,True,Presencial,Manufacturing,0.2,4.6,0,1,1,1,0,1,0,0,1
+EEUU,Semi-Senior,9000,True,Híbrido,Finance,5.4,2.5,1,1,0,1,0,1,0,1,0
+Argentina,Senior,4700,False,Remoto 100%,E-commerce,13.0,3.9,1,1,0,1,1,0,1,1,0
+Argentina,Junior,750,False,Híbrido,Telecomunicaciones,1.6,2.6,0,1,0,1,1,0,1,0,1
+Argentina,Semi-Senior,3150,True,Remoto 100%,Gobierno,3.1,2.8,0,1,1,1,0,0,1,1,1
+EEUU,Junior,5000,True,Remoto 100%,Fintech,0.6,5.0,1,1,1,1,0,0,0,0,1
+Argentina,Junior,1400,True,Híbrido,Consultoría,1.2,4.2,1,0,1,1,1,1,0,0,0
+EEUU,Junior,5900,True,Remoto 100%,Retail,1.0,4.0,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2500,True,Remoto 100%,Retail,5.6,3.7,1,1,1,1,0,0,0,0,1
+Argentina,Junior,850,True,Híbrido,Banca,0.9,4.4,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2500,False,Remoto 100%,Banca,3.2,3.7,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1250,True,Remoto 100%,Tecnología/SaaS,2.0,3.9,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2800,False,Remoto 100%,Tecnología/SaaS,4.3,3.6,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,7650,True,Híbrido,E-commerce,5.4,2.9,1,1,0,1,0,0,1,0,0
+EEUU,Senior,12100,True,Remoto 100%,Government,6.1,3.1,1,1,0,1,1,1,0,1,0
+Argentina,Senior,4900,True,Presencial,Salud,13.6,3.0,1,1,1,1,1,1,0,1,1
+Argentina,Senior,2800,False,Híbrido,Fintech,6.9,2.3,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Banca,5.2,4.2,1,1,1,0,0,0,1,0,0
+EEUU,Senior,14650,True,Presencial,Finance,14.6,3.7,1,1,0,0,0,0,0,1,1
+Argentina,Junior,1050,False,Híbrido,Telecomunicaciones,0.5,4.0,1,1,0,1,1,0,0,0,0
+Argentina,Junior,950,False,Remoto 100%,Banca,2.3,5.0,0,1,1,1,1,1,0,0,0
+EEUU,Junior,5050,True,Remoto 100%,Consulting,1.4,4.8,0,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,2200,False,Remoto 100%,Retail,3.3,4.4,1,1,0,1,1,1,0,1,1
+EEUU,Junior,7500,True,Remoto 100%,E-commerce,2.5,3.6,1,1,0,1,1,0,1,1,0
+EEUU,Junior,5400,True,Presencial,Government,0.4,4.2,1,1,0,0,1,1,0,0,0
+EEUU,Senior,13850,True,Remoto 100%,Finance,9.7,4.9,1,1,0,1,1,1,1,1,1
+Argentina,Junior,850,False,Presencial,Retail,2.2,2.6,1,0,0,1,1,0,1,0,0
+EEUU,Senior,10900,True,Híbrido,Healthcare,6.6,3.2,1,1,0,1,1,0,1,1,1
+Argentina,Senior,4650,True,Remoto 100%,Banca,6.9,3.2,1,1,1,0,1,0,0,1,0
+Argentina,Senior,4750,True,Remoto 100%,E-commerce,7.7,4.0,1,1,1,1,0,1,1,1,1
+Argentina,Senior,5000,True,Remoto 100%,Banca,8.7,4.5,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,1850,False,Híbrido,Consultoría,3.0,3.4,0,1,1,1,1,0,0,1,1
+EEUU,Junior,5700,True,Remoto 100%,Government,2.5,4.2,1,0,1,1,1,1,0,1,0
+EEUU,Semi-Senior,10300,True,Remoto 100%,Healthcare,3.6,3.2,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Manufactura,4.0,3.0,1,1,1,0,1,0,1,0,1
+Argentina,Junior,1050,False,Híbrido,Retail,1.7,3.2,0,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2250,False,Remoto 100%,Fintech,4.9,3.2,1,0,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Telecomunicaciones,5.2,3.6,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8550,True,Presencial,Finance,4.2,4.1,1,1,1,0,1,1,0,1,0
+Argentina,Junior,1150,True,Presencial,Telecomunicaciones,1.0,4.1,1,1,1,0,1,0,0,1,1
+Argentina,Senior,4050,True,Remoto 100%,Consultoría,6.8,4.6,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2750,True,Remoto 100%,Consultoría,2.9,3.8,1,1,1,1,1,0,0,0,1
+EEUU,Junior,5050,True,Híbrido,Consulting,1.7,4.4,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2150,False,Híbrido,E-commerce,4.0,2.6,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,7150,True,Remoto 100%,Finance,5.5,2.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2450,False,Remoto 100%,Gobierno,2.5,3.3,1,0,0,0,1,1,1,0,1
+Argentina,Junior,650,False,Remoto 100%,Manufactura,0.7,4.3,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,9850,True,Remoto 100%,Fintech,3.9,3.0,1,1,0,1,1,0,1,1,1
+Argentina,Junior,1100,True,Híbrido,Salud,1.4,3.6,0,1,0,0,1,0,1,0,1
+Argentina,Junior,900,False,Remoto 100%,Banca,1.1,3.3,0,1,1,1,1,0,0,0,0
+Argentina,Junior,1000,False,Remoto 100%,Gobierno,0.5,4.2,0,1,0,0,1,0,0,0,1
+Argentina,Senior,3700,False,Híbrido,Fintech,14.6,3.5,1,1,1,1,1,0,1,1,0
+Argentina,Junior,900,True,Híbrido,Salud,1.9,4.7,1,1,1,0,1,0,0,0,1
+Argentina,Senior,3450,True,Remoto 100%,Banca,8.5,4.1,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2550,True,Remoto 100%,Consultoría,4.5,2.8,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7850,True,Remoto 100%,Consulting,3.0,3.3,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,8300,True,Remoto 100%,Media,4.0,2.5,1,1,0,1,1,1,0,1,1
+Argentina,Semi-Senior,2150,False,Híbrido,Fintech,2.9,4.2,1,1,1,1,1,1,1,0,1
+Argentina,Junior,1050,True,Presencial,Gobierno,2.1,3.4,1,0,0,0,0,1,0,0,0
+Argentina,Junior,900,True,Presencial,Tecnología/SaaS,0.1,3.7,1,1,1,1,1,0,0,0,1
+EEUU,Senior,10750,True,Remoto 100%,Media,8.6,4.3,1,1,0,1,0,0,0,0,1
+Argentina,Semi-Senior,1800,False,Remoto 100%,Manufactura,4.1,3.6,1,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,7150,True,Híbrido,Fintech,3.5,3.6,1,1,0,1,1,0,1,1,1
+Argentina,Junior,1100,True,Híbrido,Retail,0.4,3.4,1,1,0,0,0,0,0,0,0
+Argentina,Junior,1200,False,Presencial,Gobierno,0.9,3.7,1,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8250,False,Remoto 100%,E-commerce,4.2,3.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1500,True,Remoto 100%,Salud,1.0,2.5,1,1,1,0,1,0,0,0,0
+EEUU,Senior,12400,True,Híbrido,Fintech,10.2,5.0,1,1,0,0,1,1,0,1,1
+EEUU,Semi-Senior,7350,True,Híbrido,Fintech,2.9,3.0,1,1,0,1,1,0,0,0,1
+Argentina,Senior,5050,True,Híbrido,E-commerce,12.8,2.3,1,1,1,1,0,0,1,1,1
+Argentina,Junior,700,False,Híbrido,Tecnología/SaaS,2.0,3.2,1,1,0,1,1,0,0,1,0
+Argentina,Junior,1300,True,Presencial,Fintech,2.4,3.8,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,1250,False,Híbrido,Banca,4.7,4.1,0,0,1,0,1,1,0,1,1
+EEUU,Junior,6150,True,Remoto 100%,Consulting,1.6,4.9,1,1,0,0,1,0,1,1,1
+Argentina,Junior,850,True,Remoto 100%,Retail,2.2,3.3,1,0,1,1,1,0,1,0,0
+Argentina,Semi-Senior,1900,False,Presencial,Telecomunicaciones,5.2,4.5,1,1,1,0,1,1,0,0,0
+Argentina,Junior,1300,True,Remoto 100%,Manufactura,2.1,4.4,0,1,0,0,1,0,0,0,1
+Argentina,Senior,5300,True,Remoto 100%,Banca,14.3,3.8,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,3100,False,Remoto 100%,Manufactura,3.6,3.6,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1200,False,Remoto 100%,Salud,1.8,3.0,0,1,1,0,0,0,0,0,0
+EEUU,Semi-Senior,9600,True,Híbrido,E-commerce,2.8,3.6,0,1,0,0,1,1,1,1,1
+Argentina,Semi-Senior,1850,True,Presencial,Retail,2.6,4.3,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8900,True,Remoto 100%,Finance,4.5,4.2,1,1,0,0,0,1,1,1,1
+EEUU,Semi-Senior,9800,True,Híbrido,Healthcare,4.4,3.1,1,1,1,1,0,0,1,0,1
+EEUU,Semi-Senior,7850,True,Híbrido,Tech/SaaS,3.9,4.3,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1100,True,Remoto 100%,Retail,2.3,2.9,1,1,1,1,1,0,0,0,0
+EEUU,Senior,13200,True,Remoto 100%,Fintech,6.9,3.7,1,1,0,1,0,1,0,1,1
+EEUU,Senior,10850,True,Híbrido,Government,6.4,3.9,1,1,1,0,0,1,1,1,1
+Argentina,Senior,4350,True,Híbrido,Retail,9.7,3.4,0,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,8400,True,Remoto 100%,Government,5.1,4.4,1,1,0,1,1,1,0,1,0
+EEUU,Semi-Senior,9850,True,Híbrido,Finance,3.2,3.6,1,1,1,1,1,0,1,1,1
+EEUU,Senior,12100,True,Remoto 100%,Consulting,12.6,4.1,1,1,0,1,1,1,0,0,1
+Argentina,Junior,1050,True,Híbrido,Telecomunicaciones,0.1,2.7,0,1,1,1,1,0,0,1,0
+Argentina,Junior,1350,False,Remoto 100%,Retail,2.5,2.9,1,1,0,0,1,0,1,1,0
+Argentina,Semi-Senior,2750,False,Híbrido,E-commerce,3.7,2.5,0,1,1,1,1,0,0,1,1
+EEUU,Senior,14350,True,Remoto 100%,Retail,12.4,3.3,1,1,0,1,1,1,1,1,1
+Argentina,Junior,750,False,Remoto 100%,Manufactura,0.9,4.8,0,1,0,1,1,0,0,0,1
+Argentina,Junior,800,False,Híbrido,Gobierno,1.2,3.7,1,1,0,0,0,0,0,0,0
+EEUU,Senior,13250,True,Híbrido,Tech/SaaS,7.6,2.6,1,1,1,0,0,1,1,0,1
+EEUU,Semi-Senior,10400,True,Remoto 100%,Retail,5.2,3.7,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,10000,True,Remoto 100%,Retail,4.5,4.5,1,1,1,1,1,0,0,1,1
+EEUU,Junior,6150,False,Híbrido,Media,1.2,3.9,0,1,1,1,1,1,0,0,0
+EEUU,Junior,5350,True,Remoto 100%,Fintech,2.4,4.4,0,1,1,0,1,0,1,0,0
+Argentina,Senior,5700,True,Híbrido,Fintech,8.4,3.8,1,1,1,0,1,0,1,1,1
+EEUU,Senior,14850,True,Remoto 100%,Consulting,8.0,4.0,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1100,False,Híbrido,Tecnología/SaaS,0.0,3.2,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Fintech,4.2,4.0,1,1,1,1,1,0,0,1,0
+Argentina,Senior,4800,True,Remoto 100%,Salud,7.8,3.9,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Gobierno,5.4,4.7,1,1,1,1,1,0,0,1,0
+EEUU,Senior,13500,True,Híbrido,Fintech,7.6,4.2,1,1,0,1,0,1,1,1,1
+EEUU,Semi-Senior,9200,True,Híbrido,Government,6.0,2.2,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,8650,True,Híbrido,Finance,4.5,3.8,1,0,0,0,0,1,0,1,1
+Argentina,Junior,1000,False,Híbrido,Manufactura,1.4,3.4,0,0,1,0,1,1,0,0,0
+Argentina,Senior,4400,False,Remoto 100%,Telecomunicaciones,10.3,3.9,1,1,1,1,0,0,0,1,0
+Argentina,Semi-Senior,2200,True,Presencial,Consultoría,3.9,3.8,1,1,1,0,1,0,0,0,0
+EEUU,Senior,13550,True,Remoto 100%,Tech/SaaS,13.2,4.1,1,1,1,1,1,1,1,1,1
+Argentina,Junior,1250,True,Híbrido,Manufactura,2.3,4.2,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1150,False,Remoto 100%,E-commerce,1.5,3.6,1,0,1,1,1,1,0,0,0
+EEUU,Senior,14800,True,Remoto 100%,Healthcare,6.4,3.6,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2100,False,Presencial,Banca,3.8,3.0,0,0,1,1,1,0,0,0,0
+Argentina,Senior,3750,False,Híbrido,Consultoría,12.6,4.0,1,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8800,True,Híbrido,Finance,3.4,2.3,1,1,0,0,0,0,0,0,0
+EEUU,Senior,11850,True,Remoto 100%,Government,7.2,3.0,1,1,1,1,1,1,1,1,0
+Argentina,Senior,4200,False,Remoto 100%,Consultoría,11.6,3.1,1,1,1,0,1,1,1,0,1
+EEUU,Semi-Senior,8150,True,Remoto 100%,Finance,3.5,3.8,0,1,0,1,1,0,0,1,1
+Argentina,Senior,5050,True,Híbrido,Retail,11.4,3.7,1,1,1,0,1,0,0,0,1
+Argentina,Junior,900,False,Remoto 100%,Consultoría,0.7,3.6,0,0,1,1,1,0,0,0,1
+Argentina,Junior,1300,True,Presencial,Consultoría,0.7,3.6,0,1,1,0,1,1,0,0,1
+Argentina,Junior,1400,True,Presencial,Banca,0.3,3.4,1,1,1,1,1,0,1,0,0
+EEUU,Junior,5150,True,Remoto 100%,Retail,0.3,3.5,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2150,False,Híbrido,Retail,2.9,2.5,1,1,1,0,1,0,0,1,1
+Argentina,Senior,4150,True,Remoto 100%,Banca,10.5,3.4,0,1,1,1,1,0,0,1,1
+Argentina,Senior,5800,True,Híbrido,Tecnología/SaaS,6.4,3.2,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,2500,True,Presencial,Manufactura,4.4,4.2,1,1,1,0,1,0,0,0,0
+Argentina,Senior,4200,True,Híbrido,E-commerce,8.6,3.6,1,1,1,0,0,0,0,1,1
+EEUU,Semi-Senior,8750,True,Híbrido,Fintech,5.5,4.2,1,1,0,1,1,0,0,1,1
+Argentina,Junior,1000,False,Híbrido,E-commerce,0.6,5.0,0,1,0,0,1,0,0,0,1
+Argentina,Junior,900,True,Remoto 100%,Retail,0.7,4.0,1,0,1,0,1,0,0,1,1
+EEUU,Junior,5650,True,Presencial,Fintech,1.6,3.7,1,1,1,0,1,0,0,1,1
+EEUU,Junior,5500,True,Híbrido,Finance,1.6,2.9,1,1,1,1,1,1,0,0,1
+Argentina,Junior,1050,False,Remoto 100%,E-commerce,0.5,2.6,0,0,0,0,1,0,1,0,1
+Argentina,Junior,700,False,Presencial,Gobierno,2.5,4.0,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2000,True,Híbrido,Salud,3.3,4.0,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,1850,False,Remoto 100%,Gobierno,4.5,4.6,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7700,True,Híbrido,Fintech,4.2,3.1,1,1,0,1,1,0,0,0,1
+EEUU,Junior,5350,True,Híbrido,Healthcare,1.0,3.8,1,1,0,0,0,0,0,0,1
+EEUU,Semi-Senior,8400,True,Remoto 100%,Government,3.7,3.1,1,1,0,0,1,0,0,1,1
+Argentina,Senior,4100,False,Remoto 100%,Telecomunicaciones,10.2,4.0,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2150,True,Híbrido,Telecomunicaciones,5.2,3.0,0,1,1,1,1,0,0,0,0
+Argentina,Senior,4600,True,Presencial,Manufactura,14.4,2.8,1,1,1,1,1,1,0,0,0
+EEUU,Junior,6300,True,Remoto 100%,Retail,0.3,5.0,1,1,1,0,1,0,1,1,1
+EEUU,Junior,6400,True,Remoto 100%,Fintech,2.1,4.3,1,1,0,1,0,0,0,1,1
+EEUU,Semi-Senior,8450,True,Híbrido,Government,5.0,4.1,1,1,0,0,0,1,0,1,0
+EEUU,Semi-Senior,7650,True,Remoto 100%,Consulting,4.9,5.0,1,1,0,0,0,0,1,0,1
+Argentina,Junior,900,False,Híbrido,Gobierno,0.6,2.9,1,1,0,1,1,0,0,0,1
+Argentina,Senior,4500,True,Remoto 100%,Gobierno,7.3,3.6,1,1,1,0,1,1,1,1,1
+EEUU,Senior,14500,True,Remoto 100%,E-commerce,8.2,5.0,1,1,0,0,1,1,1,0,1
+EEUU,Senior,11050,True,Remoto 100%,Fintech,14.9,3.6,1,1,0,1,1,0,1,1,1
+Argentina,Junior,850,False,Híbrido,Fintech,2.4,4.7,0,1,0,0,1,0,0,0,0
+Argentina,Junior,1050,True,Híbrido,Telecomunicaciones,0.8,3.9,0,1,1,1,1,0,0,0,1
+EEUU,Senior,13050,True,Remoto 100%,Finance,6.0,3.3,1,1,1,1,1,1,1,1,1
+EEUU,Senior,9900,True,Remoto 100%,Consulting,10.5,3.5,0,1,0,0,0,1,1,1,1
+EEUU,Semi-Senior,8900,True,Híbrido,Healthcare,4.2,3.8,1,1,0,1,1,0,0,0,1
+Argentina,Senior,4700,True,Presencial,Tecnología/SaaS,9.6,3.6,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1000,True,Remoto 100%,Telecomunicaciones,2.4,3.6,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,1950,False,Presencial,Manufactura,3.8,3.7,0,1,1,1,1,0,0,0,1
+EEUU,Senior,8000,True,Remoto 100%,Healthcare,6.3,3.6,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,3000,True,Remoto 100%,Banca,4.9,3.9,0,1,0,1,1,1,1,0,1
+Argentina,Junior,850,False,Presencial,Gobierno,1.1,3.5,0,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,8450,True,Híbrido,Media,2.5,2.7,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,10100,True,Remoto 100%,Finance,4.9,4.6,0,1,1,1,1,0,0,0,1
+EEUU,Senior,11050,True,Híbrido,Tech/SaaS,12.4,4.5,1,1,0,1,1,1,1,1,1
+EEUU,Senior,12450,True,Remoto 100%,Fintech,8.3,3.1,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1050,False,Híbrido,E-commerce,1.5,3.7,1,1,1,1,1,0,0,0,0
+Argentina,Senior,5500,True,Híbrido,Fintech,8.4,2.6,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,8350,True,Presencial,E-commerce,2.8,4.0,0,1,1,1,0,1,0,0,1
+Argentina,Semi-Senior,2900,True,Remoto 100%,Consultoría,5.0,1.4,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8050,True,Remoto 100%,E-commerce,5.6,4.0,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,3600,True,Híbrido,Gobierno,3.9,3.5,0,1,1,1,1,0,0,0,1
+EEUU,Junior,5250,True,Híbrido,Media,0.2,5.0,1,1,1,1,0,0,0,1,1
+EEUU,Semi-Senior,9550,True,Remoto 100%,Manufacturing,5.0,3.9,1,1,1,1,1,1,1,1,0
+Argentina,Semi-Senior,2600,False,Remoto 100%,Manufactura,5.6,3.7,0,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2200,True,Híbrido,Salud,4.0,4.3,0,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,8600,True,Remoto 100%,Fintech,5.7,3.5,0,1,0,1,0,0,0,1,1
+EEUU,Senior,10700,True,Híbrido,Media,8.8,4.4,1,1,0,0,1,0,1,1,1
+Argentina,Senior,7400,True,Presencial,Tecnología/SaaS,9.7,4.3,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1000,False,Remoto 100%,Banca,0.2,2.7,0,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Retail,4.6,2.4,1,1,0,1,1,0,0,0,1
+Argentina,Junior,850,False,Híbrido,Manufactura,0.4,4.8,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2650,True,Remoto 100%,Retail,3.2,3.9,1,1,0,1,0,0,0,0,1
+EEUU,Semi-Senior,8450,True,Híbrido,Finance,2.6,2.6,1,1,1,0,1,0,1,1,1
+Argentina,Junior,950,False,Híbrido,Fintech,0.1,2.9,1,1,1,1,1,0,0,0,1
+EEUU,Senior,13750,True,Remoto 100%,Government,7.8,3.7,1,1,1,0,0,1,1,1,1
+Argentina,Junior,1100,False,Híbrido,Fintech,2.4,2.8,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7950,True,Híbrido,Retail,2.9,3.7,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2800,False,Remoto 100%,Fintech,3.8,3.8,1,0,1,0,1,0,1,0,0
+EEUU,Senior,13200,True,Remoto 100%,Tech/SaaS,14.6,2.4,1,1,1,1,1,1,1,1,1
+Argentina,Junior,1000,False,Híbrido,Fintech,1.0,3.8,1,1,1,0,1,1,0,1,1
+Argentina,Senior,4350,False,Remoto 100%,Banca,9.6,3.1,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1000,False,Híbrido,Manufactura,0.1,3.3,0,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,1850,True,Híbrido,Fintech,5.9,3.5,1,1,1,0,1,1,0,0,0
+EEUU,Senior,12250,True,Híbrido,Manufacturing,9.1,3.8,1,1,1,1,1,0,1,1,1
+EEUU,Junior,5800,True,Híbrido,Consulting,1.2,2.9,1,0,0,0,1,1,1,1,1
+Argentina,Junior,1100,False,Presencial,Gobierno,2.4,4.1,0,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8600,True,Remoto 100%,E-commerce,3.0,3.5,1,1,0,0,1,0,0,0,1
+EEUU,Junior,4350,True,Híbrido,Retail,0.7,4.0,1,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2650,True,Híbrido,E-commerce,5.0,3.6,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,1850,False,Remoto 100%,Salud,5.9,4.3,1,0,1,0,1,0,0,1,1
+Argentina,Senior,4250,True,Híbrido,Fintech,14.6,4.1,1,1,1,1,1,0,1,0,1
+EEUU,Senior,15300,True,Remoto 100%,Fintech,14.2,3.5,1,1,0,0,0,1,0,1,1
+Argentina,Senior,3350,True,Remoto 100%,Gobierno,8.4,3.5,1,1,1,1,1,1,1,1,1
+EEUU,Senior,14400,True,Remoto 100%,Consulting,12.1,3.3,1,1,0,1,0,0,1,1,1
+Argentina,Semi-Senior,1550,False,Remoto 100%,Tecnología/SaaS,3.2,2.9,1,1,1,1,0,0,0,0,0
+EEUU,Junior,5250,True,Presencial,Fintech,1.4,4.2,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2900,True,Híbrido,Tecnología/SaaS,2.7,4.5,1,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,9150,True,Híbrido,Consulting,4.3,1.9,1,0,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2300,True,Remoto 100%,Fintech,3.0,3.2,1,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,8900,True,Remoto 100%,Manufacturing,4.1,3.2,1,1,1,0,0,0,0,1,0
+EEUU,Semi-Senior,9250,True,Híbrido,Tech/SaaS,2.9,3.0,1,1,0,0,1,0,0,1,1
+EEUU,Senior,11300,True,Híbrido,Manufacturing,10.3,3.9,1,1,1,0,0,0,1,1,1
+EEUU,Semi-Senior,9750,True,Híbrido,Healthcare,3.4,3.6,1,1,0,1,0,0,0,0,1
+EEUU,Senior,12050,True,Remoto 100%,Healthcare,6.3,2.4,1,1,1,1,1,1,1,1,1
+Argentina,Junior,1050,True,Híbrido,Telecomunicaciones,2.2,3.0,0,1,0,1,0,0,0,0,0
+EEUU,Junior,5300,True,Remoto 100%,Manufacturing,1.0,3.3,0,1,1,1,0,0,1,1,1
+Argentina,Junior,1350,False,Híbrido,Tecnología/SaaS,2.3,4.7,0,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,3150,True,Híbrido,Retail,4.9,3.5,0,1,1,1,1,1,0,0,1
+Argentina,Senior,3400,False,Remoto 100%,Manufactura,14.7,3.8,1,1,1,0,1,0,0,1,1
+EEUU,Junior,6150,True,Híbrido,Tech/SaaS,1.3,3.5,1,1,0,1,1,0,0,1,1
+Argentina,Junior,800,False,Híbrido,Salud,1.4,4.3,0,0,1,0,1,0,0,0,0
+EEUU,Senior,15200,True,Remoto 100%,Finance,6.5,5.0,1,1,0,1,1,1,1,1,1
+Argentina,Semi-Senior,2750,False,Híbrido,Banca,2.9,4.1,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2250,False,Remoto 100%,Fintech,3.2,3.5,1,0,1,1,1,0,0,1,0
+Argentina,Semi-Senior,2100,False,Remoto 100%,Banca,3.4,3.0,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2750,False,Híbrido,Gobierno,5.2,3.3,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1100,False,Híbrido,Fintech,1.7,3.6,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8250,True,Remoto 100%,Retail,3.3,3.7,1,0,1,1,1,0,0,1,0
+Argentina,Senior,4200,True,Remoto 100%,Manufactura,14.0,2.5,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1650,False,Remoto 100%,E-commerce,4.4,3.3,0,1,1,1,1,0,0,1,1
+EEUU,Senior,13000,True,Remoto 100%,Retail,14.7,2.7,1,1,1,0,1,1,1,1,1
+EEUU,Senior,14000,True,Híbrido,Retail,11.7,4.2,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2000,False,Remoto 100%,Manufactura,4.7,2.4,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,8000,True,Híbrido,Finance,5.2,4.4,0,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,2950,True,Remoto 100%,Gobierno,4.5,3.8,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2050,True,Remoto 100%,Fintech,4.9,3.8,0,1,1,1,1,1,1,0,1
+Argentina,Senior,4550,False,Remoto 100%,Consultoría,11.1,3.9,1,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,2850,True,Híbrido,Gobierno,3.5,3.7,1,1,1,1,1,1,1,1,1
+Argentina,Senior,3450,True,Presencial,Banca,13.0,2.9,1,1,1,0,1,1,0,0,1
+Argentina,Senior,4300,True,Remoto 100%,Tecnología/SaaS,11.1,3.8,1,1,1,0,0,0,0,1,1
+Argentina,Semi-Senior,2950,True,Presencial,Manufactura,5.4,3.4,1,1,1,0,1,0,0,0,1
+EEUU,Junior,5850,True,Presencial,Consulting,0.0,3.0,1,1,0,1,1,0,0,0,1
+Argentina,Junior,900,False,Presencial,Gobierno,1.9,3.7,1,1,1,0,1,0,0,0,1
+Argentina,Senior,3300,False,Remoto 100%,Consultoría,7.7,2.8,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,9100,True,Remoto 100%,Fintech,4.6,4.3,1,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,E-commerce,4.9,4.0,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,9500,True,Remoto 100%,Consulting,2.7,4.5,1,1,1,1,1,0,1,1,1
+EEUU,Junior,5350,True,Híbrido,Retail,2.4,4.1,0,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2500,False,Híbrido,Banca,2.6,4.7,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,1900,False,Remoto 100%,Telecomunicaciones,3.2,4.5,1,1,1,0,1,1,0,0,0
+EEUU,Semi-Senior,7550,True,Remoto 100%,Healthcare,5.6,4.6,0,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,7950,True,Híbrido,Media,4.4,4.8,0,1,0,1,0,0,1,0,0
+Argentina,Senior,4600,True,Remoto 100%,Telecomunicaciones,14.7,4.6,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,8300,True,Remoto 100%,Consulting,4.9,4.7,0,1,0,1,0,0,1,1,1
+Argentina,Junior,1000,False,Presencial,Retail,0.8,3.5,1,1,1,0,1,0,0,1,0
+EEUU,Senior,9250,True,Remoto 100%,Fintech,14.6,5.0,1,1,1,1,1,1,0,1,1
+EEUU,Junior,5350,True,Presencial,Tech/SaaS,0.2,4.3,1,1,0,1,1,1,0,1,0
+EEUU,Semi-Senior,6750,True,Híbrido,Manufacturing,3.6,3.9,0,1,0,0,1,0,0,1,1
+Argentina,Senior,6050,True,Híbrido,Manufactura,12.2,3.6,1,1,1,1,0,0,1,1,1
+EEUU,Junior,5100,True,Remoto 100%,Consulting,1.5,4.1,1,1,0,0,1,0,0,1,1
+Argentina,Senior,4700,True,Remoto 100%,Banca,13.5,3.2,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1800,True,Híbrido,Banca,4.5,3.0,1,1,1,0,1,0,0,1,1
+Argentina,Senior,5300,True,Remoto 100%,Telecomunicaciones,14.0,4.3,1,1,1,0,1,1,0,1,0
+EEUU,Junior,5450,True,Presencial,E-commerce,1.0,3.2,0,1,1,0,1,0,0,1,0
+Argentina,Senior,5250,True,Híbrido,Tecnología/SaaS,12.9,4.1,1,1,1,1,1,1,0,0,1
+Argentina,Junior,1250,False,Remoto 100%,Fintech,1.0,3.1,0,1,1,1,1,0,0,0,1
+Argentina,Senior,2700,False,Remoto 100%,E-commerce,6.6,4.3,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2900,True,Remoto 100%,Salud,5.3,2.4,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,2950,True,Híbrido,Gobierno,4.4,3.9,1,1,0,0,1,0,0,0,0
+EEUU,Semi-Senior,10600,True,Remoto 100%,Finance,3.1,4.6,0,1,0,1,1,1,0,0,1
+Argentina,Semi-Senior,2950,True,Remoto 100%,Gobierno,5.3,3.3,1,1,0,1,1,0,1,0,0
+Argentina,Semi-Senior,2250,True,Presencial,Salud,5.5,3.7,1,1,1,1,1,0,0,1,0
+Argentina,Senior,4250,True,Híbrido,Gobierno,8.7,3.7,1,1,0,0,1,1,0,1,0
+Argentina,Junior,1100,True,Presencial,Manufactura,0.1,2.7,0,1,1,1,1,0,0,0,1
+Argentina,Junior,1450,True,Híbrido,Consultoría,1.8,3.0,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2550,False,Híbrido,Manufactura,3.6,4.5,1,1,1,1,1,0,0,1,0
+EEUU,Junior,5500,True,Remoto 100%,Tech/SaaS,2.0,4.5,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,10500,True,Remoto 100%,Retail,3.4,3.0,1,1,0,0,1,1,0,1,1
+Argentina,Senior,3750,False,Híbrido,Fintech,10.2,2.1,1,1,1,1,1,0,0,1,0
+EEUU,Junior,4900,True,Remoto 100%,Manufacturing,2.3,4.2,1,1,0,0,1,0,0,0,1
+Argentina,Junior,1250,False,Híbrido,Banca,0.5,4.6,1,1,1,0,1,1,1,0,1
+EEUU,Semi-Senior,7600,True,Remoto 100%,Consulting,4.8,2.7,1,1,1,0,1,1,1,0,1
+EEUU,Junior,5300,True,Híbrido,Manufacturing,1.5,3.7,1,1,0,1,1,1,1,1,0
+Argentina,Junior,1300,True,Híbrido,Tecnología/SaaS,0.9,2.3,1,0,1,1,1,0,0,0,0
+Argentina,Junior,1200,False,Remoto 100%,Gobierno,0.3,3.6,0,1,1,0,1,1,0,1,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,Consulting,4.9,2.6,1,1,0,0,0,0,1,1,1
+Argentina,Senior,4650,True,Remoto 100%,Retail,13.2,4.5,1,1,1,1,1,0,0,1,1
+Argentina,Senior,3050,False,Remoto 100%,Tecnología/SaaS,11.6,3.0,1,1,1,1,1,0,1,0,1
+EEUU,Junior,6300,True,Remoto 100%,Manufacturing,1.9,4.0,1,1,1,0,0,0,0,0,0
+EEUU,Semi-Senior,7500,True,Híbrido,Media,5.5,2.9,1,1,1,1,1,1,1,1,1
+Argentina,Junior,1050,True,Presencial,Banca,0.3,3.5,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2600,True,Híbrido,Fintech,4.1,3.3,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,1600,False,Remoto 100%,Tecnología/SaaS,4.4,3.9,1,1,1,1,1,0,0,1,0
+EEUU,Junior,4800,True,Híbrido,Media,2.1,3.6,0,1,1,0,1,0,1,0,0
+EEUU,Senior,15050,True,Remoto 100%,Finance,12.6,4.3,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2400,False,Remoto 100%,Manufactura,5.4,2.4,0,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8450,True,Remoto 100%,Government,3.7,2.6,1,1,0,0,0,1,1,0,0
+Argentina,Senior,5450,True,Híbrido,E-commerce,12.6,3.7,1,1,1,1,1,0,0,1,0
+Argentina,Junior,1050,False,Presencial,Consultoría,0.3,3.5,1,1,1,1,1,0,0,1,1
+EEUU,Senior,13750,True,Presencial,Finance,7.3,3.9,1,1,0,1,1,1,0,1,1
+Argentina,Junior,1300,True,Remoto 100%,Banca,0.2,4.9,1,1,1,1,1,0,0,0,1
+EEUU,Junior,7150,True,Híbrido,Fintech,0.5,3.7,1,1,1,1,1,1,1,0,1
+Argentina,Senior,4200,True,Remoto 100%,Salud,7.5,4.4,1,1,1,1,1,1,0,0,1
+EEUU,Junior,5500,True,Remoto 100%,Government,0.6,3.4,1,1,0,1,1,1,0,0,1
+EEUU,Junior,6050,True,Híbrido,Media,1.2,4.1,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,7250,True,Híbrido,Fintech,3.1,1.9,1,1,0,0,1,0,1,1,1
+EEUU,Junior,4850,True,Presencial,Consulting,2.3,4.4,0,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,9850,True,Presencial,Manufacturing,5.7,4.5,1,1,1,1,0,1,1,1,1
+EEUU,Junior,5250,False,Remoto 100%,Retail,1.8,4.0,0,1,0,0,1,1,0,0,0
+EEUU,Junior,5000,True,Remoto 100%,Finance,1.4,3.4,0,1,1,1,0,0,0,1,1
+Argentina,Senior,3950,True,Remoto 100%,Banca,11.6,3.1,1,1,1,1,1,1,1,0,0
+Argentina,Senior,4500,False,Remoto 100%,Gobierno,8.2,2.8,1,1,0,0,0,0,1,1,1
+Argentina,Junior,1150,True,Híbrido,Tecnología/SaaS,0.1,4.1,0,1,1,1,1,0,0,0,1
+EEUU,Junior,4550,True,Híbrido,Retail,1.1,4.3,1,1,0,0,1,1,0,1,1
+Argentina,Senior,5900,True,Remoto 100%,Tecnología/SaaS,11.2,2.3,1,1,1,1,1,0,1,0,1
+Argentina,Junior,900,False,Híbrido,Fintech,0.5,3.9,1,1,1,1,1,0,0,1,0
+EEUU,Junior,5850,True,Híbrido,E-commerce,1.5,2.9,1,1,0,1,0,0,1,1,0
+EEUU,Semi-Senior,8600,True,Presencial,Manufacturing,6.0,3.6,1,1,1,1,1,0,1,1,1
+EEUU,Junior,6850,True,Presencial,Healthcare,1.5,3.0,1,0,0,0,1,1,0,1,1
+EEUU,Senior,15000,True,Remoto 100%,Manufacturing,10.1,4.2,1,1,1,0,1,0,1,1,0
+Argentina,Junior,900,False,Presencial,Fintech,2.4,3.7,0,1,0,1,1,0,0,0,0
+EEUU,Semi-Senior,7500,True,Presencial,Retail,3.6,4.1,1,1,1,1,1,1,0,1,0
+EEUU,Semi-Senior,8350,True,Remoto 100%,Tech/SaaS,3.1,4.2,1,1,0,0,1,1,1,1,0
+Argentina,Semi-Senior,2100,False,Híbrido,Tecnología/SaaS,3.6,3.8,0,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,9300,True,Remoto 100%,Consulting,6.0,3.4,0,1,1,1,1,0,0,0,1
+Argentina,Junior,1100,False,Híbrido,E-commerce,1.5,2.7,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1000,False,Híbrido,Fintech,2.1,4.3,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,1250,False,Remoto 100%,Retail,2.8,5.0,1,1,1,1,1,0,1,0,0
+EEUU,Junior,6000,False,Remoto 100%,E-commerce,2.1,4.5,0,1,0,1,1,0,0,1,0
+Argentina,Senior,3550,False,Remoto 100%,Telecomunicaciones,10.1,3.4,1,1,1,1,1,0,1,1,1
+EEUU,Junior,6550,True,Remoto 100%,Consulting,1.2,3.3,1,1,1,1,1,1,0,1,1
+EEUU,Senior,17000,True,Remoto 100%,Fintech,12.1,3.3,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,8100,True,Remoto 100%,Finance,4.4,3.8,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1400,False,Presencial,Retail,2.7,3.4,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1900,False,Híbrido,Retail,5.1,4.2,0,1,1,0,1,0,1,0,0
+EEUU,Senior,12000,True,Híbrido,Finance,7.9,4.3,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2500,False,Presencial,Telecomunicaciones,5.8,5.0,1,1,1,1,1,1,0,0,0
+Argentina,Semi-Senior,2150,False,Presencial,Tecnología/SaaS,5.2,4.5,0,0,1,0,1,1,1,0,1
+Argentina,Senior,3350,True,Remoto 100%,Fintech,9.3,4.4,1,1,1,1,1,0,0,0,1
+Argentina,Senior,4800,True,Híbrido,Telecomunicaciones,8.4,3.3,1,1,1,1,1,0,0,1,1
+Argentina,Senior,3600,True,Híbrido,Retail,9.5,2.5,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9500,True,Híbrido,Retail,5.3,3.3,1,1,0,0,1,0,0,1,1
+EEUU,Junior,6200,True,Remoto 100%,Consulting,1.2,4.2,0,1,1,0,1,1,1,1,0
+Argentina,Semi-Senior,2550,False,Remoto 100%,Retail,3.7,4.9,1,1,0,1,1,1,0,0,0
+Argentina,Semi-Senior,2650,True,Híbrido,Salud,3.7,4.0,1,1,1,0,1,0,0,0,1
+EEUU,Junior,6250,True,Presencial,Retail,2.0,4.4,1,1,1,0,1,1,1,1,1
+Argentina,Junior,850,False,Presencial,Consultoría,0.3,4.6,0,1,0,0,1,0,0,0,1
+Argentina,Senior,4000,False,Híbrido,Telecomunicaciones,12.7,3.5,1,1,1,1,1,0,1,0,1
+Argentina,Senior,5750,True,Remoto 100%,Banca,6.4,4.0,1,1,0,1,1,0,0,1,1
+Argentina,Junior,650,False,Remoto 100%,Manufactura,0.9,3.6,0,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8350,True,Remoto 100%,Finance,4.5,3.8,0,1,0,0,1,0,1,1,1
+EEUU,Junior,5750,True,Remoto 100%,E-commerce,2.4,4.3,0,1,0,1,1,0,0,0,0
+Argentina,Junior,950,False,Híbrido,Fintech,2.1,4.5,1,1,1,0,1,1,0,0,0
+EEUU,Semi-Senior,10700,True,Remoto 100%,Healthcare,5.7,3.2,1,1,0,1,1,0,0,1,1
+Argentina,Senior,3600,False,Remoto 100%,Telecomunicaciones,11.0,3.2,1,1,1,1,0,0,1,1,0
+Argentina,Semi-Senior,2150,False,Remoto 100%,Manufactura,4.6,2.5,1,0,1,0,1,0,1,0,1
+Argentina,Junior,850,True,Remoto 100%,Salud,2.1,1.9,0,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,1700,True,Remoto 100%,Gobierno,4.7,3.8,0,1,1,0,1,0,0,0,0
+Argentina,Junior,800,False,Híbrido,Consultoría,0.3,2.7,1,1,1,1,1,0,1,0,1
+EEUU,Senior,15400,True,Remoto 100%,E-commerce,13.2,3.7,1,1,0,1,0,0,1,1,1
+Argentina,Junior,1050,False,Remoto 100%,Fintech,0.9,3.5,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,1950,False,Híbrido,Fintech,3.8,3.5,1,1,1,0,1,0,0,1,0
+EEUU,Senior,10550,True,Remoto 100%,Retail,12.9,2.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,850,False,Híbrido,Fintech,0.6,4.2,1,1,1,0,1,1,1,0,0
+Argentina,Junior,1100,True,Híbrido,Banca,2.1,3.5,0,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2000,False,Remoto 100%,Manufactura,2.9,2.9,1,1,1,0,0,0,0,0,1
+EEUU,Senior,14100,True,Remoto 100%,Tech/SaaS,14.4,2.8,0,1,1,1,1,1,1,1,1
+EEUU,Senior,11750,True,Remoto 100%,Healthcare,12.8,4.6,0,1,0,0,0,0,1,0,1
+Argentina,Junior,1450,False,Híbrido,E-commerce,2.3,3.1,1,0,1,1,1,0,0,0,1
+EEUU,Senior,17300,True,Híbrido,Fintech,6.8,2.9,1,1,0,0,0,0,0,1,1
+EEUU,Semi-Senior,8800,True,Remoto 100%,Healthcare,3.5,3.4,1,1,1,0,1,0,1,1,1
+EEUU,Junior,3750,True,Remoto 100%,Finance,2.0,3.5,1,0,1,0,1,1,0,1,1
+EEUU,Junior,5100,True,Presencial,Finance,2.1,2.8,1,1,0,0,0,0,0,0,1
+Argentina,Senior,4150,False,Remoto 100%,Salud,7.1,3.2,1,1,1,0,0,0,1,0,0
+EEUU,Junior,7600,True,Remoto 100%,Finance,1.2,4.2,0,1,1,0,1,0,0,0,1
+Argentina,Senior,5450,True,Remoto 100%,E-commerce,12.7,3.6,1,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,7550,True,Remoto 100%,Healthcare,4.7,3.1,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1050,False,Híbrido,Salud,0.3,3.7,1,1,0,1,1,0,1,0,0
+Argentina,Semi-Senior,2850,True,Presencial,E-commerce,3.0,4.7,1,0,1,1,1,0,0,0,1
+Argentina,Semi-Senior,3850,True,Remoto 100%,Banca,4.0,3.4,1,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,6200,True,Remoto 100%,Fintech,5.9,3.9,1,1,0,0,0,0,1,1,1
+Argentina,Semi-Senior,1600,False,Híbrido,Gobierno,4.6,3.0,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,9550,True,Híbrido,Finance,4.1,2.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1200,True,Híbrido,E-commerce,2.0,2.1,0,1,1,0,0,0,0,0,1
+Argentina,Senior,4850,True,Remoto 100%,Retail,13.7,3.7,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2450,False,Híbrido,E-commerce,5.6,4.8,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2150,False,Híbrido,Telecomunicaciones,2.9,3.0,1,0,1,0,0,0,1,0,1
+Argentina,Semi-Senior,2300,True,Remoto 100%,Manufactura,2.9,3.8,1,1,0,0,1,0,0,1,1
+EEUU,Junior,6200,True,Híbrido,Manufacturing,0.5,4.5,1,1,1,0,1,1,1,1,1
+EEUU,Senior,13150,True,Remoto 100%,Tech/SaaS,8.7,3.3,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Consultoría,3.5,4.1,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8350,True,Presencial,Finance,3.1,3.6,1,1,0,0,0,1,1,1,1
+EEUU,Junior,6550,True,Remoto 100%,E-commerce,0.7,2.4,0,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2400,False,Híbrido,Tecnología/SaaS,4.5,2.3,1,1,1,1,0,0,0,0,0
+Argentina,Senior,4300,True,Presencial,Consultoría,13.7,2.5,1,1,1,0,1,0,0,1,1
+Argentina,Senior,5500,True,Remoto 100%,Telecomunicaciones,8.9,2.7,1,1,0,0,1,0,1,0,1
+Argentina,Semi-Senior,1900,False,Remoto 100%,Manufactura,4.0,3.8,0,1,1,1,1,0,0,1,0
+Argentina,Junior,1000,False,Híbrido,Telecomunicaciones,0.2,3.0,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2900,False,Híbrido,Manufactura,2.5,2.4,1,1,1,1,1,0,0,0,1
+Argentina,Senior,6150,True,Híbrido,Fintech,12.2,3.5,1,1,1,1,0,0,0,1,0
+EEUU,Senior,14650,True,Remoto 100%,Healthcare,9.2,4.1,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1100,False,Híbrido,Consultoría,0.2,3.8,0,1,0,0,1,1,0,0,1
+Argentina,Junior,850,False,Híbrido,Consultoría,2.3,3.7,1,0,1,1,0,0,0,0,0
+Argentina,Semi-Senior,2350,True,Remoto 100%,Salud,5.9,3.9,0,1,1,1,0,0,0,0,0
+EEUU,Junior,5850,True,Remoto 100%,Finance,1.7,1.8,1,1,1,1,1,1,0,0,0
+Argentina,Junior,1250,True,Remoto 100%,Tecnología/SaaS,0.7,3.2,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2450,True,Híbrido,Telecomunicaciones,3.3,2.9,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,9400,True,Remoto 100%,Consulting,5.9,4.1,1,1,1,1,1,0,1,0,1
+Argentina,Junior,1100,False,Híbrido,Banca,1.0,3.6,0,0,1,0,1,0,0,0,1
+EEUU,Junior,6050,True,Presencial,Tech/SaaS,1.8,3.7,1,1,0,0,0,1,0,0,1
+Argentina,Senior,4800,True,Híbrido,Gobierno,8.3,3.9,1,1,0,0,1,0,1,0,1
+Argentina,Semi-Senior,2850,False,Híbrido,Telecomunicaciones,4.0,3.8,0,1,0,1,1,0,0,1,0
+Argentina,Semi-Senior,2800,True,Presencial,Tecnología/SaaS,2.7,2.3,1,1,1,1,1,1,0,1,1
+EEUU,Junior,5000,True,Remoto 100%,Media,1.5,2.8,1,1,0,1,1,0,0,1,0
+Argentina,Semi-Senior,2400,False,Remoto 100%,Manufactura,4.6,4.4,1,1,0,1,0,0,0,1,1
+Argentina,Semi-Senior,1850,False,Híbrido,Banca,3.8,4.4,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,Consulting,2.7,4.9,1,1,0,1,1,1,1,1,1
+Argentina,Junior,1100,False,Híbrido,E-commerce,1.0,2.7,1,1,1,0,1,0,0,0,1
+EEUU,Junior,5750,True,Híbrido,Tech/SaaS,0.2,4.0,0,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2350,True,Híbrido,E-commerce,3.1,3.6,1,1,1,0,1,0,0,0,1
+Argentina,Senior,4650,True,Híbrido,Consultoría,12.9,2.9,1,1,1,1,0,0,1,0,1
+EEUU,Senior,17500,True,Remoto 100%,E-commerce,9.0,4.5,0,1,0,0,0,0,1,1,1
+Argentina,Semi-Senior,1500,False,Híbrido,Gobierno,4.3,4.0,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2550,False,Remoto 100%,E-commerce,3.0,4.1,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,1650,False,Remoto 100%,Salud,5.4,3.4,1,1,0,1,1,1,0,0,0
+EEUU,Senior,15500,True,Remoto 100%,Consulting,10.0,4.4,1,1,0,0,1,1,0,1,1
+EEUU,Senior,10350,True,Remoto 100%,Healthcare,6.1,3.8,1,0,0,1,1,0,1,1,1
+Argentina,Junior,1300,True,Remoto 100%,Retail,0.9,3.5,1,1,1,0,1,0,0,0,0
+Argentina,Junior,1200,False,Híbrido,Tecnología/SaaS,1.9,3.5,0,0,1,0,1,0,0,1,0
+Argentina,Senior,3750,False,Híbrido,Gobierno,14.1,3.4,1,1,1,1,1,0,1,0,1
+EEUU,Junior,6500,True,Híbrido,Tech/SaaS,0.6,4.0,0,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,Finance,4.6,3.3,1,1,0,1,1,0,1,1,0
+EEUU,Senior,14900,True,Híbrido,Consulting,13.5,4.2,1,1,0,0,1,0,0,1,1
+EEUU,Junior,6000,True,Híbrido,Fintech,1.7,3.5,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9100,True,Remoto 100%,Healthcare,4.3,3.4,1,1,0,1,1,1,0,1,1
+EEUU,Senior,14150,True,Remoto 100%,Consulting,12.3,4.2,1,1,0,1,1,1,1,0,1
+EEUU,Semi-Senior,8150,True,Presencial,E-commerce,3.2,4.5,1,1,1,1,0,1,0,0,1
+Argentina,Junior,850,False,Remoto 100%,E-commerce,2.1,4.8,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,3300,True,Presencial,Banca,4.1,3.1,1,1,0,0,1,1,0,0,0
+EEUU,Senior,12650,True,Remoto 100%,Consulting,10.4,3.4,1,1,0,0,0,1,1,0,1
+Argentina,Semi-Senior,1600,True,Híbrido,Gobierno,2.9,4.1,1,1,1,0,1,0,0,0,1
+Argentina,Senior,5750,True,Híbrido,E-commerce,12.4,4.2,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,8600,True,Remoto 100%,Media,3.8,3.3,1,1,0,1,1,0,0,1,1
+Argentina,Junior,1400,False,Híbrido,Banca,0.9,3.2,1,1,1,1,1,1,0,0,1
+EEUU,Junior,5050,True,Presencial,E-commerce,1.6,3.2,1,1,1,1,1,0,0,0,1
+EEUU,Junior,5650,True,Remoto 100%,Government,2.2,3.9,1,1,1,0,1,0,0,1,0
+EEUU,Senior,14150,True,Remoto 100%,Manufacturing,9.9,4.9,1,0,1,1,0,1,1,1,1
+Argentina,Senior,2050,False,Remoto 100%,Gobierno,7.6,3.3,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,9200,True,Remoto 100%,E-commerce,5.7,5.0,1,0,1,1,1,1,0,0,0
+EEUU,Semi-Senior,7900,True,Remoto 100%,Fintech,3.8,4.8,1,1,0,0,1,1,0,0,1
+Argentina,Junior,1350,True,Híbrido,Consultoría,1.6,2.6,0,0,1,0,1,0,0,1,0
+Argentina,Semi-Senior,3300,True,Remoto 100%,Telecomunicaciones,4.7,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Senior,13150,True,Presencial,Fintech,12.8,4.2,1,1,0,0,1,1,1,1,1
+EEUU,Senior,13850,True,Remoto 100%,E-commerce,11.8,5.0,1,1,0,1,0,0,1,1,0
+Argentina,Junior,850,False,Presencial,Telecomunicaciones,0.7,2.2,1,1,0,1,1,0,0,0,0
+EEUU,Senior,13800,True,Híbrido,Healthcare,12.4,4.4,0,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2400,True,Híbrido,Consultoría,4.1,4.3,1,1,1,0,1,1,0,0,0
+Argentina,Junior,1200,True,Remoto 100%,Gobierno,2.4,4.2,0,1,0,1,1,0,0,0,0
+EEUU,Junior,6900,True,Híbrido,Finance,0.9,3.8,1,0,0,0,1,0,0,0,1
+EEUU,Semi-Senior,10350,True,Remoto 100%,Consulting,4.7,2.7,1,1,1,1,0,1,0,1,1
+Argentina,Junior,1350,True,Híbrido,Tecnología/SaaS,2.0,2.9,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8200,True,Remoto 100%,E-commerce,4.2,3.9,0,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,10950,True,Presencial,Fintech,4.7,3.4,1,1,1,1,0,1,1,1,1
+Argentina,Semi-Senior,2550,True,Híbrido,Fintech,2.7,3.7,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1150,False,Remoto 100%,Salud,2.5,3.7,0,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9150,True,Remoto 100%,Finance,4.4,4.3,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,1900,True,Remoto 100%,Consultoría,4.3,3.0,1,1,1,0,1,1,1,1,0
+EEUU,Junior,4950,True,Híbrido,Tech/SaaS,0.2,3.7,1,1,0,0,1,1,0,0,1
+Argentina,Junior,1350,True,Híbrido,Telecomunicaciones,1.8,3.8,1,1,1,1,1,0,0,0,1
+EEUU,Junior,4800,True,Híbrido,Manufacturing,2.3,3.8,1,1,0,0,0,0,1,0,0
+Argentina,Junior,900,False,Remoto 100%,Telecomunicaciones,2.3,3.7,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1050,True,Presencial,Consultoría,0.1,3.4,1,1,0,1,1,0,0,0,0
+Argentina,Senior,2950,False,Híbrido,Salud,11.7,3.7,1,1,1,0,1,1,1,1,1
+EEUU,Semi-Senior,9150,True,Remoto 100%,Fintech,2.5,2.9,1,1,1,1,1,1,0,0,1
+Argentina,Senior,5050,True,Remoto 100%,Retail,12.5,3.7,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,9650,True,Remoto 100%,Healthcare,4.0,3.8,1,1,1,0,1,0,1,1,1
+EEUU,Junior,6000,False,Presencial,Finance,2.4,2.4,1,1,0,0,1,0,0,1,0
+EEUU,Semi-Senior,8550,True,Remoto 100%,Media,5.2,4.0,1,1,1,0,0,0,0,1,1
+Argentina,Senior,4050,False,Híbrido,E-commerce,14.3,3.3,1,1,1,0,1,1,1,1,0
+Argentina,Junior,1100,False,Remoto 100%,Banca,1.9,3.8,1,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2450,False,Remoto 100%,Telecomunicaciones,3.1,3.8,1,1,1,0,1,1,0,1,0
+EEUU,Semi-Senior,7650,True,Remoto 100%,E-commerce,5.0,4.9,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,1500,False,Remoto 100%,E-commerce,4.1,3.9,0,1,0,1,1,0,0,0,0
+Argentina,Senior,3900,True,Híbrido,Telecomunicaciones,8.9,3.8,1,1,1,1,0,0,0,1,1
+Argentina,Senior,4500,False,Híbrido,Consultoría,11.3,4.6,1,1,1,1,1,0,0,0,1
+EEUU,Senior,13500,True,Remoto 100%,Manufacturing,14.5,3.5,1,1,1,0,1,1,1,1,0
+Argentina,Semi-Senior,3250,True,Remoto 100%,E-commerce,3.2,2.9,0,1,1,1,1,0,0,0,1
+EEUU,Senior,11550,True,Remoto 100%,Tech/SaaS,12.7,3.9,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1000,True,Híbrido,Tecnología/SaaS,2.3,3.9,1,1,0,1,1,0,0,0,0
+EEUU,Junior,5450,True,Remoto 100%,Tech/SaaS,1.4,3.2,1,1,1,0,1,0,0,1,1
+Argentina,Junior,950,False,Presencial,Gobierno,2.4,3.8,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,9100,True,Remoto 100%,Media,2.9,4.2,1,1,1,0,1,0,1,1,1
+Argentina,Junior,950,False,Remoto 100%,Banca,0.5,4.2,1,0,1,0,1,0,0,0,0
+Argentina,Semi-Senior,1850,True,Remoto 100%,Manufactura,4.0,3.6,1,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,8500,True,Presencial,Healthcare,4.7,3.3,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1050,False,Remoto 100%,Salud,1.8,3.0,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Gobierno,3.8,2.5,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,9900,True,Híbrido,Tech/SaaS,5.7,4.2,1,1,1,0,1,0,1,1,1
+Argentina,Junior,1100,False,Presencial,Telecomunicaciones,2.0,2.9,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1200,True,Presencial,Retail,0.5,2.9,0,0,1,1,1,0,0,1,0
+EEUU,Senior,17400,True,Remoto 100%,Fintech,14.6,3.8,1,1,0,0,1,0,1,1,1
+Argentina,Senior,3400,True,Remoto 100%,Fintech,12.2,4.6,1,1,1,0,1,0,0,0,1
+EEUU,Junior,6400,True,Remoto 100%,Fintech,0.3,3.9,1,1,0,1,0,1,1,0,1
+Argentina,Senior,3650,True,Híbrido,Salud,6.2,4.0,1,1,1,1,1,1,0,0,1
+Argentina,Senior,5050,True,Remoto 100%,Consultoría,7.7,4.5,1,1,0,0,1,1,1,0,1
+EEUU,Semi-Senior,8000,True,Híbrido,Government,4.4,5.0,1,1,0,0,0,0,1,0,1
+EEUU,Semi-Senior,9100,True,Remoto 100%,Media,3.1,4.4,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,8750,True,Remoto 100%,Media,2.6,2.5,1,1,1,0,0,0,0,0,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Retail,5.6,3.0,1,0,1,1,1,0,0,0,1
+Argentina,Junior,850,False,Remoto 100%,Fintech,2.3,3.5,0,1,1,0,0,1,0,0,1
+Argentina,Senior,4750,True,Remoto 100%,Banca,11.9,2.3,1,1,0,0,1,1,0,0,1
+Argentina,Semi-Senior,2750,True,Presencial,Telecomunicaciones,2.5,3.9,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,9800,True,Remoto 100%,Government,3.8,3.5,1,1,1,0,1,1,0,0,1
+Argentina,Senior,3750,False,Híbrido,Consultoría,14.7,2.1,1,1,1,0,0,0,0,1,1
+Argentina,Junior,1200,False,Remoto 100%,Retail,1.8,2.4,0,1,0,1,1,0,0,0,0
+EEUU,Semi-Senior,8150,True,Remoto 100%,E-commerce,2.5,3.3,1,1,1,0,0,0,0,0,1
+Argentina,Junior,850,True,Remoto 100%,Tecnología/SaaS,2.2,2.4,0,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2100,False,Presencial,Tecnología/SaaS,4.4,3.1,0,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2500,False,Híbrido,Consultoría,3.8,3.1,1,1,1,1,0,0,0,0,1
+EEUU,Junior,5450,True,Remoto 100%,Media,2.2,4.2,1,1,0,0,1,0,1,1,1
+Argentina,Junior,950,False,Remoto 100%,Fintech,1.5,3.3,0,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2550,True,Remoto 100%,Gobierno,3.4,2.7,1,1,1,1,0,1,0,0,0
+EEUU,Junior,7000,True,Remoto 100%,Consulting,1.5,3.7,1,1,0,0,1,0,0,0,1
+Argentina,Junior,1400,True,Remoto 100%,Manufactura,0.5,3.3,0,1,0,1,1,0,0,0,0
+EEUU,Senior,13000,True,Híbrido,Finance,13.4,3.3,1,1,1,0,1,1,1,1,1
+EEUU,Semi-Senior,8250,True,Remoto 100%,Retail,4.2,3.0,1,1,0,0,1,1,0,0,1
+Argentina,Junior,750,False,Híbrido,Fintech,1.6,3.1,0,1,1,0,0,0,0,0,1
+EEUU,Semi-Senior,9900,True,Remoto 100%,Retail,5.4,3.0,1,1,0,1,0,1,0,1,1
+Argentina,Semi-Senior,1900,False,Remoto 100%,Gobierno,5.8,3.4,1,1,1,1,1,0,1,0,1
+EEUU,Senior,14100,True,Híbrido,Government,14.6,4.3,1,1,1,1,1,0,0,1,1
+Argentina,Senior,2550,False,Híbrido,Tecnología/SaaS,11.9,3.7,1,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,9400,True,Remoto 100%,Fintech,2.9,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8700,True,Híbrido,Manufacturing,5.7,2.8,1,1,0,1,1,0,0,1,1
+EEUU,Senior,10550,True,Híbrido,Finance,9.5,4.0,1,1,1,0,0,1,1,1,1
+Argentina,Senior,3600,False,Presencial,Retail,10.8,3.5,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,7900,True,Remoto 100%,Manufacturing,5.9,4.4,1,1,1,1,0,0,0,1,1
+EEUU,Semi-Senior,8350,True,Híbrido,Fintech,4.0,3.0,1,1,0,0,1,0,1,1,0
+EEUU,Senior,12900,True,Remoto 100%,Fintech,7.4,3.7,1,1,0,1,0,0,1,1,0
+EEUU,Semi-Senior,9150,True,Presencial,Healthcare,2.5,3.6,1,1,1,1,0,0,0,0,0
+EEUU,Semi-Senior,9200,False,Híbrido,Tech/SaaS,5.9,5.0,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2950,True,Presencial,Fintech,5.3,3.4,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2350,False,Remoto 100%,Salud,5.1,2.5,1,1,1,1,1,0,0,1,0
+EEUU,Senior,14000,True,Remoto 100%,Government,11.7,4.0,1,1,1,0,1,1,1,0,1
+Argentina,Semi-Senior,2000,False,Híbrido,Salud,5.4,3.8,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,9850,True,Híbrido,E-commerce,3.8,3.6,1,1,0,1,1,0,1,1,1
+EEUU,Senior,11450,True,Híbrido,Media,8.2,4.1,1,1,1,0,1,0,1,1,1
+Argentina,Junior,750,False,Presencial,Fintech,1.1,3.4,0,1,1,0,1,0,1,0,1
+Argentina,Junior,1200,True,Híbrido,Gobierno,2.2,2.8,1,1,0,1,1,0,0,0,1
+EEUU,Junior,5100,True,Híbrido,Consulting,2.4,3.3,1,1,1,0,1,0,1,1,1
+EEUU,Junior,5800,True,Remoto 100%,Retail,2.2,3.7,0,1,1,1,1,0,1,0,0
+Argentina,Senior,5450,True,Remoto 100%,Consultoría,11.7,3.9,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2650,True,Híbrido,Salud,3.2,4.6,0,1,1,1,1,0,0,0,0
+Argentina,Senior,6000,True,Remoto 100%,Gobierno,8.5,3.9,1,1,1,1,1,0,1,1,0
+EEUU,Junior,5750,True,Presencial,Fintech,1.2,3.6,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6950,True,Remoto 100%,E-commerce,2.3,2.8,0,1,0,1,1,0,1,1,1
+Argentina,Senior,4050,False,Remoto 100%,E-commerce,11.9,3.6,1,1,1,0,1,0,1,0,1
+EEUU,Senior,13500,True,Remoto 100%,Government,11.0,5.0,1,1,1,1,0,1,0,1,1
+EEUU,Senior,16350,True,Híbrido,Retail,9.5,5.0,1,1,0,1,1,1,0,0,1
+Argentina,Senior,4900,False,Presencial,Banca,11.0,4.3,1,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2050,False,Híbrido,Retail,2.5,3.5,1,1,0,0,1,1,1,1,1
+Argentina,Semi-Senior,2200,True,Híbrido,Fintech,4.7,5.0,1,1,1,0,1,0,0,0,0
+Argentina,Junior,1350,True,Remoto 100%,Manufactura,1.8,3.6,1,1,1,1,1,0,0,0,0
+Argentina,Junior,750,False,Presencial,Tecnología/SaaS,1.2,4.1,0,1,0,1,1,1,0,0,0
+EEUU,Senior,13950,True,Híbrido,Consulting,6.4,3.8,1,1,1,1,1,0,0,1,0
+EEUU,Junior,6850,True,Presencial,Retail,1.5,4.1,1,1,1,0,1,1,1,0,0
+Argentina,Junior,1250,True,Remoto 100%,Tecnología/SaaS,0.6,3.0,0,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,9650,True,Híbrido,Retail,2.6,3.6,1,1,1,1,1,1,0,1,0
+Argentina,Senior,4600,True,Presencial,Gobierno,14.8,3.2,1,1,0,1,1,0,0,0,1
+Argentina,Senior,3650,False,Híbrido,Gobierno,8.0,4.0,1,1,1,1,1,0,1,1,1
+Argentina,Senior,4100,False,Remoto 100%,Tecnología/SaaS,13.9,4.1,0,1,1,1,1,0,0,1,0
+EEUU,Junior,6150,True,Presencial,Media,0.3,2.1,1,1,0,1,0,0,0,1,0
+Argentina,Semi-Senior,2700,True,Remoto 100%,Consultoría,4.0,3.7,1,1,1,1,1,0,0,1,1
+EEUU,Senior,14650,True,Remoto 100%,Retail,10.8,4.3,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2150,True,Híbrido,Telecomunicaciones,5.6,3.8,1,1,0,1,1,0,1,1,0
+Argentina,Senior,4350,True,Híbrido,Salud,11.2,2.7,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1300,False,Presencial,Consultoría,1.6,2.6,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2950,True,Presencial,Salud,5.3,4.2,1,1,1,0,1,0,0,1,1
+Argentina,Junior,950,False,Híbrido,Fintech,1.8,3.3,1,0,1,0,1,0,0,0,0
+Argentina,Semi-Senior,1850,False,Híbrido,Fintech,2.9,2.6,1,1,1,0,0,1,0,0,1
+EEUU,Senior,16550,True,Remoto 100%,Media,7.2,3.9,1,1,0,1,0,0,1,1,1
+Argentina,Semi-Senior,3050,True,Remoto 100%,Tecnología/SaaS,3.7,4.4,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2700,True,Remoto 100%,Tecnología/SaaS,5.1,4.2,0,1,1,1,0,0,0,0,1
+Argentina,Senior,4100,False,Híbrido,Tecnología/SaaS,12.8,2.3,1,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,1700,False,Remoto 100%,Telecomunicaciones,4.4,4.2,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,7350,True,Remoto 100%,Tech/SaaS,2.6,4.3,1,1,1,1,0,1,1,1,1
+Argentina,Junior,1150,True,Híbrido,E-commerce,0.2,4.3,0,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Banca,4.8,4.5,0,1,1,1,1,1,1,0,1
+Argentina,Semi-Senior,3450,True,Presencial,E-commerce,4.8,4.1,1,1,1,1,1,0,1,0,0
+EEUU,Junior,4250,True,Híbrido,Manufacturing,1.9,3.5,0,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7400,True,Híbrido,Government,6.0,3.5,0,1,1,0,1,1,0,1,1
+Argentina,Junior,850,False,Presencial,Consultoría,1.2,4.2,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8750,True,Remoto 100%,Media,5.2,3.6,1,1,1,1,1,0,1,1,1
+Argentina,Junior,900,False,Presencial,Retail,2.1,4.4,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,1950,True,Remoto 100%,Tecnología/SaaS,3.5,2.9,1,1,1,1,1,0,0,1,1
+Argentina,Senior,5300,True,Remoto 100%,Salud,13.1,3.4,1,1,1,1,1,0,0,0,1
+EEUU,Senior,14200,True,Remoto 100%,Government,12.0,3.3,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,3050,True,Presencial,Consultoría,2.9,4.8,0,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2750,False,Híbrido,Manufactura,3.5,3.1,1,1,1,1,1,0,0,1,1
+EEUU,Junior,6600,True,Híbrido,Tech/SaaS,0.6,3.5,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,8600,True,Presencial,Media,2.9,4.2,1,1,0,1,1,0,0,0,0
+Argentina,Senior,4150,True,Remoto 100%,Telecomunicaciones,8.8,3.8,1,1,1,1,0,0,0,0,1
+Argentina,Semi-Senior,1400,True,Remoto 100%,Salud,4.7,4.1,1,0,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2150,False,Remoto 100%,Gobierno,4.6,2.3,1,1,0,1,1,0,0,0,1
+Argentina,Junior,850,False,Presencial,Gobierno,0.8,3.1,0,1,1,1,1,0,1,0,0
+EEUU,Junior,4950,True,Remoto 100%,Media,0.4,4.6,0,1,0,0,0,0,0,1,1
+Argentina,Junior,1150,False,Presencial,Tecnología/SaaS,2.4,3.2,1,1,0,1,1,0,0,0,0
+EEUU,Senior,12200,True,Remoto 100%,Healthcare,9.6,4.2,1,1,0,1,1,0,0,1,1
+EEUU,Senior,11400,True,Híbrido,Government,12.4,3.4,1,1,1,0,1,1,1,1,1
+Argentina,Senior,3750,True,Remoto 100%,Tecnología/SaaS,13.8,3.8,1,1,1,0,0,1,1,1,0
+EEUU,Senior,13350,True,Híbrido,Fintech,12.9,4.3,1,1,0,1,0,1,1,0,1
+EEUU,Semi-Senior,6900,True,Remoto 100%,Consulting,5.8,3.6,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1050,False,Híbrido,E-commerce,2.2,3.7,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,7650,True,Remoto 100%,Government,5.9,4.0,1,1,0,1,0,1,1,1,1
+Argentina,Semi-Senior,2000,False,Híbrido,Tecnología/SaaS,5.1,3.0,1,1,1,1,0,1,0,0,0
+Argentina,Semi-Senior,2400,False,Remoto 100%,Fintech,5.5,3.2,0,1,0,0,1,0,0,0,0
+Argentina,Senior,4100,True,Remoto 100%,E-commerce,9.9,3.7,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2800,True,Híbrido,Tecnología/SaaS,5.4,4.2,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7900,True,Híbrido,Consulting,3.2,3.3,1,1,1,1,0,1,0,0,1
+Argentina,Senior,5100,False,Remoto 100%,Consultoría,6.6,3.0,1,1,1,1,1,0,0,0,1
+Argentina,Senior,5300,True,Presencial,Fintech,7.1,4.6,1,1,1,1,1,0,0,1,1
+EEUU,Junior,5050,True,Híbrido,Media,2.1,4.0,1,1,0,1,1,1,0,0,1
+Argentina,Semi-Senior,2350,False,Remoto 100%,E-commerce,4.3,3.3,0,1,1,0,1,0,0,0,0
+Argentina,Senior,6150,True,Híbrido,Telecomunicaciones,13.2,4.4,1,1,0,0,1,0,1,0,1
+Argentina,Semi-Senior,1400,True,Remoto 100%,Banca,4.1,2.9,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2500,False,Híbrido,E-commerce,3.5,5.0,1,1,1,0,1,0,0,0,1
+EEUU,Senior,14600,True,Remoto 100%,Media,14.6,4.3,1,1,1,1,0,1,1,1,1
+EEUU,Semi-Senior,6750,True,Remoto 100%,Government,3.3,3.8,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6800,True,Remoto 100%,Retail,1.2,2.9,1,1,0,1,1,1,0,0,1
+Argentina,Junior,850,False,Híbrido,E-commerce,0.5,3.5,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,1600,False,Híbrido,Gobierno,2.7,4.0,1,1,0,0,0,0,1,1,1
+Argentina,Junior,800,False,Remoto 100%,Manufactura,1.8,3.3,1,1,0,1,1,0,0,0,1
+EEUU,Senior,15100,True,Remoto 100%,Healthcare,12.8,3.7,1,1,1,0,0,1,1,1,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Gobierno,5.0,2.4,1,1,1,0,1,0,1,1,1
+EEUU,Junior,5300,True,Híbrido,Healthcare,2.2,4.7,1,1,0,1,1,0,0,1,0
+Argentina,Semi-Senior,3200,True,Híbrido,Salud,4.9,3.5,1,0,1,1,0,0,0,0,1
+Argentina,Junior,900,True,Híbrido,E-commerce,1.2,2.5,1,1,0,1,0,0,0,0,0
+Argentina,Semi-Senior,2350,False,Híbrido,Gobierno,3.7,3.2,1,1,0,0,1,1,0,1,0
+Argentina,Junior,550,True,Híbrido,Retail,2.3,4.3,0,1,0,1,1,0,0,0,0
+Argentina,Senior,5050,True,Remoto 100%,Banca,8.6,3.6,1,1,1,0,1,1,1,1,1
+EEUU,Junior,6100,True,Híbrido,Manufacturing,1.2,3.8,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,8700,True,Híbrido,Finance,4.5,3.4,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,1550,True,Híbrido,Consultoría,4.2,3.1,1,0,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2850,True,Híbrido,Fintech,5.3,4.3,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,1850,False,Presencial,Consultoría,3.8,4.8,0,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2600,True,Remoto 100%,Salud,4.2,3.7,1,1,1,1,1,1,0,1,0
+Argentina,Senior,6050,True,Híbrido,Retail,10.9,3.7,1,1,0,1,1,1,0,1,0
+EEUU,Semi-Senior,7950,True,Remoto 100%,E-commerce,5.7,3.1,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,6800,True,Presencial,Consulting,4.4,4.4,1,1,1,1,1,1,1,1,1
+Argentina,Senior,3500,False,Remoto 100%,E-commerce,9.8,4.5,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,3150,True,Híbrido,E-commerce,5.9,3.8,1,0,1,1,1,0,0,0,0
+Argentina,Junior,1100,True,Híbrido,Salud,0.3,2.9,1,1,1,0,1,0,1,0,0
+EEUU,Semi-Senior,8400,True,Híbrido,Government,2.8,3.9,1,1,1,0,1,0,1,0,1
+Argentina,Senior,4350,True,Híbrido,Banca,14.3,4.8,0,1,0,0,1,0,1,1,1
+Argentina,Junior,1250,True,Remoto 100%,Fintech,1.8,2.9,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Banca,2.6,4.4,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,1850,False,Remoto 100%,Fintech,3.3,3.3,1,1,1,1,0,0,1,1,1
+EEUU,Junior,7250,True,Híbrido,Government,1.7,5.0,1,1,1,1,1,0,0,0,0
+EEUU,Junior,6400,False,Híbrido,Healthcare,2.3,4.1,0,1,1,0,0,0,0,0,1
+Argentina,Senior,4000,True,Remoto 100%,Gobierno,14.7,4.3,1,1,1,0,1,1,0,1,0
+EEUU,Junior,6450,True,Híbrido,Healthcare,1.6,3.0,1,1,1,1,1,1,0,1,1
+Argentina,Senior,3550,False,Híbrido,Fintech,13.8,2.8,1,1,1,0,1,1,0,1,0
+EEUU,Junior,5950,True,Remoto 100%,Fintech,0.3,5.0,1,1,0,0,1,1,1,1,0
+Argentina,Junior,1150,False,Presencial,Retail,2.4,3.2,1,1,1,1,1,0,0,0,0
+Argentina,Senior,5600,True,Remoto 100%,Manufactura,7.3,2.4,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2900,True,Híbrido,Fintech,4.7,2.6,0,1,1,1,0,1,0,0,1
+EEUU,Semi-Senior,8350,True,Híbrido,Manufacturing,5.2,4.2,1,1,1,1,0,1,0,1,1
+EEUU,Semi-Senior,8150,True,Híbrido,Finance,3.9,3.8,0,1,1,1,1,1,1,0,1
+EEUU,Junior,5250,True,Remoto 100%,Consulting,0.7,3.4,0,1,0,1,1,0,1,0,0
+EEUU,Semi-Senior,8300,True,Remoto 100%,Tech/SaaS,5.3,4.0,1,1,1,1,0,1,1,1,1
+Argentina,Junior,1100,True,Presencial,Fintech,1.8,3.4,1,1,0,0,1,0,0,0,0
+Argentina,Junior,1400,True,Híbrido,Salud,1.4,3.7,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5750,True,Remoto 100%,E-commerce,1.0,3.4,0,0,0,1,0,0,0,1,0
+Argentina,Semi-Senior,2250,False,Híbrido,Consultoría,3.5,3.1,0,0,0,0,0,1,0,1,1
+EEUU,Senior,16400,True,Híbrido,Finance,7.3,5.0,1,1,1,0,0,0,1,1,1
+Argentina,Junior,1200,False,Híbrido,Retail,1.3,4.2,1,1,1,1,1,0,0,1,0
+EEUU,Junior,6500,True,Remoto 100%,Manufacturing,1.3,3.5,0,1,1,1,1,1,0,0,1
+EEUU,Senior,9800,True,Remoto 100%,Consulting,12.1,4.6,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,7900,True,Híbrido,Media,5.2,3.9,1,0,1,0,0,0,1,1,0
+Argentina,Junior,900,False,Híbrido,Consultoría,1.4,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9150,True,Remoto 100%,Healthcare,4.0,2.6,0,1,0,1,1,1,1,1,1
+Argentina,Junior,800,False,Híbrido,E-commerce,1.8,3.3,0,1,1,0,1,1,0,0,0
+EEUU,Semi-Senior,6450,True,Híbrido,Tech/SaaS,4.7,5.0,1,1,0,1,0,0,0,1,1
+EEUU,Junior,5850,True,Híbrido,E-commerce,2.4,4.2,1,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,9850,True,Remoto 100%,Tech/SaaS,4.6,4.6,1,1,0,1,1,1,1,1,1
+Argentina,Junior,1450,True,Híbrido,Tecnología/SaaS,1.8,3.4,1,1,1,0,1,0,0,0,1
+Argentina,Junior,800,False,Remoto 100%,E-commerce,2.3,2.8,1,1,1,0,1,0,0,0,1
+EEUU,Senior,13100,True,Híbrido,Healthcare,6.3,2.9,1,1,0,0,0,0,0,1,0
+EEUU,Junior,4650,True,Híbrido,Fintech,0.7,3.4,1,1,1,0,0,0,1,0,1
+EEUU,Junior,6250,True,Híbrido,Finance,0.8,3.2,1,1,0,1,1,0,0,0,1
+EEUU,Senior,12650,True,Remoto 100%,Government,12.6,5.0,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,3100,True,Remoto 100%,Fintech,4.3,4.6,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2100,True,Híbrido,Telecomunicaciones,3.1,2.1,1,1,1,1,1,0,0,0,1
+Argentina,Senior,5050,True,Híbrido,Telecomunicaciones,10.0,4.0,0,1,1,0,1,0,1,1,1
+Argentina,Junior,1250,False,Híbrido,Telecomunicaciones,0.3,4.1,1,0,0,0,1,0,0,0,0
+EEUU,Semi-Senior,8000,True,Remoto 100%,Media,5.6,3.7,1,0,1,0,0,0,0,1,1
+EEUU,Junior,7100,True,Híbrido,Finance,1.4,5.0,0,0,0,1,1,0,0,1,1
+Argentina,Junior,1150,False,Híbrido,Telecomunicaciones,0.8,3.9,1,0,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2200,False,Presencial,Retail,3.0,4.0,0,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,9100,False,Remoto 100%,Media,5.8,4.3,1,1,0,1,1,1,1,1,1
+Argentina,Semi-Senior,2950,False,Híbrido,Retail,4.5,3.0,0,1,1,0,1,0,0,0,0
+Argentina,Senior,3400,True,Híbrido,Consultoría,10.5,2.9,0,1,1,1,1,1,1,1,1
+EEUU,Junior,4650,True,Híbrido,Finance,1.7,3.8,1,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,9150,True,Híbrido,Consulting,3.1,2.9,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,8050,True,Presencial,Healthcare,2.9,2.9,1,1,0,1,1,0,0,1,1
+EEUU,Senior,12750,True,Remoto 100%,E-commerce,9.2,3.9,1,1,1,0,1,0,0,1,1
+EEUU,Senior,12850,True,Remoto 100%,Government,10.2,3.4,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,7750,True,Híbrido,Fintech,5.1,3.5,1,1,0,0,1,0,1,1,1
+EEUU,Senior,14150,True,Híbrido,Tech/SaaS,14.0,3.4,1,1,0,1,1,1,0,1,1
+Argentina,Senior,2500,False,Híbrido,Telecomunicaciones,13.8,4.2,1,0,0,0,1,1,1,0,1
+Argentina,Semi-Senior,3550,True,Híbrido,Consultoría,5.0,4.4,1,0,1,1,1,1,1,0,1
+EEUU,Senior,12300,True,Remoto 100%,Government,11.1,3.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1150,True,Híbrido,Consultoría,0.2,3.2,0,1,0,1,1,1,0,1,0
+EEUU,Junior,5900,True,Remoto 100%,Fintech,0.9,4.6,1,1,0,0,0,1,0,1,1
+EEUU,Senior,9800,True,Remoto 100%,Healthcare,14.9,3.0,1,1,0,0,1,0,0,1,1
+EEUU,Junior,6100,True,Híbrido,Tech/SaaS,0.9,2.4,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,9550,True,Presencial,Consulting,3.8,4.9,0,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,6750,True,Híbrido,Government,4.6,3.9,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2300,False,Híbrido,Manufactura,5.6,3.7,1,1,1,1,1,0,0,0,1
+Argentina,Senior,3050,False,Híbrido,Salud,9.4,3.9,1,1,1,1,1,0,0,1,0
+Argentina,Senior,3600,True,Híbrido,Gobierno,10.0,2.3,1,1,1,1,1,0,1,1,1
+Argentina,Senior,4250,False,Remoto 100%,Salud,11.5,3.4,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,10200,True,Híbrido,Healthcare,4.3,4.5,1,0,0,0,1,0,0,0,1
+Argentina,Senior,3050,False,Remoto 100%,Telecomunicaciones,11.4,2.5,1,1,1,0,1,0,0,1,1
+EEUU,Junior,5500,False,Presencial,Healthcare,1.7,3.1,1,1,1,0,0,0,0,0,0
+EEUU,Junior,4750,True,Remoto 100%,Retail,0.9,4.1,1,1,0,0,0,0,0,1,1
+Argentina,Junior,900,False,Híbrido,Banca,1.6,3.9,1,1,1,1,1,0,0,0,1
+EEUU,Senior,13750,True,Remoto 100%,E-commerce,9.3,2.8,1,0,1,1,1,0,1,1,1
+Argentina,Senior,4500,True,Híbrido,Banca,8.6,3.1,0,1,1,0,1,0,1,1,1
+Argentina,Senior,5550,True,Híbrido,Telecomunicaciones,14.4,3.7,0,1,0,1,1,0,1,0,1
+Argentina,Semi-Senior,2000,False,Híbrido,Retail,4.1,3.3,1,1,1,0,1,1,0,0,1
+EEUU,Junior,6100,True,Híbrido,Finance,2.1,4.2,0,1,1,0,1,0,0,1,0
+EEUU,Junior,6200,True,Híbrido,Finance,2.0,3.6,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,2900,True,Híbrido,E-commerce,3.5,5.0,0,1,1,0,1,0,1,1,0
+Argentina,Senior,5450,True,Remoto 100%,Gobierno,10.1,3.7,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2150,True,Remoto 100%,Banca,5.9,3.8,0,1,1,0,0,0,0,0,1
+Argentina,Junior,1100,True,Presencial,Telecomunicaciones,1.1,3.3,0,1,1,0,1,0,0,0,0
+Argentina,Junior,1100,True,Híbrido,Telecomunicaciones,0.7,3.6,1,0,1,0,0,0,0,0,0
+EEUU,Semi-Senior,7150,True,Remoto 100%,Healthcare,3.0,4.1,1,1,1,1,0,0,0,1,0
+Argentina,Junior,1600,True,Híbrido,Salud,2.1,3.4,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2100,True,Remoto 100%,Manufactura,2.6,2.0,0,1,1,0,1,0,0,0,1
+Argentina,Junior,1000,False,Híbrido,E-commerce,1.7,3.8,0,1,1,0,1,0,1,1,0
+EEUU,Semi-Senior,9550,True,Híbrido,Media,5.2,4.8,1,1,0,0,0,1,0,1,0
+Argentina,Senior,5800,True,Remoto 100%,Salud,8.8,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6850,True,Remoto 100%,Fintech,1.6,2.2,1,1,0,1,1,1,0,1,0
+EEUU,Senior,16950,True,Híbrido,E-commerce,8.6,3.9,1,1,0,1,1,1,0,1,1
+EEUU,Semi-Senior,8600,True,Remoto 100%,Manufacturing,4.8,4.8,0,0,1,0,1,1,1,1,0
+EEUU,Junior,4900,True,Híbrido,Finance,1.2,4.5,1,1,0,0,0,1,0,1,0
+EEUU,Semi-Senior,9500,True,Híbrido,E-commerce,5.5,2.9,1,1,0,1,0,0,1,1,1
+Argentina,Senior,6550,True,Híbrido,Tecnología/SaaS,14.5,4.3,0,1,1,1,1,0,0,0,1
+EEUU,Junior,5550,False,Presencial,Fintech,2.0,4.1,0,1,0,0,1,0,0,1,0
+EEUU,Junior,7050,True,Remoto 100%,Finance,0.1,4.2,0,1,1,0,1,0,0,0,1
+Argentina,Senior,4350,False,Remoto 100%,Fintech,13.1,3.4,1,1,1,1,1,0,0,1,1
+Argentina,Senior,4700,True,Híbrido,Tecnología/SaaS,12.3,2.6,1,1,0,0,1,1,1,1,0
+EEUU,Senior,16400,True,Remoto 100%,Media,14.3,4.8,1,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2750,True,Remoto 100%,Retail,3.1,3.3,1,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,9700,True,Híbrido,Manufacturing,5.6,4.7,1,1,0,0,1,0,1,1,1
+EEUU,Senior,13700,True,Remoto 100%,Finance,9.5,3.7,1,1,1,1,1,0,0,1,1
+Argentina,Senior,4250,False,Presencial,Consultoría,7.3,2.9,1,1,1,1,0,0,1,0,0
+Argentina,Junior,1300,False,Híbrido,Gobierno,2.2,3.8,0,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Fintech,2.9,3.9,1,1,1,1,1,0,0,1,0
+EEUU,Junior,5050,True,Remoto 100%,Healthcare,1.5,3.6,1,1,0,0,0,0,1,0,0
+Argentina,Junior,800,False,Remoto 100%,Retail,2.1,5.0,1,1,1,1,1,0,0,0,0
+EEUU,Senior,11800,True,Híbrido,Fintech,9.0,4.7,1,1,1,0,0,1,0,1,1
+EEUU,Semi-Senior,7950,True,Remoto 100%,Fintech,4.8,3.0,1,1,1,0,1,0,0,0,1
+EEUU,Senior,11900,True,Híbrido,Healthcare,13.6,2.5,1,1,1,0,1,0,1,1,1
+EEUU,Senior,14100,True,Híbrido,Tech/SaaS,6.7,3.0,1,1,0,1,0,0,0,1,1
+EEUU,Semi-Senior,8000,True,Presencial,Finance,5.0,5.0,1,1,0,1,1,0,0,0,0
+EEUU,Junior,5700,True,Presencial,E-commerce,1.5,3.0,1,0,0,0,1,0,1,0,0
+Argentina,Semi-Senior,3350,True,Remoto 100%,Manufactura,5.0,3.1,1,1,0,1,1,0,0,0,0
+EEUU,Senior,11650,True,Híbrido,Healthcare,11.7,5.0,1,1,0,1,1,1,1,1,1
+EEUU,Junior,6000,True,Híbrido,Tech/SaaS,2.1,3.1,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,6950,True,Híbrido,Consulting,5.2,4.4,1,1,0,0,1,1,0,1,1
+EEUU,Semi-Senior,8100,True,Híbrido,Consulting,2.8,4.0,1,0,0,0,1,1,1,0,1
+Argentina,Senior,3550,False,Remoto 100%,Gobierno,11.5,2.9,1,0,1,1,1,1,0,0,0
+EEUU,Junior,6450,True,Remoto 100%,Government,0.8,3.7,1,1,1,0,0,0,0,0,1
+Argentina,Semi-Senior,1850,False,Remoto 100%,Tecnología/SaaS,2.8,3.6,1,0,1,1,1,0,0,0,1
+Argentina,Junior,800,False,Híbrido,Tecnología/SaaS,1.8,5.0,1,1,1,1,0,0,0,0,1
+EEUU,Junior,6050,True,Híbrido,Fintech,1.2,3.5,0,1,0,1,1,0,0,0,1
+EEUU,Senior,13650,True,Remoto 100%,Fintech,14.7,3.9,1,1,1,0,1,1,1,1,1
+EEUU,Semi-Senior,7100,True,Presencial,Healthcare,5.2,3.2,1,1,0,0,0,0,1,1,0
+EEUU,Semi-Senior,8000,True,Híbrido,Retail,5.0,4.4,1,1,1,0,0,1,1,1,1
+EEUU,Junior,5950,True,Híbrido,Retail,2.3,4.6,0,1,0,1,0,0,1,0,1
+Argentina,Semi-Senior,3350,True,Remoto 100%,Consultoría,3.5,4.1,1,1,1,1,0,0,0,0,0
+EEUU,Semi-Senior,8250,True,Remoto 100%,Tech/SaaS,3.0,3.5,1,1,0,1,0,1,1,1,1
+Argentina,Semi-Senior,2750,True,Híbrido,E-commerce,3.5,3.2,1,1,1,1,1,0,1,0,0
+Argentina,Junior,1150,True,Híbrido,Telecomunicaciones,1.8,3.4,1,1,1,0,1,0,0,0,0
+EEUU,Senior,15950,True,Híbrido,Manufacturing,7.8,3.7,1,1,0,1,1,1,1,0,1
+Argentina,Semi-Senior,2650,True,Híbrido,Retail,4.7,3.6,0,1,1,1,1,1,1,0,0
+EEUU,Semi-Senior,9850,True,Remoto 100%,Media,3.7,3.8,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,1850,True,Híbrido,Telecomunicaciones,4.9,4.5,1,1,0,1,1,1,0,0,1
+Argentina,Junior,1400,False,Remoto 100%,Retail,2.3,3.4,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2750,False,Remoto 100%,Consultoría,2.5,3.2,0,1,1,0,1,0,0,0,1
+EEUU,Senior,13900,True,Remoto 100%,Finance,13.6,3.7,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,3350,True,Remoto 100%,Tecnología/SaaS,4.2,3.6,0,1,1,1,1,1,0,1,0
+EEUU,Semi-Senior,6650,True,Híbrido,Tech/SaaS,3.2,4.5,1,1,0,1,1,0,0,1,1
+Argentina,Junior,1000,False,Presencial,Consultoría,0.2,2.4,1,0,1,1,1,1,0,0,0
+Argentina,Senior,5350,True,Remoto 100%,Gobierno,13.8,4.3,1,1,0,0,1,1,1,0,1
+Argentina,Semi-Senior,2500,False,Presencial,Retail,4.6,5.0,1,1,0,0,1,0,0,0,0
+EEUU,Semi-Senior,9600,True,Remoto 100%,Retail,3.9,3.7,1,1,1,0,1,1,1,1,1
+EEUU,Junior,6050,True,Remoto 100%,Tech/SaaS,1.7,3.2,1,1,0,1,0,1,0,0,0
+Argentina,Senior,4800,True,Remoto 100%,Retail,11.2,2.7,1,1,1,1,1,0,1,0,0
+Argentina,Junior,1100,False,Híbrido,Consultoría,1.0,2.9,0,1,1,0,1,0,0,1,0
+EEUU,Senior,15900,True,Remoto 100%,Tech/SaaS,14.2,2.9,1,1,1,0,0,0,1,1,1
+EEUU,Junior,4850,False,Híbrido,Healthcare,1.3,4.5,1,0,0,1,0,0,1,1,1
+Argentina,Senior,3950,True,Híbrido,Telecomunicaciones,10.5,4.2,1,1,0,1,1,1,0,0,1
+EEUU,Senior,9350,True,Híbrido,Fintech,13.0,4.0,1,1,0,0,0,1,1,1,1
+Argentina,Semi-Senior,2600,True,Híbrido,Banca,3.9,3.7,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,7900,True,Híbrido,Consulting,4.5,3.4,1,1,1,1,0,0,0,1,1
+Argentina,Junior,1250,False,Híbrido,Gobierno,0.3,3.6,1,1,1,1,1,0,0,0,0
+Argentina,Senior,3100,False,Presencial,Manufactura,7.4,3.9,0,1,1,0,1,0,0,1,1
+EEUU,Junior,5250,True,Híbrido,Fintech,0.7,4.4,1,1,1,0,1,0,0,1,0
+EEUU,Junior,5500,True,Híbrido,Media,0.6,2.9,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7400,True,Remoto 100%,Tech/SaaS,4.9,4.3,1,1,0,0,1,0,1,0,1
+Argentina,Junior,1300,False,Remoto 100%,Fintech,2.3,3.8,0,1,0,1,1,0,1,0,0
+EEUU,Senior,12200,True,Híbrido,Government,10.7,4.2,1,1,1,0,0,0,0,1,1
+EEUU,Semi-Senior,10500,True,Híbrido,Media,4.5,4.2,1,1,0,0,1,0,0,0,1
+EEUU,Junior,4750,True,Híbrido,Consulting,0.2,5.0,1,0,0,1,0,0,0,0,1
+EEUU,Semi-Senior,6900,True,Híbrido,Retail,5.3,4.8,1,1,0,1,0,0,0,1,1
+Argentina,Senior,5650,True,Híbrido,Retail,8.2,3.4,1,1,1,1,1,0,0,1,1
+Argentina,Junior,600,False,Remoto 100%,Tecnología/SaaS,1.8,3.6,0,0,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8150,True,Presencial,Finance,5.6,3.7,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2300,False,Híbrido,Banca,5.2,5.0,0,1,1,0,1,0,0,0,1
+EEUU,Senior,12050,True,Remoto 100%,Retail,12.7,4.2,1,1,0,1,1,0,1,1,1
+Argentina,Junior,900,False,Híbrido,Banca,1.7,5.0,0,1,0,1,1,0,0,1,0
+Argentina,Senior,4650,True,Presencial,Manufactura,8.5,4.1,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,8650,True,Remoto 100%,Manufacturing,2.6,3.3,0,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,3600,True,Híbrido,Consultoría,3.9,3.5,1,1,1,0,1,0,0,0,0
+EEUU,Junior,5350,True,Híbrido,Manufacturing,0.1,4.0,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2100,False,Presencial,Manufactura,5.1,3.6,1,1,1,1,1,0,0,1,1
+Argentina,Senior,5800,True,Híbrido,Gobierno,14.8,2.9,1,1,1,1,0,0,1,1,1
+EEUU,Junior,5650,True,Remoto 100%,Fintech,1.1,3.8,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2350,False,Remoto 100%,Retail,4.8,4.3,0,0,0,1,1,0,0,0,0
+EEUU,Semi-Senior,9200,True,Híbrido,E-commerce,6.0,4.1,1,1,1,1,0,0,1,1,1
+Argentina,Senior,3650,False,Remoto 100%,Consultoría,10.0,3.5,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,1850,False,Híbrido,Fintech,3.8,3.6,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,10350,True,Remoto 100%,Tech/SaaS,5.1,4.9,1,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,8700,True,Híbrido,Consulting,2.5,4.2,1,1,1,0,1,1,1,1,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Retail,4.2,3.0,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,10600,True,Presencial,Consulting,2.9,4.8,1,1,0,0,0,1,1,0,1
+Argentina,Senior,4300,False,Remoto 100%,Tecnología/SaaS,7.8,2.5,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1100,False,Remoto 100%,Retail,1.2,4.4,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1000,False,Híbrido,E-commerce,2.1,3.4,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2200,False,Remoto 100%,Telecomunicaciones,6.0,2.2,1,1,1,0,1,1,0,0,1
+EEUU,Senior,13150,True,Híbrido,Finance,10.5,3.8,1,1,0,1,1,1,0,1,1
+EEUU,Junior,4950,True,Híbrido,Tech/SaaS,1.6,3.7,1,0,1,0,0,1,1,1,1
+Argentina,Senior,4650,True,Presencial,Fintech,12.2,2.8,1,1,1,0,1,1,1,0,1
+Argentina,Junior,950,True,Híbrido,E-commerce,0.4,4.0,1,0,0,0,1,0,0,0,0
+Argentina,Junior,950,False,Híbrido,Consultoría,1.4,3.8,1,1,1,0,1,1,0,0,0
+Argentina,Semi-Senior,2900,True,Híbrido,Telecomunicaciones,4.2,3.9,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,7250,True,Remoto 100%,Government,4.4,4.1,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2600,True,Presencial,Tecnología/SaaS,2.7,4.4,1,1,1,0,1,0,0,0,1
+EEUU,Junior,6400,True,Híbrido,Fintech,2.3,3.6,0,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,3000,True,Híbrido,Consultoría,4.2,3.8,1,1,1,0,0,0,0,0,1
+EEUU,Semi-Senior,8000,True,Remoto 100%,Manufacturing,2.6,3.0,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,9850,True,Remoto 100%,E-commerce,2.7,3.3,1,1,0,1,1,0,0,1,1
+Argentina,Junior,1150,False,Híbrido,Salud,2.4,2.0,1,1,1,0,1,0,0,0,0
+EEUU,Junior,7000,False,Remoto 100%,Healthcare,1.6,4.3,1,1,1,0,0,0,0,0,1
+Argentina,Senior,5050,True,Remoto 100%,Gobierno,6.7,4.1,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,7500,True,Híbrido,Media,3.6,4.0,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Manufactura,4.1,2.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1100,False,Híbrido,Manufactura,1.3,2.7,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1350,True,Remoto 100%,Fintech,2.3,4.0,0,1,1,0,0,0,0,0,0
+Argentina,Junior,1000,False,Presencial,E-commerce,0.2,3.7,0,1,1,0,1,1,0,0,1
+EEUU,Semi-Senior,7950,True,Híbrido,Finance,3.5,4.6,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7450,True,Remoto 100%,Fintech,2.9,3.8,1,1,1,0,1,1,0,1,1
+EEUU,Junior,4950,True,Remoto 100%,Media,0.5,3.9,1,1,0,1,1,0,0,0,1
+EEUU,Senior,14100,True,Remoto 100%,Finance,10.6,3.7,1,1,0,0,1,0,1,1,1
+EEUU,Semi-Senior,9500,True,Presencial,Fintech,3.8,3.7,1,1,1,1,0,1,1,1,0
+EEUU,Semi-Senior,8900,True,Remoto 100%,Consulting,4.6,4.6,1,1,1,1,0,0,0,1,1
+EEUU,Junior,6250,True,Remoto 100%,Consulting,0.1,3.4,1,1,0,0,1,0,0,0,0
+Argentina,Junior,1450,False,Remoto 100%,Fintech,0.5,3.5,1,1,1,0,1,0,0,0,1
+EEUU,Junior,7250,True,Híbrido,Manufacturing,1.3,3.5,1,0,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2350,False,Presencial,Manufactura,3.8,4.8,1,1,0,1,1,0,1,1,1
+Argentina,Senior,5500,True,Remoto 100%,Tecnología/SaaS,12.5,3.9,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,E-commerce,5.9,3.8,1,0,0,1,1,0,0,1,1
+Argentina,Semi-Senior,1900,False,Híbrido,Banca,5.7,3.4,1,1,1,1,1,1,1,0,1
+Argentina,Semi-Senior,2600,False,Remoto 100%,E-commerce,5.2,3.5,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7400,True,Híbrido,Retail,5.0,3.4,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1050,False,Presencial,Salud,1.1,2.6,0,0,0,1,1,1,0,0,0
+Argentina,Junior,950,False,Presencial,E-commerce,2.0,4.6,0,1,1,1,1,0,0,0,1
+Argentina,Senior,4800,True,Remoto 100%,E-commerce,8.4,2.8,1,0,1,0,1,0,1,1,1
+EEUU,Senior,13550,True,Remoto 100%,Finance,14.2,4.6,1,1,1,1,1,1,1,1,1
+Argentina,Senior,5550,True,Remoto 100%,E-commerce,12.6,3.2,1,1,1,1,0,1,1,1,1
+EEUU,Junior,6100,True,Híbrido,Media,1.2,3.9,1,1,0,0,1,1,0,0,1
+Argentina,Junior,1150,True,Híbrido,Banca,1.8,3.7,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7700,True,Remoto 100%,Finance,3.8,4.8,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,7700,True,Presencial,Tech/SaaS,5.1,4.0,1,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,Retail,4.4,5.0,1,1,1,1,1,1,1,1,1
+Argentina,Junior,950,False,Híbrido,Manufactura,0.7,3.7,0,1,0,0,0,0,1,0,0
+Argentina,Junior,950,False,Remoto 100%,Consultoría,1.2,3.8,1,1,0,1,1,0,0,0,0
+EEUU,Senior,12950,True,Híbrido,Fintech,11.5,4.0,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,1800,False,Remoto 100%,Telecomunicaciones,3.8,2.6,1,1,1,1,1,1,0,0,0
+EEUU,Junior,5600,True,Remoto 100%,Media,2.2,3.5,1,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2750,True,Híbrido,Fintech,4.1,3.4,1,1,0,1,1,0,0,0,1
+EEUU,Senior,12000,True,Híbrido,Healthcare,6.8,4.2,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,8900,True,Remoto 100%,Consulting,5.4,3.4,1,1,0,1,1,1,1,0,1
+EEUU,Senior,13500,True,Remoto 100%,Healthcare,13.3,4.6,1,1,0,1,1,0,1,1,0
+Argentina,Senior,3250,True,Remoto 100%,Tecnología/SaaS,6.0,3.9,0,1,1,0,0,1,1,0,0
+EEUU,Semi-Senior,7750,True,Híbrido,Healthcare,5.0,4.0,1,1,0,1,0,0,1,0,1
+Argentina,Semi-Senior,2150,True,Híbrido,Telecomunicaciones,4.1,2.8,0,1,1,0,0,0,0,0,1
+Argentina,Semi-Senior,1850,False,Híbrido,Telecomunicaciones,5.5,1.7,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,1600,True,Remoto 100%,Consultoría,4.1,3.4,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Salud,3.9,2.7,1,1,1,1,1,1,0,1,1
+Argentina,Senior,3600,False,Remoto 100%,Consultoría,8.2,3.1,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Tecnología/SaaS,3.3,3.2,1,0,1,1,1,0,0,0,0
+EEUU,Junior,6150,True,Híbrido,Tech/SaaS,0.8,3.5,0,1,0,0,1,0,1,1,1
+Argentina,Senior,3550,True,Híbrido,Tecnología/SaaS,13.6,3.0,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2250,True,Remoto 100%,E-commerce,3.1,3.4,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,9450,True,Presencial,Fintech,3.4,3.8,0,1,1,0,0,1,1,1,1
+Argentina,Junior,950,True,Remoto 100%,Tecnología/SaaS,1.9,2.7,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1250,True,Híbrido,E-commerce,1.2,3.1,0,0,0,0,1,0,0,0,1
+EEUU,Junior,5350,False,Remoto 100%,Consulting,2.4,4.1,1,1,0,1,1,1,0,1,1
+Argentina,Semi-Senior,2700,True,Remoto 100%,Salud,4.1,2.1,0,0,1,0,1,1,0,0,1
+Argentina,Junior,1050,False,Remoto 100%,Tecnología/SaaS,2.4,5.0,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8500,True,Híbrido,Healthcare,3.4,3.6,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Tecnología/SaaS,4.6,4.7,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,6650,True,Presencial,Finance,4.2,4.0,1,1,1,0,1,0,0,1,1
+Argentina,Junior,800,False,Híbrido,E-commerce,2.4,3.8,1,1,1,0,1,0,0,0,1
+EEUU,Junior,5200,True,Remoto 100%,Retail,0.1,3.2,0,1,0,0,0,1,0,1,1
+EEUU,Semi-Senior,7850,True,Híbrido,Healthcare,3.9,4.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1950,False,Híbrido,Gobierno,3.5,3.6,0,1,0,0,1,1,0,0,1
+Argentina,Junior,750,False,Remoto 100%,E-commerce,1.9,2.7,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,8900,True,Híbrido,Retail,5.4,3.1,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1050,False,Remoto 100%,Salud,1.0,3.0,1,0,1,1,1,0,0,0,1
+Argentina,Semi-Senior,3200,True,Remoto 100%,Salud,5.0,3.8,1,1,1,0,0,1,0,0,0
+EEUU,Senior,10850,True,Remoto 100%,E-commerce,11.2,4.0,1,1,0,0,1,1,0,1,1
+EEUU,Semi-Senior,9150,True,Remoto 100%,Retail,5.3,2.8,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2500,False,Remoto 100%,Salud,2.9,2.3,1,0,0,1,0,0,1,0,0
+EEUU,Junior,5250,True,Híbrido,Finance,1.2,3.6,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,1800,False,Híbrido,Salud,4.5,2.6,0,1,1,1,1,0,0,0,0
+EEUU,Junior,4950,True,Remoto 100%,E-commerce,0.9,4.7,0,1,0,1,1,1,0,0,0
+EEUU,Semi-Senior,9650,True,Remoto 100%,Consulting,4.0,4.4,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2450,True,Remoto 100%,Gobierno,5.4,2.7,1,1,1,1,1,0,0,1,0
+Argentina,Junior,1450,True,Híbrido,Banca,0.4,4.3,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,10050,True,Remoto 100%,Government,4.7,4.4,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1700,False,Remoto 100%,Banca,4.7,3.9,0,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,3300,True,Presencial,E-commerce,4.7,4.1,1,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,7500,True,Remoto 100%,Manufacturing,4.7,2.6,1,1,0,1,1,0,1,1,1
+Argentina,Junior,1050,True,Híbrido,Telecomunicaciones,1.4,3.8,0,1,1,0,1,0,0,0,0
+Argentina,Senior,5100,True,Híbrido,Telecomunicaciones,6.5,3.0,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,10350,True,Híbrido,Consulting,4.4,3.7,1,1,0,0,1,0,1,1,1
+EEUU,Senior,11000,True,Remoto 100%,Manufacturing,8.7,4.7,1,0,1,0,1,1,1,1,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,Banca,2.6,3.4,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2000,False,Híbrido,Fintech,2.8,4.3,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6500,True,Híbrido,Manufacturing,0.4,3.6,1,1,0,0,1,0,0,0,1
+EEUU,Senior,12250,True,Remoto 100%,Manufacturing,11.2,4.1,1,1,1,1,0,0,1,1,0
+EEUU,Junior,5950,True,Presencial,Government,0.5,4.5,1,1,0,1,1,0,0,0,1
+EEUU,Junior,5600,True,Remoto 100%,Tech/SaaS,2.0,4.5,1,1,1,0,0,0,0,0,0
+EEUU,Senior,15350,True,Remoto 100%,Retail,12.5,5.0,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,9900,True,Híbrido,Finance,3.7,3.9,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,9300,True,Híbrido,Government,5.9,5.0,0,1,1,1,0,1,0,0,1
+EEUU,Semi-Senior,10650,True,Híbrido,Retail,5.7,3.1,1,1,1,0,1,1,0,1,1
+EEUU,Senior,11550,True,Híbrido,Government,6.6,5.0,1,1,1,1,0,1,0,1,1
+EEUU,Senior,12650,True,Híbrido,Manufacturing,7.5,3.7,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,9700,True,Híbrido,Finance,4.1,4.0,1,1,0,1,0,0,1,1,1
+EEUU,Junior,5500,True,Remoto 100%,Healthcare,1.4,4.1,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2300,True,Remoto 100%,Banca,4.4,3.4,1,1,1,1,1,1,0,0,1
+EEUU,Junior,6700,True,Remoto 100%,Tech/SaaS,1.1,4.2,0,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,1650,False,Remoto 100%,Salud,5.7,3.9,1,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,7200,True,Remoto 100%,Government,2.8,5.0,1,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,8900,True,Remoto 100%,Healthcare,5.9,3.7,1,1,0,0,1,1,0,0,1
+Argentina,Junior,1100,False,Remoto 100%,Manufactura,1.6,3.1,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9450,True,Híbrido,Government,5.0,3.1,1,1,0,1,1,1,1,0,0
+EEUU,Semi-Senior,8200,True,Híbrido,Healthcare,2.8,4.5,1,1,1,1,1,0,1,1,0
+Argentina,Senior,3300,False,Remoto 100%,Telecomunicaciones,12.5,2.7,1,1,1,1,1,0,1,0,1
+Argentina,Senior,3900,True,Remoto 100%,Fintech,13.3,2.7,1,1,1,1,1,0,0,1,0
+Argentina,Junior,900,False,Híbrido,Fintech,0.7,4.0,1,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,9450,True,Remoto 100%,Media,4.0,3.9,1,1,1,0,1,1,0,0,1
+Argentina,Junior,1300,False,Híbrido,E-commerce,0.3,3.1,0,1,0,1,1,0,0,1,0
+EEUU,Junior,6700,True,Remoto 100%,Manufacturing,1.1,2.8,1,1,1,0,1,1,1,0,1
+Argentina,Semi-Senior,2750,True,Presencial,Consultoría,4.5,3.8,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2650,True,Presencial,Tecnología/SaaS,5.3,3.9,0,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,6950,True,Remoto 100%,Media,3.3,3.2,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,1350,False,Remoto 100%,Retail,5.2,2.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Telecomunicaciones,4.3,3.8,1,1,1,0,1,1,0,1,1
+EEUU,Semi-Senior,6950,True,Híbrido,Manufacturing,2.5,3.0,1,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,2550,False,Remoto 100%,Consultoría,5.5,5.0,1,1,1,0,1,1,1,1,0
+Argentina,Senior,4050,False,Remoto 100%,Retail,6.2,3.6,1,1,1,0,1,1,1,1,1
+Argentina,Senior,3750,False,Híbrido,E-commerce,8.6,3.9,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,1900,False,Híbrido,Telecomunicaciones,5.5,4.4,1,1,0,1,0,1,0,0,1
+Argentina,Junior,1150,False,Híbrido,Manufactura,0.9,2.9,0,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2000,True,Remoto 100%,E-commerce,3.0,4.6,1,1,0,1,1,0,0,0,0
+EEUU,Junior,5650,True,Presencial,Finance,0.5,3.4,0,1,0,1,1,1,1,1,1
+Argentina,Senior,4850,False,Híbrido,Retail,8.7,4.4,1,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,8100,True,Híbrido,Manufacturing,5.0,3.1,1,1,1,0,1,1,0,0,1
+EEUU,Junior,6550,True,Remoto 100%,Consulting,0.4,3.0,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1650,True,Remoto 100%,Telecomunicaciones,1.0,4.2,0,0,0,0,1,1,0,0,0
+Argentina,Junior,850,False,Híbrido,Gobierno,0.5,2.6,1,0,0,0,1,0,0,0,1
+Argentina,Semi-Senior,3000,True,Remoto 100%,Tecnología/SaaS,4.6,3.4,0,1,1,0,1,0,0,0,0
+Argentina,Senior,3850,False,Híbrido,E-commerce,6.8,3.4,1,1,1,0,1,0,0,1,1
+EEUU,Junior,4400,True,Híbrido,E-commerce,0.2,3.9,1,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2600,False,Híbrido,E-commerce,4.5,3.4,1,0,0,0,1,0,0,0,0
+EEUU,Semi-Senior,8400,True,Remoto 100%,E-commerce,4.9,4.2,1,1,0,1,0,0,1,0,1
+EEUU,Semi-Senior,6950,True,Híbrido,E-commerce,4.6,3.3,1,1,0,1,1,1,0,0,1
+Argentina,Semi-Senior,2000,False,Remoto 100%,Retail,5.1,4.3,1,1,1,0,1,0,0,1,1
+EEUU,Junior,4850,True,Híbrido,Fintech,0.8,3.5,0,1,1,0,1,0,1,1,0
+Argentina,Junior,1000,False,Remoto 100%,Banca,0.4,4.0,1,1,0,0,1,0,0,0,1
+EEUU,Junior,6750,True,Remoto 100%,Finance,1.5,3.1,0,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,8250,True,Presencial,Manufacturing,5.0,3.4,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,7400,True,Híbrido,Media,3.1,3.0,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,7200,True,Híbrido,Retail,3.6,3.1,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,7850,True,Remoto 100%,Consulting,5.0,3.2,1,1,0,1,1,1,1,1,1
+EEUU,Senior,13100,True,Híbrido,Healthcare,8.6,4.2,1,1,0,1,1,1,0,1,1
+EEUU,Semi-Senior,8350,True,Remoto 100%,Finance,3.2,3.7,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2400,True,Presencial,Salud,3.9,2.9,0,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2050,True,Remoto 100%,Gobierno,4.1,3.2,0,1,1,1,1,0,0,0,0
+EEUU,Senior,15800,True,Híbrido,Retail,6.9,5.0,1,1,1,1,1,1,1,0,0
+Argentina,Junior,1250,False,Híbrido,Consultoría,1.6,3.3,0,1,1,0,0,0,0,0,0
+EEUU,Semi-Senior,7600,True,Híbrido,Manufacturing,4.6,4.2,0,1,0,1,1,0,1,1,0
+EEUU,Senior,13750,True,Remoto 100%,Fintech,11.4,5.0,1,1,1,1,1,0,1,1,1
+Argentina,Senior,3750,False,Híbrido,E-commerce,14.7,4.5,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,1300,False,Remoto 100%,Consultoría,2.7,3.8,1,1,1,0,1,0,0,0,1
+EEUU,Senior,13750,True,Remoto 100%,Manufacturing,6.4,4.2,1,0,0,0,0,1,0,0,1
+Argentina,Senior,5200,True,Remoto 100%,Consultoría,8.6,4.0,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,1900,False,Híbrido,Banca,5.6,3.6,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,1250,True,Remoto 100%,Consultoría,5.0,3.5,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,11200,True,Remoto 100%,Retail,5.8,3.1,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1050,True,Presencial,Manufactura,2.0,3.3,0,1,1,0,1,1,0,0,1
+EEUU,Senior,13550,True,Híbrido,Retail,11.1,3.3,1,1,0,1,0,1,1,0,1
+Argentina,Senior,3800,True,Remoto 100%,Manufactura,7.3,2.1,1,1,0,1,0,1,0,0,0
+EEUU,Semi-Senior,7950,True,Presencial,Fintech,2.7,3.9,0,1,0,1,1,0,1,0,1
+EEUU,Junior,6500,True,Remoto 100%,Retail,1.5,4.0,0,1,0,1,1,0,1,1,1
+EEUU,Senior,11850,True,Remoto 100%,Media,14.7,4.5,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1050,False,Remoto 100%,Salud,0.4,4.8,1,1,1,0,1,1,0,0,0
+Argentina,Junior,1250,True,Remoto 100%,Consultoría,0.7,4.0,1,1,1,0,1,1,0,0,0
+Argentina,Semi-Senior,1800,True,Remoto 100%,Manufactura,3.6,3.8,1,1,1,0,0,0,1,0,0
+Argentina,Senior,4050,True,Remoto 100%,Gobierno,9.2,3.8,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Tecnología/SaaS,5.7,4.0,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2400,False,Remoto 100%,Retail,4.2,3.3,1,1,1,0,1,0,0,0,0
+EEUU,Senior,12350,True,Remoto 100%,Fintech,10.3,4.0,1,1,1,1,0,0,0,1,1
+EEUU,Semi-Senior,9850,True,Presencial,E-commerce,5.1,4.9,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2450,False,Remoto 100%,E-commerce,3.6,3.7,1,1,1,1,1,0,0,0,1
+Argentina,Senior,5500,True,Remoto 100%,Fintech,8.1,4.1,0,1,1,1,0,0,1,0,1
+Argentina,Semi-Senior,3100,True,Remoto 100%,Salud,4.3,3.4,1,1,1,1,1,0,0,0,0
+Argentina,Senior,3800,False,Remoto 100%,Consultoría,10.2,2.8,1,1,0,1,1,1,0,1,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Consultoría,2.7,4.3,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5550,True,Remoto 100%,Healthcare,1.3,3.5,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2900,True,Remoto 100%,Tecnología/SaaS,5.5,2.8,1,1,1,1,1,1,0,0,1
+Argentina,Senior,4950,True,Remoto 100%,Manufactura,8.7,2.6,1,1,1,1,1,0,1,0,1
+Argentina,Junior,850,False,Presencial,Banca,1.7,5.0,1,1,1,1,1,0,0,0,1
+EEUU,Senior,14550,True,Remoto 100%,Consulting,11.3,5.0,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,7050,False,Híbrido,Healthcare,5.7,4.9,1,0,0,1,1,1,0,1,1
+EEUU,Junior,6300,True,Híbrido,Manufacturing,1.9,4.3,1,0,1,0,1,1,0,1,0
+Argentina,Junior,1200,True,Híbrido,Tecnología/SaaS,0.4,4.5,1,1,1,1,1,0,0,0,0
+EEUU,Senior,13300,True,Presencial,E-commerce,10.5,4.3,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,2200,True,Presencial,Tecnología/SaaS,5.8,2.8,1,1,0,1,0,0,0,0,1
+EEUU,Junior,7300,True,Híbrido,Healthcare,1.5,3.4,1,0,1,0,0,0,0,0,0
+Argentina,Senior,2900,False,Híbrido,Retail,6.9,3.9,1,0,1,1,1,0,1,0,0
+EEUU,Semi-Senior,6600,True,Híbrido,Finance,3.4,4.7,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2950,False,Híbrido,Telecomunicaciones,3.4,2.1,1,1,0,0,1,0,0,0,0
+EEUU,Semi-Senior,6950,False,Remoto 100%,Tech/SaaS,4.9,4.5,1,1,1,0,1,0,1,0,1
+EEUU,Senior,14350,True,Remoto 100%,Media,6.1,3.5,1,1,0,0,1,0,0,1,1
+Argentina,Junior,900,True,Presencial,Fintech,0.7,3.8,0,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,2100,False,Remoto 100%,E-commerce,3.7,3.0,1,1,1,0,1,1,0,0,1
+Argentina,Senior,3350,False,Híbrido,Manufactura,6.5,2.5,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1200,True,Remoto 100%,Retail,0.1,3.2,1,0,1,0,1,0,0,0,0
+Argentina,Senior,4900,True,Presencial,Fintech,9.1,3.2,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2100,False,Híbrido,Consultoría,3.3,4.5,1,1,1,0,1,1,0,0,0
+EEUU,Semi-Senior,8700,True,Remoto 100%,Media,5.3,4.7,1,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,9350,True,Presencial,Healthcare,5.7,3.1,1,1,0,0,0,0,0,0,0
+Argentina,Senior,1600,False,Remoto 100%,Manufactura,10.3,2.8,1,0,1,1,0,1,0,0,1
+EEUU,Semi-Senior,8950,True,Remoto 100%,Finance,3.7,3.2,1,0,0,0,1,1,0,0,1
+EEUU,Semi-Senior,8100,True,Híbrido,Manufacturing,2.6,3.5,1,1,0,1,1,1,1,1,1
+EEUU,Junior,4700,True,Remoto 100%,Fintech,0.8,3.5,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8200,True,Remoto 100%,Manufacturing,4.3,2.8,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2600,False,Híbrido,Fintech,3.3,3.5,1,0,0,0,1,1,0,0,1
+EEUU,Senior,11250,True,Remoto 100%,Healthcare,14.7,3.7,1,1,0,0,1,0,1,1,1
+Argentina,Senior,5650,True,Híbrido,Fintech,12.1,3.1,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,7150,True,Híbrido,E-commerce,5.0,3.5,0,1,0,1,1,1,1,1,1
+Argentina,Junior,850,False,Híbrido,E-commerce,0.8,3.8,1,0,0,1,1,0,0,0,1
+EEUU,Junior,5550,True,Remoto 100%,Finance,0.1,2.1,1,1,1,1,0,1,0,1,0
+EEUU,Semi-Senior,9050,True,Remoto 100%,E-commerce,2.9,4.1,1,1,0,0,1,1,0,1,1
+Argentina,Semi-Senior,2150,True,Remoto 100%,Consultoría,3.5,2.6,1,1,1,1,1,1,0,1,1
+Argentina,Senior,4600,True,Híbrido,Salud,14.3,4.6,1,1,1,1,1,1,1,0,1
+EEUU,Junior,6200,True,Remoto 100%,Government,0.8,3.3,1,1,0,0,1,0,1,1,1
+EEUU,Senior,15250,True,Remoto 100%,Manufacturing,9.4,4.8,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2600,True,Híbrido,Tecnología/SaaS,4.5,2.8,1,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2550,True,Híbrido,Consultoría,5.2,3.6,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,1750,False,Remoto 100%,Retail,5.2,2.9,1,1,0,0,1,0,1,0,0
+EEUU,Junior,6100,True,Remoto 100%,Fintech,1.1,4.8,1,1,0,0,1,1,0,1,1
+Argentina,Semi-Senior,2600,True,Presencial,Telecomunicaciones,4.8,3.5,0,1,1,0,1,0,0,0,0
+EEUU,Junior,7200,True,Remoto 100%,Retail,0.1,3.2,1,1,0,1,1,0,0,0,1
+Argentina,Junior,1050,True,Híbrido,Salud,1.7,3.6,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Manufactura,3.4,3.0,1,1,1,0,1,0,1,1,1
+Argentina,Senior,5000,True,Remoto 100%,Consultoría,9.0,3.1,1,1,1,1,1,0,1,0,0
+Argentina,Junior,650,False,Presencial,Manufactura,2.0,3.9,1,1,0,0,1,0,0,0,0
+EEUU,Junior,6700,True,Remoto 100%,Tech/SaaS,0.5,3.5,0,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,7800,True,Remoto 100%,Consulting,5.3,5.0,1,1,1,0,1,0,0,1,1
+Argentina,Senior,4200,True,Remoto 100%,Manufactura,7.8,2.4,1,1,1,1,1,1,1,0,1
+Argentina,Senior,4000,False,Remoto 100%,Manufactura,10.1,2.8,1,1,0,1,1,0,0,0,0
+Argentina,Senior,5050,True,Híbrido,Telecomunicaciones,12.9,3.3,1,1,0,0,1,0,1,1,1
+Argentina,Senior,5000,True,Remoto 100%,Consultoría,9.0,3.1,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1600,False,Presencial,Fintech,3.4,2.6,1,1,1,0,1,0,1,0,0
+EEUU,Semi-Senior,7750,True,Remoto 100%,Government,3.6,3.7,1,1,0,1,1,1,1,1,1
+EEUU,Junior,4650,True,Remoto 100%,Media,2.4,4.4,1,1,0,1,0,0,0,0,0
+EEUU,Junior,5650,True,Remoto 100%,E-commerce,2.2,2.8,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,3800,True,Remoto 100%,Gobierno,2.7,3.5,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Salud,5.0,3.2,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,1900,False,Híbrido,Consultoría,5.3,4.3,1,1,1,1,1,1,0,0,0
+Argentina,Senior,5800,True,Remoto 100%,E-commerce,13.0,2.3,1,1,1,1,1,1,1,1,0
+Argentina,Semi-Senior,1900,False,Remoto 100%,Consultoría,5.4,2.8,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,1900,False,Presencial,Retail,4.1,3.9,0,1,1,1,1,0,0,1,1
+EEUU,Senior,14300,True,Remoto 100%,Tech/SaaS,14.1,3.4,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,8750,True,Presencial,Consulting,3.4,3.2,1,1,0,0,1,0,1,1,0
+Argentina,Senior,6350,True,Remoto 100%,Consultoría,10.0,4.3,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9900,True,Remoto 100%,Manufacturing,5.8,3.3,1,1,1,1,1,0,1,1,0
+EEUU,Semi-Senior,10550,True,Presencial,Manufacturing,5.9,2.9,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2500,True,Presencial,Manufactura,3.5,3.3,0,1,0,1,1,0,0,1,0
+Argentina,Senior,5550,True,Híbrido,Manufactura,7.1,2.6,0,1,0,0,1,1,0,1,0
+Argentina,Junior,1250,True,Presencial,E-commerce,1.1,4.8,0,1,0,0,1,0,0,1,0
+Argentina,Junior,750,False,Remoto 100%,Gobierno,1.8,2.5,1,1,1,1,1,0,0,0,1
+Argentina,Senior,4450,True,Remoto 100%,Fintech,7.9,3.4,1,1,1,0,1,0,1,0,0
+Argentina,Junior,1150,False,Híbrido,Gobierno,1.6,3.9,0,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,9550,True,Híbrido,Retail,4.7,3.5,1,1,1,1,0,1,0,1,1
+EEUU,Junior,5950,True,Híbrido,Media,0.2,3.4,0,1,0,0,1,0,0,0,1
+Argentina,Senior,5150,True,Híbrido,Retail,6.7,5.0,1,1,1,1,1,1,0,0,1
+Argentina,Junior,1550,True,Remoto 100%,E-commerce,2.1,4.0,0,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,9500,True,Remoto 100%,Consulting,4.6,3.6,1,1,1,1,0,1,1,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Retail,5.1,3.1,1,1,1,0,1,1,0,0,1
+Argentina,Junior,1050,True,Remoto 100%,Retail,2.2,3.2,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8650,True,Remoto 100%,Manufacturing,3.7,4.2,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1100,False,Híbrido,Salud,0.5,3.4,0,1,0,0,1,0,0,0,1
+Argentina,Senior,4700,True,Híbrido,Salud,12.6,2.8,1,1,1,0,1,0,0,1,1
+Argentina,Junior,750,False,Híbrido,Telecomunicaciones,1.0,4.3,0,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2250,False,Remoto 100%,Fintech,4.7,3.8,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1000,True,Remoto 100%,Salud,1.1,2.5,1,1,1,0,1,0,0,0,1
+Argentina,Senior,4550,True,Remoto 100%,Consultoría,14.5,2.9,1,1,0,1,1,1,0,1,1
+EEUU,Semi-Senior,8050,True,Presencial,Media,3.1,4.3,1,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Banca,5.2,4.0,1,1,1,1,1,0,1,0,0
+EEUU,Senior,13100,True,Remoto 100%,Finance,9.4,4.7,1,1,1,0,0,0,1,1,1
+EEUU,Senior,7650,True,Presencial,Finance,13.8,5.0,1,1,0,1,1,0,1,1,1
+Argentina,Junior,750,False,Híbrido,Telecomunicaciones,1.9,4.3,0,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,7800,True,Híbrido,Tech/SaaS,5.6,4.6,1,1,1,0,1,0,1,0,1
+EEUU,Junior,5000,True,Remoto 100%,Government,1.7,4.9,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1450,True,Híbrido,Fintech,2.1,3.7,0,0,1,0,1,1,1,0,0
+Argentina,Junior,1150,True,Presencial,Manufactura,2.2,3.8,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8900,True,Remoto 100%,Healthcare,2.6,3.1,1,1,0,0,1,1,0,1,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Gobierno,3.6,4.3,1,1,0,1,1,0,0,1,0
+Argentina,Semi-Senior,2950,False,Remoto 100%,Banca,3.2,3.1,1,1,1,0,1,1,0,0,1
+EEUU,Senior,15000,True,Remoto 100%,Finance,13.0,3.9,1,1,1,0,1,0,1,1,1
+Argentina,Senior,3300,False,Híbrido,Consultoría,7.5,3.1,1,0,1,1,1,1,0,0,0
+Argentina,Semi-Senior,2900,True,Híbrido,Salud,4.9,2.8,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9250,True,Remoto 100%,Finance,5.8,4.4,1,1,1,1,0,1,1,1,1
+Argentina,Junior,850,False,Híbrido,Gobierno,0.8,2.6,0,1,1,0,1,0,0,0,1
+EEUU,Junior,4950,True,Remoto 100%,Finance,2.4,4.3,1,1,0,1,0,1,1,1,1
+EEUU,Junior,6300,True,Remoto 100%,E-commerce,1.1,3.8,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2350,True,Híbrido,Salud,5.6,2.9,1,1,1,1,1,0,1,0,1
+EEUU,Junior,5000,True,Híbrido,Consulting,1.3,4.2,1,1,0,1,1,1,1,0,1
+Argentina,Semi-Senior,2100,False,Híbrido,Fintech,3.4,3.0,1,1,1,0,1,0,1,0,1
+EEUU,Junior,5800,True,Remoto 100%,Fintech,2.5,5.0,1,0,1,0,1,1,1,1,0
+EEUU,Senior,14600,True,Presencial,Media,14.2,5.0,1,1,0,1,0,1,0,0,1
+Argentina,Junior,800,False,Híbrido,Tecnología/SaaS,0.5,3.8,1,1,0,0,1,1,1,0,1
+Argentina,Semi-Senior,2250,False,Híbrido,Telecomunicaciones,3.4,2.3,0,1,0,0,1,0,0,1,0
+EEUU,Semi-Senior,9700,True,Híbrido,Manufacturing,3.8,5.0,1,1,1,1,1,1,1,1,0
+Argentina,Senior,5050,True,Híbrido,Retail,8.9,3.1,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1000,False,Presencial,Fintech,1.1,2.6,1,1,0,0,1,0,0,0,0
+Argentina,Junior,1150,False,Híbrido,Manufactura,2.5,3.0,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8100,True,Remoto 100%,Healthcare,3.2,4.2,0,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2150,True,Híbrido,Consultoría,3.0,2.9,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9100,True,Remoto 100%,Manufacturing,4.1,4.2,1,1,0,0,1,1,1,1,1
+EEUU,Senior,14500,True,Presencial,Media,14.7,3.8,1,1,1,0,1,0,1,1,1
+EEUU,Junior,6200,True,Remoto 100%,Manufacturing,1.5,3.3,1,0,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Tecnología/SaaS,5.9,2.5,1,1,1,0,1,0,1,0,1
+EEUU,Junior,6050,True,Remoto 100%,Government,2.3,3.9,1,1,1,0,1,0,1,1,0
+EEUU,Semi-Senior,8800,True,Remoto 100%,Government,3.2,3.5,1,1,1,0,1,1,0,1,1
+EEUU,Junior,5650,True,Remoto 100%,E-commerce,1.6,4.4,1,1,0,1,1,1,0,1,0
+EEUU,Junior,5400,True,Híbrido,Retail,1.0,4.0,1,0,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2700,True,Híbrido,Gobierno,5.1,3.4,1,1,0,1,1,1,1,0,0
+EEUU,Senior,11300,True,Remoto 100%,Manufacturing,14.0,4.2,1,1,1,0,1,1,1,1,1
+EEUU,Senior,14400,True,Híbrido,Consulting,7.0,4.5,1,1,1,1,0,0,1,1,1
+Argentina,Semi-Senior,1850,False,Híbrido,Banca,3.2,3.3,1,1,1,0,1,0,1,0,0
+Argentina,Semi-Senior,3000,True,Híbrido,E-commerce,4.2,3.4,1,1,1,1,1,1,1,0,1
+EEUU,Semi-Senior,8800,True,Remoto 100%,Government,6.0,4.8,1,1,1,1,1,0,1,0,0
+EEUU,Senior,13600,True,Remoto 100%,Fintech,9.4,4.8,0,1,0,0,1,1,1,1,0
+EEUU,Senior,15050,True,Híbrido,Government,6.8,4.5,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,3350,True,Híbrido,Fintech,3.6,4.4,1,1,1,1,0,0,0,0,1
+Argentina,Semi-Senior,2350,True,Híbrido,Tecnología/SaaS,3.9,3.0,1,0,0,1,1,0,0,0,1
+EEUU,Junior,4800,True,Remoto 100%,Retail,0.2,4.4,1,0,0,1,0,0,0,1,0
+Argentina,Semi-Senior,2750,True,Remoto 100%,Retail,4.7,3.0,1,1,0,1,1,0,1,0,0
+Argentina,Junior,1200,False,Híbrido,Telecomunicaciones,0.9,4.2,1,1,1,1,1,0,0,0,1
+EEUU,Senior,14500,True,Híbrido,E-commerce,11.0,4.0,1,1,0,1,1,0,0,1,1
+Argentina,Junior,850,False,Remoto 100%,E-commerce,2.0,3.8,0,1,1,0,0,1,0,0,0
+Argentina,Semi-Senior,2750,True,Híbrido,Consultoría,3.4,4.7,1,1,1,0,1,0,0,0,1
+Argentina,Junior,600,False,Híbrido,Manufactura,1.9,3.5,1,1,0,1,1,1,0,0,1
+Argentina,Junior,1400,False,Remoto 100%,Banca,1.7,3.8,0,0,1,0,1,0,0,1,1
+Argentina,Junior,1250,True,Híbrido,Consultoría,1.9,4.8,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2500,True,Híbrido,E-commerce,4.0,4.6,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2700,True,Híbrido,Gobierno,5.2,2.4,1,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,1750,True,Remoto 100%,Gobierno,5.5,3.1,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Fintech,4.6,4.6,1,1,1,1,1,1,0,0,1
+Argentina,Junior,700,False,Remoto 100%,Retail,0.7,4.1,1,1,1,1,1,1,1,0,1
+Argentina,Senior,4500,True,Híbrido,Fintech,8.7,3.2,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2400,True,Presencial,Salud,5.8,2.5,1,1,1,1,1,1,1,0,1
+EEUU,Senior,14150,True,Remoto 100%,Government,9.9,3.5,1,1,1,1,0,0,1,1,1
+Argentina,Junior,1150,False,Remoto 100%,Tecnología/SaaS,1.1,4.0,1,1,0,1,1,0,0,0,1
+Argentina,Junior,1150,False,Remoto 100%,Telecomunicaciones,0.6,3.4,1,1,0,1,1,0,0,0,1
+Argentina,Senior,5900,True,Híbrido,Tecnología/SaaS,9.5,3.9,1,1,0,1,1,0,1,0,1
+Argentina,Junior,1300,True,Presencial,Manufactura,0.1,3.7,0,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2100,True,Remoto 100%,Consultoría,5.1,4.0,1,1,1,1,1,0,0,0,1
+Argentina,Junior,850,False,Híbrido,Fintech,0.7,4.5,1,1,1,1,1,0,0,0,0
+EEUU,Junior,6150,True,Híbrido,Retail,0.0,5.0,1,1,1,1,1,1,0,1,0
+EEUU,Semi-Senior,9350,True,Híbrido,Finance,4.5,3.7,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2150,False,Presencial,Banca,4.6,3.2,1,1,1,0,1,0,0,0,1
+Argentina,Senior,6500,True,Presencial,E-commerce,12.9,2.5,1,1,1,1,1,1,1,1,0
+EEUU,Junior,4750,True,Remoto 100%,Finance,1.4,4.3,1,1,1,1,1,0,0,1,1
+EEUU,Senior,13500,True,Remoto 100%,Fintech,7.4,4.3,1,1,1,1,0,1,1,1,1
+EEUU,Junior,5050,True,Híbrido,Fintech,1.9,3.8,1,1,1,0,0,0,0,1,1
+EEUU,Semi-Senior,8150,True,Híbrido,Finance,5.1,3.5,1,1,0,1,1,1,0,1,1
+Argentina,Junior,1300,True,Remoto 100%,Gobierno,2.2,2.4,0,1,1,0,1,1,1,0,0
+Argentina,Junior,950,False,Híbrido,Fintech,1.2,3.3,1,1,0,1,1,0,0,0,1
+Argentina,Senior,3900,True,Remoto 100%,Gobierno,14.7,2.0,0,1,0,1,1,0,0,1,1
+EEUU,Junior,6050,True,Remoto 100%,Manufacturing,0.2,4.0,0,1,1,0,1,0,1,0,1
+Argentina,Senior,2850,False,Híbrido,Manufactura,9.5,4.3,1,1,1,1,0,0,0,1,1
+EEUU,Junior,6650,True,Híbrido,Tech/SaaS,0.8,4.0,1,1,0,1,1,0,0,1,0
+Argentina,Semi-Senior,1800,False,Remoto 100%,Fintech,3.2,3.0,1,1,0,0,1,0,1,0,1
+EEUU,Senior,16000,True,Remoto 100%,Consulting,12.5,3.1,1,1,0,0,1,1,1,0,1
+Argentina,Semi-Senior,2050,False,Híbrido,Gobierno,5.7,2.3,1,1,1,0,1,0,0,1,0
+EEUU,Senior,12950,True,Remoto 100%,Fintech,12.1,4.3,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2400,False,Híbrido,Manufactura,2.8,2.9,0,1,1,0,0,1,0,1,0
+EEUU,Senior,14250,True,Remoto 100%,Government,7.2,4.0,1,1,1,0,0,0,1,1,1
+Argentina,Junior,950,False,Híbrido,Gobierno,1.5,4.0,1,0,1,0,1,1,0,0,1
+Argentina,Senior,4650,True,Presencial,Manufactura,9.9,4.5,1,1,1,1,0,0,0,1,1
+EEUU,Junior,6350,True,Presencial,Healthcare,0.1,4.5,1,1,0,0,0,0,0,1,1
+EEUU,Junior,6600,True,Remoto 100%,Manufacturing,0.4,2.9,1,1,1,0,0,0,1,1,1
+Argentina,Semi-Senior,2750,True,Híbrido,Fintech,4.4,5.0,1,0,1,0,1,1,0,0,1
+EEUU,Semi-Senior,8300,True,Remoto 100%,Manufacturing,5.0,3.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2400,True,Remoto 100%,Consultoría,3.1,3.5,1,1,1,1,1,0,0,0,1
+EEUU,Senior,10950,True,Remoto 100%,Government,13.8,3.3,1,1,1,0,0,1,0,1,1
+EEUU,Senior,11700,True,Remoto 100%,Finance,13.8,4.7,0,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2650,True,Presencial,Gobierno,5.7,4.9,1,1,1,1,1,0,0,1,1
+EEUU,Senior,11050,True,Híbrido,Fintech,6.3,3.3,1,1,1,0,1,1,1,1,0
+EEUU,Senior,11500,True,Híbrido,E-commerce,7.4,3.4,1,1,0,1,0,1,1,1,1
+Argentina,Semi-Senior,3750,True,Híbrido,Telecomunicaciones,5.9,2.2,1,1,1,0,1,0,0,1,0
+Argentina,Junior,850,False,Presencial,E-commerce,0.7,3.1,1,1,1,0,1,0,0,0,1
+Argentina,Senior,2900,False,Remoto 100%,Fintech,11.3,4.1,1,1,1,0,1,0,1,0,1
+Argentina,Junior,1000,False,Remoto 100%,Banca,2.1,3.9,1,1,1,1,1,1,1,0,1
+Argentina,Semi-Senior,2050,False,Remoto 100%,Telecomunicaciones,5.9,3.8,0,1,0,0,1,0,1,0,1
+Argentina,Junior,950,False,Remoto 100%,Fintech,1.2,3.5,0,1,1,1,1,0,0,1,1
+Argentina,Junior,850,False,Híbrido,Salud,1.9,3.3,1,1,0,1,0,0,0,0,0
+EEUU,Semi-Senior,9050,True,Híbrido,Consulting,3.4,2.8,1,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,9050,True,Remoto 100%,Fintech,5.7,4.1,1,0,1,0,1,0,0,0,1
+Argentina,Senior,5000,True,Remoto 100%,Salud,9.0,3.5,1,1,1,1,1,1,1,0,1
+Argentina,Semi-Senior,1700,False,Híbrido,Telecomunicaciones,5.2,3.8,1,1,1,1,1,0,0,1,0
+Argentina,Senior,4400,False,Presencial,Gobierno,13.6,3.5,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2800,True,Remoto 100%,E-commerce,3.9,4.1,1,0,1,1,1,0,0,0,1
+Argentina,Senior,3550,False,Remoto 100%,Consultoría,14.4,2.6,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,1700,False,Híbrido,Fintech,5.9,4.1,1,1,1,1,1,1,1,0,1
+EEUU,Senior,14350,True,Híbrido,E-commerce,8.1,3.5,1,0,0,0,0,0,1,1,1
+EEUU,Senior,13700,True,Presencial,Manufacturing,13.0,4.0,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2450,True,Presencial,Consultoría,5.3,5.0,1,1,1,0,0,1,1,0,1
+EEUU,Semi-Senior,7950,True,Híbrido,Finance,4.5,3.4,1,1,0,1,1,1,1,1,1
+Argentina,Semi-Senior,2000,False,Presencial,Salud,2.9,3.4,1,1,1,0,1,1,1,1,0
+Argentina,Senior,4800,True,Presencial,Telecomunicaciones,11.3,2.9,1,1,1,0,1,0,0,1,1
+Argentina,Senior,3000,False,Remoto 100%,Tecnología/SaaS,9.8,3.4,1,1,0,1,1,0,1,0,0
+EEUU,Semi-Senior,9250,True,Híbrido,Tech/SaaS,3.3,3.2,1,1,0,0,1,1,1,1,1
+Argentina,Junior,1200,False,Híbrido,Retail,1.5,4.3,0,1,0,1,1,0,0,0,1
+EEUU,Senior,13650,True,Remoto 100%,Healthcare,7.1,4.6,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1050,False,Presencial,Gobierno,1.1,3.6,1,1,0,1,1,0,1,0,1
+EEUU,Senior,11400,True,Remoto 100%,Retail,9.3,5.0,1,1,0,0,1,1,1,1,1
+Argentina,Semi-Senior,2700,True,Híbrido,Salud,5.9,3.8,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8950,True,Presencial,Fintech,4.0,3.9,0,1,0,0,1,0,1,1,1
+Argentina,Senior,4550,True,Remoto 100%,E-commerce,9.0,2.4,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,1800,False,Remoto 100%,Retail,5.8,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Senior,12200,True,Remoto 100%,Retail,8.3,3.2,1,1,1,0,0,1,1,1,1
+Argentina,Semi-Senior,1900,True,Remoto 100%,Telecomunicaciones,5.0,2.8,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1350,True,Híbrido,Consultoría,0.8,4.9,0,1,1,1,1,0,0,0,0
+Argentina,Junior,1100,False,Remoto 100%,Consultoría,2.0,3.7,0,1,0,0,1,0,1,0,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Gobierno,4.8,4.2,1,1,1,0,1,1,0,0,1
+EEUU,Semi-Senior,8650,True,Presencial,Finance,6.0,5.0,1,1,1,1,0,0,0,1,1
+EEUU,Semi-Senior,7900,True,Remoto 100%,Retail,3.6,3.5,1,1,1,1,1,1,1,1,0
+EEUU,Senior,13350,True,Presencial,Healthcare,15.0,4.4,1,1,1,0,0,0,1,0,1
+Argentina,Semi-Senior,2050,True,Remoto 100%,Tecnología/SaaS,5.3,3.6,0,1,1,1,0,0,0,0,1
+EEUU,Junior,6200,True,Remoto 100%,Media,1.4,4.6,1,0,1,1,0,1,0,0,1
+EEUU,Semi-Senior,9600,True,Remoto 100%,Media,5.0,3.7,0,1,0,1,0,1,0,1,1
+EEUU,Semi-Senior,9050,True,Híbrido,Finance,5.5,4.0,1,1,1,0,0,1,0,1,0
+EEUU,Semi-Senior,8500,True,Híbrido,Government,2.5,3.5,1,1,0,1,0,0,0,1,1
+Argentina,Junior,900,False,Híbrido,Tecnología/SaaS,2.3,4.3,0,1,1,0,1,0,0,0,0
+Argentina,Senior,4150,True,Remoto 100%,Consultoría,10.7,3.8,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1000,True,Remoto 100%,Retail,1.8,3.3,0,1,1,0,1,0,0,1,0
+Argentina,Junior,950,False,Presencial,Banca,1.7,1.9,0,1,1,0,1,0,0,1,0
+EEUU,Junior,5600,True,Remoto 100%,Consulting,0.2,4.8,1,1,0,1,0,0,0,1,1
+Argentina,Semi-Senior,1850,False,Remoto 100%,Retail,4.4,3.5,1,1,1,0,1,0,1,0,1
+EEUU,Junior,5950,True,Remoto 100%,Consulting,1.7,4.3,1,1,1,1,0,1,0,0,0
+EEUU,Junior,6300,True,Híbrido,Tech/SaaS,1.1,3.8,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,3650,True,Presencial,Gobierno,3.5,3.9,0,1,0,0,1,1,1,0,1
+EEUU,Senior,16900,True,Remoto 100%,Retail,8.9,4.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1350,True,Remoto 100%,Tecnología/SaaS,3.2,4.2,1,1,1,0,1,0,0,1,1
+Argentina,Junior,800,False,Remoto 100%,Tecnología/SaaS,0.5,2.5,1,0,1,1,1,0,0,0,1
+EEUU,Senior,15600,True,Remoto 100%,Consulting,12.7,4.7,1,1,1,0,1,0,1,1,1
+EEUU,Senior,13800,True,Remoto 100%,Tech/SaaS,12.0,3.5,1,1,1,0,1,1,0,1,1
+Argentina,Junior,800,False,Híbrido,Consultoría,1.7,2.4,0,1,1,0,1,0,0,0,1
+EEUU,Senior,12350,True,Híbrido,Government,14.0,4.8,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2050,False,Híbrido,Telecomunicaciones,3.5,4.2,1,1,1,1,1,1,1,0,0
+EEUU,Senior,14200,True,Remoto 100%,Fintech,8.2,3.6,0,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,9200,True,Remoto 100%,Media,5.0,4.2,0,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Gobierno,5.2,3.6,0,1,1,1,1,0,0,0,0
+Argentina,Senior,4250,False,Remoto 100%,Consultoría,12.3,3.1,1,1,1,0,1,1,0,1,1
+EEUU,Semi-Senior,8950,True,Híbrido,Retail,2.6,4.8,1,1,0,1,0,1,0,1,1
+EEUU,Semi-Senior,6800,True,Remoto 100%,Healthcare,2.6,3.9,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2850,True,Remoto 100%,Telecomunicaciones,3.0,3.4,1,1,1,0,1,1,1,0,1
+EEUU,Senior,12000,True,Remoto 100%,Retail,7.9,3.7,1,1,1,1,0,1,1,1,0
+Argentina,Senior,5400,True,Híbrido,Retail,10.8,2.6,1,1,1,0,1,0,1,0,0
+Argentina,Junior,900,False,Presencial,Retail,1.3,3.5,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8100,True,Remoto 100%,Tech/SaaS,5.2,4.2,1,1,1,1,1,0,1,0,0
+Argentina,Junior,1400,True,Remoto 100%,Consultoría,1.4,3.8,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8350,True,Híbrido,Fintech,5.8,4.0,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1100,False,Híbrido,Fintech,0.3,4.0,1,1,0,0,1,0,0,1,0
+EEUU,Junior,6250,True,Híbrido,Media,0.2,3.0,0,1,0,0,1,0,1,1,1
+Argentina,Junior,1100,False,Remoto 100%,Fintech,0.5,2.7,1,0,1,0,0,0,0,0,1
+Argentina,Junior,950,False,Híbrido,Gobierno,2.1,4.7,0,1,1,0,1,0,0,0,1
+EEUU,Junior,6700,False,Híbrido,Manufacturing,0.8,4.0,1,1,1,1,1,1,0,0,1
+EEUU,Junior,5450,True,Presencial,Government,0.9,4.3,1,1,1,1,0,0,1,0,1
+EEUU,Junior,5250,True,Remoto 100%,Healthcare,0.3,4.3,0,1,0,0,0,0,0,1,1
+EEUU,Semi-Senior,10100,True,Remoto 100%,Manufacturing,4.2,5.0,1,0,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2600,False,Híbrido,Consultoría,3.6,2.9,0,1,1,1,1,0,0,1,1
+EEUU,Junior,5700,True,Híbrido,Finance,1.6,4.1,0,1,0,0,1,0,0,1,1
+EEUU,Junior,5750,True,Híbrido,Retail,1.0,3.5,0,1,0,1,1,0,0,1,0
+EEUU,Senior,11000,True,Remoto 100%,E-commerce,11.8,2.7,1,0,1,0,1,0,0,1,1
+Argentina,Senior,4050,False,Remoto 100%,Fintech,9.2,5.0,1,1,0,0,0,0,1,1,1
+Argentina,Senior,3250,False,Híbrido,Banca,11.7,4.2,1,1,1,1,1,1,0,1,1
+EEUU,Junior,5750,True,Híbrido,Healthcare,2.2,4.8,1,0,0,0,1,1,1,0,0
+Argentina,Semi-Senior,2700,True,Remoto 100%,E-commerce,3.5,3.3,0,1,1,1,1,0,0,1,0
+EEUU,Junior,5350,True,Presencial,Media,2.1,5.0,1,1,0,0,1,0,1,1,0
+Argentina,Semi-Senior,2900,True,Remoto 100%,E-commerce,4.1,5.0,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,9300,True,Remoto 100%,Fintech,4.8,3.1,0,1,1,1,1,1,1,1,1
+Argentina,Junior,1250,True,Híbrido,Consultoría,2.3,3.3,1,1,1,0,1,1,0,1,0
+EEUU,Junior,5500,True,Remoto 100%,E-commerce,1.9,4.2,1,1,1,0,1,0,0,0,0
+EEUU,Junior,6500,True,Híbrido,Retail,1.8,4.2,1,0,0,0,0,0,1,0,1
+Argentina,Senior,5100,True,Remoto 100%,Gobierno,13.2,2.8,1,1,1,0,1,0,0,0,1
+Argentina,Senior,3550,False,Híbrido,Banca,11.0,3.2,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,1450,False,Híbrido,Gobierno,5.1,3.6,0,0,0,0,0,0,1,1,0
+Argentina,Senior,3800,False,Híbrido,Gobierno,6.7,3.0,0,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,9100,True,Presencial,Finance,5.0,4.0,1,1,1,0,1,1,1,1,1
+Argentina,Junior,1050,True,Remoto 100%,Consultoría,0.3,3.8,1,0,0,0,1,0,0,1,0
+EEUU,Semi-Senior,10450,True,Híbrido,Tech/SaaS,2.5,3.6,0,1,1,0,1,1,0,1,1
+EEUU,Junior,6450,True,Híbrido,Retail,1.9,3.1,0,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,9650,True,Híbrido,Government,5.2,5.0,1,1,0,1,0,0,1,1,1
+EEUU,Senior,14100,True,Híbrido,E-commerce,6.1,3.3,1,1,1,0,1,1,1,1,1
+EEUU,Junior,6050,True,Híbrido,Media,1.1,3.3,0,1,1,1,1,0,0,0,0
+EEUU,Junior,4650,True,Presencial,Tech/SaaS,1.1,3.8,0,1,1,1,1,0,0,1,1
+Argentina,Senior,3100,False,Remoto 100%,Manufactura,6.2,2.5,0,1,0,1,1,0,0,1,1
+Argentina,Junior,1200,False,Presencial,Banca,1.1,2.9,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1000,False,Híbrido,Banca,1.7,3.7,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1050,False,Híbrido,Salud,2.2,3.5,1,1,1,1,1,0,0,0,0
+Argentina,Junior,950,False,Híbrido,Salud,1.3,2.9,0,1,1,0,0,1,0,0,1
+Argentina,Senior,4750,True,Híbrido,Manufactura,12.8,3.9,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,10250,True,Híbrido,Government,3.9,4.6,0,1,1,0,0,0,0,0,1
+Argentina,Semi-Senior,1550,True,Remoto 100%,E-commerce,4.4,3.0,1,1,0,0,1,1,0,0,0
+Argentina,Junior,1150,False,Remoto 100%,Fintech,1.6,3.8,0,1,0,1,1,0,0,0,0
+EEUU,Senior,13150,True,Híbrido,Government,9.0,3.4,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,9200,True,Presencial,Retail,4.9,5.0,1,1,0,0,1,1,1,1,0
+Argentina,Junior,1200,False,Presencial,Manufactura,2.0,2.8,1,0,1,1,1,0,0,0,0
+EEUU,Junior,5350,True,Remoto 100%,Retail,0.1,3.8,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,7600,True,Remoto 100%,Government,4.9,1.9,1,1,0,1,0,1,1,0,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Manufactura,4.9,3.5,1,1,1,1,0,1,0,0,0
+Argentina,Junior,850,False,Híbrido,E-commerce,1.2,3.1,0,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Tecnología/SaaS,3.6,3.0,0,1,1,0,1,0,0,1,0
+Argentina,Senior,4050,True,Híbrido,Tecnología/SaaS,10.9,3.2,1,1,1,1,1,1,1,0,0
+Argentina,Semi-Senior,2500,True,Híbrido,Retail,5.3,3.7,0,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,1700,False,Presencial,E-commerce,2.5,2.8,1,1,1,1,1,0,0,0,1
+Argentina,Junior,950,False,Remoto 100%,Tecnología/SaaS,1.8,2.9,0,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2700,False,Remoto 100%,Fintech,3.2,4.1,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,8200,True,Híbrido,Healthcare,3.4,3.7,0,1,0,0,1,1,0,1,0
+EEUU,Semi-Senior,8800,True,Remoto 100%,Consulting,3.7,3.7,1,1,1,0,0,0,1,1,0
+Argentina,Senior,4500,True,Remoto 100%,Telecomunicaciones,10.3,3.6,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6850,True,Presencial,Media,0.8,4.4,0,1,0,1,0,1,1,1,0
+EEUU,Semi-Senior,9000,True,Remoto 100%,Media,3.0,3.9,1,1,0,1,0,1,1,1,1
+EEUU,Senior,13300,True,Remoto 100%,Finance,12.7,4.3,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1300,False,Remoto 100%,E-commerce,0.7,4.2,0,1,1,1,1,1,0,0,1
+Argentina,Junior,1250,True,Presencial,Tecnología/SaaS,0.8,3.4,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2850,True,Remoto 100%,Fintech,2.9,3.0,1,1,1,0,1,0,0,0,1
+Argentina,Senior,3800,False,Presencial,E-commerce,6.8,3.3,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,7650,True,Híbrido,Healthcare,3.0,4.4,1,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,9350,True,Remoto 100%,E-commerce,3.3,4.4,1,1,1,1,1,0,1,0,0
+Argentina,Senior,4800,True,Híbrido,Fintech,10.1,4.3,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1500,False,Remoto 100%,Banca,1.3,2.4,1,0,1,1,1,0,0,0,0
+Argentina,Junior,1000,False,Remoto 100%,E-commerce,2.1,3.9,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1200,False,Híbrido,Telecomunicaciones,0.3,3.1,1,1,0,1,1,0,0,0,0
+EEUU,Junior,5900,True,Híbrido,Finance,1.5,3.9,1,1,1,0,1,1,1,0,0
+Argentina,Semi-Senior,3100,True,Híbrido,Telecomunicaciones,4.2,4.4,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,2200,False,Híbrido,Consultoría,4.8,3.2,0,1,1,1,0,1,1,0,1
+EEUU,Semi-Senior,7800,True,Híbrido,Retail,2.8,3.5,1,1,1,1,0,1,1,0,1
+EEUU,Semi-Senior,8500,True,Híbrido,Finance,3.7,5.0,1,1,1,1,1,0,0,1,1
+EEUU,Senior,13900,True,Remoto 100%,E-commerce,9.1,4.1,1,1,0,0,0,0,0,1,1
+EEUU,Senior,13800,True,Remoto 100%,E-commerce,9.3,4.0,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,7850,True,Remoto 100%,E-commerce,3.3,4.8,0,1,0,1,1,0,0,1,1
+EEUU,Junior,5800,True,Remoto 100%,Finance,0.2,4.0,0,1,1,1,0,0,1,0,0
+EEUU,Semi-Senior,7650,True,Remoto 100%,Media,5.1,4.5,1,1,1,1,1,1,0,0,1
+EEUU,Senior,17550,True,Híbrido,Healthcare,14.4,3.5,0,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,10700,True,Remoto 100%,Manufacturing,3.3,5.0,1,0,0,1,0,1,1,1,1
+EEUU,Semi-Senior,8200,True,Híbrido,Fintech,5.3,4.5,1,1,1,1,1,0,0,1,0
+EEUU,Junior,7000,True,Remoto 100%,Retail,0.1,4.6,0,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8650,True,Híbrido,Media,5.9,4.3,1,1,1,1,1,0,0,1,1
+EEUU,Senior,11150,True,Remoto 100%,Media,14.1,3.3,1,1,1,1,1,1,1,1,1
+EEUU,Junior,5450,True,Presencial,Finance,2.4,4.4,1,1,1,0,1,1,0,0,1
+EEUU,Senior,13550,True,Remoto 100%,Manufacturing,7.1,4.1,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,7950,True,Híbrido,Media,4.5,2.9,0,1,0,1,1,0,1,0,0
+Argentina,Junior,1200,True,Híbrido,Salud,1.2,4.7,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2000,True,Remoto 100%,E-commerce,2.8,4.0,1,1,0,1,1,0,0,1,1
+Argentina,Junior,700,True,Híbrido,Consultoría,2.5,4.3,1,1,0,1,1,1,0,0,0
+Argentina,Semi-Senior,2650,True,Presencial,Banca,4.5,4.1,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,8200,True,Remoto 100%,Retail,3.0,3.9,1,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,2250,False,Remoto 100%,Consultoría,3.9,4.3,1,1,1,0,1,1,0,0,0
+EEUU,Senior,10250,True,Híbrido,Tech/SaaS,13.8,3.5,1,1,0,1,1,1,1,1,0
+Argentina,Semi-Senior,2500,True,Remoto 100%,Consultoría,3.8,3.7,0,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Manufactura,6.0,2.5,1,1,0,0,1,1,1,1,1
+Argentina,Senior,3350,True,Remoto 100%,Retail,14.1,3.0,1,1,1,1,1,0,0,1,1
+Argentina,Senior,5700,True,Remoto 100%,Fintech,8.8,4.3,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7100,False,Híbrido,Manufacturing,4.1,3.6,0,1,1,1,0,0,0,1,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Tecnología/SaaS,5.0,4.2,1,0,1,0,1,0,1,0,1
+EEUU,Senior,14000,True,Híbrido,Manufacturing,13.8,3.7,1,1,0,1,1,0,1,1,1
+EEUU,Junior,5150,True,Híbrido,Retail,0.0,4.8,1,1,1,1,1,0,0,1,0
+EEUU,Senior,15350,True,Remoto 100%,Retail,12.4,3.7,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2500,False,Híbrido,Gobierno,6.0,3.1,1,1,1,1,1,1,1,0,1
+EEUU,Semi-Senior,8650,True,Remoto 100%,Retail,4.8,2.8,1,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,2900,True,Presencial,Consultoría,4.8,3.3,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2350,False,Híbrido,Tecnología/SaaS,4.0,4.2,0,1,1,1,0,0,0,0,1
+Argentina,Semi-Senior,1950,False,Remoto 100%,Retail,3.5,3.6,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5400,True,Híbrido,Government,1.6,3.8,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2750,True,Remoto 100%,Fintech,5.7,4.4,1,0,0,0,1,1,1,0,1
+Argentina,Semi-Senior,2700,True,Remoto 100%,Retail,5.2,4.4,1,1,0,1,1,1,0,0,1
+EEUU,Junior,5450,True,Híbrido,Manufacturing,1.1,4.0,1,1,0,1,1,1,0,1,0
+Argentina,Junior,1100,True,Híbrido,Tecnología/SaaS,2.2,3.7,1,1,1,1,1,1,0,0,0
+EEUU,Senior,11300,True,Remoto 100%,Government,13.4,3.5,1,1,0,0,0,1,0,1,1
+EEUU,Semi-Senior,9100,True,Híbrido,Tech/SaaS,2.8,4.7,1,1,1,1,1,0,1,0,1
+EEUU,Senior,15300,True,Remoto 100%,Healthcare,6.1,4.6,1,1,0,1,0,0,1,1,1
+Argentina,Semi-Senior,2850,True,Híbrido,Fintech,3.5,2.9,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2350,True,Remoto 100%,Telecomunicaciones,3.2,3.7,1,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,8500,True,Híbrido,Finance,5.1,2.8,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2950,True,Remoto 100%,Retail,2.7,2.4,1,0,1,0,1,1,1,1,0
+Argentina,Semi-Senior,2150,False,Presencial,Telecomunicaciones,5.4,3.3,1,1,1,1,0,0,1,0,0
+Argentina,Semi-Senior,3600,True,Remoto 100%,Banca,3.0,2.7,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2900,True,Remoto 100%,Fintech,2.7,2.9,0,1,0,0,1,0,0,0,0
+Argentina,Senior,3750,False,Remoto 100%,Manufactura,7.3,3.0,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6400,True,Remoto 100%,Fintech,1.5,5.0,0,1,1,0,0,0,1,1,1
+Argentina,Semi-Senior,1000,False,Remoto 100%,E-commerce,5.0,4.0,0,1,0,1,1,0,1,0,0
+EEUU,Semi-Senior,8550,True,Remoto 100%,Government,4.6,4.2,1,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,9000,True,Presencial,Finance,5.9,2.6,1,1,1,0,0,0,1,1,1
+EEUU,Semi-Senior,7950,True,Remoto 100%,Media,4.0,4.0,0,1,1,0,1,0,1,1,1
+Argentina,Senior,3600,True,Remoto 100%,Gobierno,6.5,3.3,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,1950,False,Remoto 100%,Salud,3.2,4.8,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8700,True,Híbrido,Retail,4.3,4.5,1,1,1,1,1,0,0,1,1
+EEUU,Junior,5000,True,Híbrido,Fintech,1.4,4.4,1,1,1,1,1,0,0,0,0
+EEUU,Junior,6100,True,Híbrido,Fintech,0.1,4.7,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2850,True,Remoto 100%,Retail,3.5,3.1,1,1,1,1,1,1,1,0,1
+Argentina,Junior,850,False,Híbrido,Banca,1.9,3.9,1,1,1,1,1,0,0,0,0
+EEUU,Senior,12900,True,Híbrido,E-commerce,6.5,2.9,1,1,1,0,0,0,0,1,1
+EEUU,Junior,4900,True,Híbrido,Healthcare,2.2,4.0,0,0,1,0,1,0,1,1,1
+EEUU,Semi-Senior,7800,True,Remoto 100%,Manufacturing,4.1,3.8,1,1,1,1,1,1,0,1,1
+Argentina,Senior,3850,True,Remoto 100%,Banca,11.9,4.7,1,1,1,1,1,0,1,0,1
+EEUU,Junior,5200,True,Híbrido,Media,0.9,2.6,1,1,1,0,1,0,1,1,1
+Argentina,Senior,3450,False,Remoto 100%,Gobierno,11.8,2.6,0,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2200,True,Remoto 100%,Banca,4.8,3.3,1,1,1,1,1,0,0,1,0
+EEUU,Junior,6700,True,Híbrido,Finance,2.3,4.0,1,1,1,1,0,0,1,0,1
+EEUU,Junior,5950,True,Híbrido,Consulting,2.1,3.6,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8600,True,Híbrido,Fintech,4.8,3.9,0,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,1750,False,Remoto 100%,E-commerce,3.6,3.6,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Retail,5.1,3.5,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,8400,True,Remoto 100%,Fintech,6.0,3.8,1,1,1,1,0,0,0,0,1
+Argentina,Semi-Senior,2800,True,Híbrido,Gobierno,3.0,3.1,0,1,1,0,1,0,0,0,1
+EEUU,Junior,6550,True,Híbrido,Healthcare,0.6,4.5,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2550,True,Presencial,Banca,3.7,2.5,1,1,0,0,1,0,0,1,1
+EEUU,Junior,5650,True,Remoto 100%,E-commerce,1.9,4.1,1,1,0,0,1,1,0,1,1
+EEUU,Semi-Senior,11500,True,Remoto 100%,Media,5.5,4.8,1,0,0,0,1,0,1,1,0
+EEUU,Junior,7100,True,Remoto 100%,Finance,2.2,3.9,1,1,1,0,0,0,0,1,0
+Argentina,Semi-Senior,2150,False,Remoto 100%,E-commerce,5.3,3.8,1,1,1,1,0,0,0,0,0
+Argentina,Semi-Senior,1700,False,Remoto 100%,Fintech,2.9,3.5,0,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1800,True,Híbrido,Consultoría,3.6,2.7,1,1,1,1,0,0,1,0,0
+Argentina,Senior,4950,True,Híbrido,Consultoría,7.8,3.0,0,1,1,0,1,1,0,0,1
+Argentina,Junior,1050,False,Presencial,Gobierno,0.7,3.1,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,2250,True,Presencial,Banca,5.2,3.3,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2400,False,Presencial,Retail,4.3,3.1,0,1,1,0,0,1,0,0,0
+Argentina,Junior,1000,False,Híbrido,Fintech,1.6,2.6,0,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2350,True,Remoto 100%,E-commerce,3.7,3.1,1,1,1,0,0,0,1,0,1
+Argentina,Semi-Senior,2300,True,Presencial,Fintech,3.5,3.9,1,1,0,1,1,1,1,0,1
+EEUU,Semi-Senior,8100,True,Remoto 100%,Retail,4.2,3.6,1,1,1,1,1,1,0,1,0
+EEUU,Senior,11800,True,Remoto 100%,Manufacturing,10.4,3.8,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Telecomunicaciones,2.9,3.8,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8350,True,Remoto 100%,Government,4.7,3.9,1,1,1,0,0,1,1,1,1
+EEUU,Semi-Senior,10750,True,Remoto 100%,Retail,3.8,4.7,0,1,0,0,1,0,0,1,1
+EEUU,Senior,16250,True,Híbrido,Consulting,14.4,4.5,1,1,1,1,0,0,1,1,1
+Argentina,Junior,750,False,Remoto 100%,Salud,1.8,3.2,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9050,True,Híbrido,E-commerce,4.0,3.0,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Telecomunicaciones,4.3,3.5,1,1,1,1,1,1,1,0,0
+Argentina,Senior,4150,True,Presencial,Salud,11.8,3.3,1,1,1,1,1,0,1,1,0
+EEUU,Senior,14050,True,Remoto 100%,Healthcare,12.3,3.3,0,1,0,1,1,1,1,0,0
+Argentina,Semi-Senior,2600,False,Híbrido,Salud,5.1,2.6,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1150,False,Remoto 100%,Fintech,1.0,3.9,1,1,0,1,1,0,0,0,0
+Argentina,Junior,1100,False,Remoto 100%,E-commerce,0.5,3.2,0,1,0,0,1,0,0,0,0
+EEUU,Semi-Senior,8150,True,Presencial,Media,3.2,4.6,0,1,1,1,1,0,1,1,0
+EEUU,Junior,4550,True,Híbrido,Government,1.7,3.2,1,1,0,0,1,0,1,1,1
+Argentina,Junior,700,False,Remoto 100%,Banca,0.1,3.4,1,0,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2050,False,Híbrido,Telecomunicaciones,2.8,3.2,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,2350,False,Híbrido,Fintech,4.2,2.7,1,1,1,0,0,0,0,0,0
+EEUU,Semi-Senior,9400,True,Remoto 100%,Government,4.5,2.6,1,1,0,0,1,0,0,0,1
+EEUU,Junior,4550,False,Remoto 100%,Healthcare,0.1,4.6,1,1,1,0,1,1,1,0,1
+EEUU,Junior,6000,True,Remoto 100%,Manufacturing,0.8,4.9,0,1,1,0,1,1,1,1,0
+Argentina,Senior,4900,True,Presencial,E-commerce,9.0,3.9,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8600,True,Híbrido,E-commerce,4.6,3.7,1,1,1,0,1,0,1,0,1
+EEUU,Junior,5900,True,Híbrido,Government,0.5,3.7,1,1,0,1,1,1,0,1,0
+EEUU,Semi-Senior,9100,True,Remoto 100%,Media,4.4,4.1,1,1,0,0,1,1,0,1,1
+Argentina,Junior,1050,False,Remoto 100%,Manufactura,1.9,3.8,1,1,0,0,1,0,0,1,0
+EEUU,Semi-Senior,7750,True,Híbrido,Government,4.0,3.4,1,1,0,0,0,0,0,1,1
+EEUU,Semi-Senior,10450,True,Híbrido,Consulting,4.9,4.5,1,1,1,0,0,1,1,0,1
+Argentina,Senior,2900,False,Presencial,Fintech,13.3,3.8,1,1,0,1,0,0,0,0,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Telecomunicaciones,5.9,3.7,0,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2350,False,Híbrido,Consultoría,4.7,5.0,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2200,False,Híbrido,Fintech,5.7,2.9,1,0,0,1,1,1,1,0,0
+Argentina,Semi-Senior,2200,False,Híbrido,Fintech,3.1,3.7,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8450,True,Remoto 100%,Fintech,4.1,3.7,1,1,1,1,1,1,0,0,1
+Argentina,Senior,5300,True,Remoto 100%,Banca,7.7,4.3,1,1,1,0,1,0,0,1,1
+Argentina,Senior,5150,True,Remoto 100%,Tecnología/SaaS,8.3,3.6,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,2450,False,Híbrido,Manufactura,4.2,3.4,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,1900,False,Remoto 100%,Salud,5.0,2.6,1,1,1,0,1,0,1,0,0
+EEUU,Senior,12650,True,Remoto 100%,Retail,9.7,4.8,1,1,0,1,0,0,0,0,1
+EEUU,Junior,5750,True,Híbrido,Retail,0.6,3.2,1,1,0,0,1,0,0,1,1
+EEUU,Junior,7400,True,Híbrido,Healthcare,0.1,4.8,0,1,1,1,1,0,0,1,1
+EEUU,Junior,5750,True,Remoto 100%,Consulting,2.2,4.0,1,0,1,0,0,1,0,1,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Manufactura,3.5,2.6,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,3300,True,Remoto 100%,Gobierno,3.8,2.5,1,1,1,0,1,1,0,0,0
+EEUU,Junior,5750,True,Híbrido,Media,1.4,3.9,1,1,0,0,0,1,0,1,1
+Argentina,Semi-Senior,2150,True,Remoto 100%,Salud,5.2,3.7,1,1,0,0,1,0,0,1,1
+EEUU,Junior,5700,True,Remoto 100%,Media,0.4,3.0,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2450,True,Remoto 100%,E-commerce,3.7,4.0,0,1,1,1,1,1,0,0,1
+Argentina,Senior,4400,True,Remoto 100%,Telecomunicaciones,12.4,3.2,1,1,1,0,1,0,0,0,1
+EEUU,Senior,15200,True,Remoto 100%,Manufacturing,10.0,4.3,1,1,1,1,1,1,1,1,1
+EEUU,Junior,5450,True,Híbrido,Tech/SaaS,0.1,3.7,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2100,False,Presencial,Retail,4.4,4.6,0,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,9700,True,Remoto 100%,Consulting,5.6,4.3,0,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Consultoría,5.9,2.1,1,1,1,0,1,0,1,0,1
+EEUU,Junior,6750,False,Híbrido,Tech/SaaS,0.8,2.2,0,1,0,0,0,0,0,1,0
+EEUU,Junior,6100,True,Híbrido,Finance,1.2,4.2,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2300,True,Híbrido,Salud,4.7,4.5,1,1,0,1,1,0,1,0,1
+EEUU,Semi-Senior,8600,True,Presencial,Finance,4.2,3.5,0,0,1,0,1,0,1,0,1
+EEUU,Senior,14050,True,Remoto 100%,Media,6.9,4.0,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2550,True,Híbrido,Fintech,3.3,3.8,1,1,1,1,1,0,1,0,0
+Argentina,Junior,700,True,Remoto 100%,Fintech,2.3,3.1,0,1,1,0,1,0,0,0,0
+Argentina,Senior,3700,False,Remoto 100%,Tecnología/SaaS,13.8,3.4,1,1,1,0,1,1,1,0,1
+Argentina,Semi-Senior,2750,True,Híbrido,Tecnología/SaaS,3.2,4.6,1,1,1,0,1,1,0,0,1
+EEUU,Junior,5600,True,Híbrido,E-commerce,2.4,3.7,1,1,1,1,0,1,0,0,1
+Argentina,Junior,900,True,Híbrido,Banca,0.2,2.2,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1450,True,Remoto 100%,Banca,0.2,3.9,0,1,1,1,1,0,0,0,0
+EEUU,Junior,4000,True,Híbrido,Tech/SaaS,0.9,3.6,1,1,0,0,1,0,1,0,0
+EEUU,Senior,13550,True,Remoto 100%,E-commerce,13.6,4.8,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1100,False,Presencial,Telecomunicaciones,2.0,3.8,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5500,True,Híbrido,Media,0.5,4.6,1,0,1,1,1,0,0,1,0
+EEUU,Junior,5550,True,Híbrido,Manufacturing,1.7,4.1,1,1,0,0,1,1,0,1,0
+Argentina,Semi-Senior,2400,True,Híbrido,Telecomunicaciones,5.6,4.5,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1250,True,Remoto 100%,Telecomunicaciones,1.9,3.5,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,9150,True,Híbrido,Finance,5.7,3.2,1,1,1,1,1,0,0,0,1
+EEUU,Junior,6100,True,Híbrido,E-commerce,1.6,4.7,1,0,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2900,True,Remoto 100%,Manufactura,4.1,3.7,0,1,0,0,1,0,1,1,0
+EEUU,Senior,14500,True,Híbrido,Manufacturing,11.6,4.9,1,0,0,1,1,1,0,0,1
+Argentina,Junior,950,False,Presencial,Banca,0.3,5.0,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2250,True,Híbrido,Gobierno,4.7,4.0,1,0,1,0,1,1,1,1,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,E-commerce,4.7,3.7,1,0,1,0,1,1,0,0,1
+EEUU,Junior,5350,True,Remoto 100%,Media,1.3,4.4,1,1,1,0,1,1,0,0,1
+EEUU,Semi-Senior,9250,True,Remoto 100%,Fintech,3.7,4.1,1,1,0,1,1,0,1,0,1
+Argentina,Semi-Senior,3150,True,Híbrido,Salud,5.6,3.6,1,1,0,0,1,0,0,1,1
+Argentina,Junior,700,False,Presencial,Banca,1.1,4.7,0,1,0,1,1,0,0,0,0
+EEUU,Semi-Senior,8300,True,Remoto 100%,Finance,5.9,4.6,1,1,0,0,1,0,0,1,0
+Argentina,Semi-Senior,2450,True,Presencial,Retail,4.8,5.0,0,1,0,1,1,0,0,0,1
+Argentina,Senior,3050,False,Remoto 100%,Salud,10.6,3.0,0,1,1,1,0,1,1,1,1
+EEUU,Junior,7350,False,Presencial,Finance,1.9,3.9,1,1,1,0,1,0,0,1,1
+EEUU,Junior,6150,True,Híbrido,Government,1.1,4.2,0,1,0,1,1,1,0,1,0
+Argentina,Semi-Senior,2950,True,Presencial,Banca,5.1,4.2,1,1,1,1,1,0,0,0,1
+Argentina,Senior,6350,True,Remoto 100%,E-commerce,13.8,3.9,0,1,1,1,1,0,1,0,1
+EEUU,Junior,7200,True,Híbrido,Manufacturing,0.9,4.2,1,1,0,0,1,0,0,1,0
+EEUU,Semi-Senior,7850,True,Híbrido,Healthcare,2.7,5.0,1,1,1,0,1,1,0,1,0
+EEUU,Junior,5600,True,Remoto 100%,Manufacturing,0.4,3.9,1,1,1,0,0,0,0,1,1
+Argentina,Semi-Senior,2150,False,Remoto 100%,Gobierno,4.1,2.5,1,1,1,1,1,1,0,1,1
+Argentina,Senior,5050,True,Remoto 100%,Manufactura,7.0,2.6,1,1,1,1,1,1,1,1,1
+Argentina,Senior,3250,True,Remoto 100%,Telecomunicaciones,10.6,3.3,1,1,1,1,1,0,1,1,1
+EEUU,Junior,5050,True,Remoto 100%,Finance,1.6,3.3,1,1,1,1,0,0,0,1,0
+Argentina,Junior,1350,True,Híbrido,Salud,1.0,3.9,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2750,True,Híbrido,Consultoría,3.8,3.5,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,6550,True,Híbrido,Fintech,3.0,2.4,1,1,0,1,1,1,1,1,1
+EEUU,Junior,5950,True,Remoto 100%,Media,2.4,4.2,0,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9800,True,Remoto 100%,Manufacturing,5.5,3.4,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,8500,True,Remoto 100%,Media,3.4,4.1,1,0,1,0,1,0,1,0,0
+EEUU,Semi-Senior,8650,True,Híbrido,Healthcare,4.1,3.6,1,1,1,0,1,1,0,0,0
+Argentina,Junior,1350,True,Híbrido,Gobierno,1.3,3.2,1,0,1,0,1,1,0,0,1
+EEUU,Semi-Senior,8350,True,Remoto 100%,Government,5.3,3.8,1,1,1,0,1,1,1,0,1
+EEUU,Senior,15000,True,Remoto 100%,Tech/SaaS,9.5,3.2,1,1,0,1,1,1,1,0,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,Tech/SaaS,4.2,3.4,1,1,1,0,1,1,0,1,1
+Argentina,Senior,3300,False,Remoto 100%,Telecomunicaciones,11.9,4.8,1,1,1,0,1,1,1,0,1
+Argentina,Senior,4100,False,Híbrido,Consultoría,9.3,4.3,0,1,1,1,1,0,0,0,1
+EEUU,Senior,13700,True,Remoto 100%,Tech/SaaS,10.8,3.0,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1250,True,Presencial,Manufactura,0.6,3.4,1,1,1,0,1,0,0,0,1
+Argentina,Senior,3200,True,Híbrido,Salud,6.0,3.6,1,1,0,0,0,0,1,0,1
+EEUU,Semi-Senior,7550,True,Híbrido,Government,3.6,2.3,1,1,0,1,1,1,1,1,1
+Argentina,Junior,1050,True,Híbrido,Banca,0.3,4.0,0,1,0,1,1,0,0,1,1
+Argentina,Junior,1200,False,Híbrido,E-commerce,2.0,2.0,0,1,0,1,0,1,0,0,0
+EEUU,Senior,9350,True,Híbrido,Manufacturing,11.6,3.8,1,1,1,1,0,0,1,0,1
+Argentina,Junior,950,False,Remoto 100%,Tecnología/SaaS,0.5,3.2,0,0,1,0,1,1,1,0,1
+Argentina,Senior,3550,False,Remoto 100%,E-commerce,13.3,2.3,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,9750,True,Remoto 100%,Retail,3.7,3.0,1,1,0,1,1,1,0,0,0
+Argentina,Junior,1150,False,Remoto 100%,Salud,1.0,2.8,1,0,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2850,True,Híbrido,Telecomunicaciones,5.5,3.1,1,1,1,0,1,0,0,1,0
+EEUU,Junior,7050,True,Presencial,E-commerce,1.2,3.6,1,0,0,1,1,0,0,1,1
+Argentina,Junior,900,False,Híbrido,Telecomunicaciones,1.3,4.2,1,1,0,0,1,0,0,0,1
+EEUU,Senior,12400,True,Remoto 100%,Consulting,11.3,3.9,1,1,1,0,1,1,1,1,1
+Argentina,Semi-Senior,2000,False,Remoto 100%,Banca,3.3,2.8,0,1,1,1,0,0,1,0,0
+EEUU,Semi-Senior,8250,True,Remoto 100%,Fintech,3.8,4.9,1,1,0,0,0,0,0,1,0
+EEUU,Junior,4800,True,Remoto 100%,Healthcare,0.6,4.5,0,1,0,1,1,1,0,0,1
+EEUU,Senior,15400,True,Remoto 100%,Finance,12.0,4.9,0,1,0,1,1,1,0,1,1
+Argentina,Senior,3100,False,Remoto 100%,Tecnología/SaaS,12.6,2.6,1,1,0,0,0,1,0,1,1
+Argentina,Junior,1200,False,Híbrido,Salud,0.2,3.5,0,1,0,0,1,0,0,0,0
+Argentina,Senior,3550,True,Híbrido,Retail,11.0,3.0,1,1,1,0,0,1,1,0,1
+Argentina,Junior,1050,True,Remoto 100%,Consultoría,0.4,3.8,1,1,1,1,1,0,0,0,0
+EEUU,Senior,11550,True,Híbrido,E-commerce,9.4,4.3,1,1,1,1,1,0,0,1,0
+EEUU,Senior,14000,True,Remoto 100%,Government,8.9,3.3,1,1,0,0,0,0,1,1,1
+EEUU,Semi-Senior,8500,True,Híbrido,Fintech,3.1,3.3,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,8950,True,Híbrido,Retail,5.4,2.4,0,1,1,1,1,0,1,0,1
+Argentina,Junior,1100,False,Remoto 100%,E-commerce,0.3,2.7,1,0,0,0,1,1,0,1,0
+Argentina,Semi-Senior,3350,True,Remoto 100%,Manufactura,5.0,4.8,1,1,1,1,1,1,0,0,1
+Argentina,Junior,850,True,Remoto 100%,Banca,1.7,3.0,0,1,0,1,1,1,0,0,0
+Argentina,Semi-Senior,2700,False,Híbrido,Retail,4.8,3.6,1,1,1,0,1,0,0,1,1
+Argentina,Senior,3550,False,Remoto 100%,E-commerce,8.8,3.0,0,1,1,1,0,0,0,0,0
+EEUU,Senior,14500,True,Remoto 100%,Government,11.6,4.9,1,1,1,1,1,0,1,1,1
+EEUU,Junior,4450,True,Híbrido,Media,1.8,4.2,0,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,3300,True,Presencial,Salud,3.5,2.6,1,1,0,1,0,0,0,1,1
+Argentina,Semi-Senior,1700,True,Híbrido,Banca,3.3,3.1,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2850,True,Remoto 100%,Retail,5.6,3.4,1,1,1,1,0,0,0,0,0
+Argentina,Semi-Senior,2450,True,Remoto 100%,Manufactura,3.1,2.1,1,0,1,0,1,0,0,1,0
+Argentina,Junior,1000,False,Remoto 100%,Fintech,2.5,3.5,1,1,1,0,1,0,0,0,0
+Argentina,Senior,2950,True,Remoto 100%,Banca,6.6,4.6,1,1,1,1,1,0,0,1,0
+EEUU,Semi-Senior,8850,True,Híbrido,Consulting,4.1,4.5,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,8000,True,Híbrido,Fintech,4.8,4.0,1,1,0,1,0,1,1,1,1
+Argentina,Semi-Senior,3600,True,Remoto 100%,Manufactura,3.0,3.6,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,3650,True,Remoto 100%,Gobierno,3.9,3.3,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2600,False,Remoto 100%,Telecomunicaciones,4.1,4.0,1,1,0,0,0,0,1,0,1
+EEUU,Semi-Senior,8550,True,Remoto 100%,Healthcare,4.4,4.4,1,0,0,1,0,0,1,0,1
+EEUU,Semi-Senior,9150,True,Presencial,Manufacturing,5.0,3.2,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,3250,True,Remoto 100%,Fintech,4.4,3.1,1,1,1,1,1,0,0,0,0
+Argentina,Junior,850,False,Remoto 100%,Salud,1.5,3.8,0,1,1,1,1,0,1,0,1
+EEUU,Senior,10300,True,Híbrido,Consulting,10.0,3.8,1,1,0,1,1,1,1,1,1
+EEUU,Senior,15250,True,Presencial,Fintech,7.6,4.6,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,1800,False,Remoto 100%,Banca,3.7,2.9,0,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,1100,False,Híbrido,Consultoría,2.8,5.0,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,9650,True,Remoto 100%,Fintech,4.3,3.6,1,1,0,0,1,0,1,1,0
+Argentina,Senior,3600,True,Remoto 100%,Fintech,9.9,4.6,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,7250,True,Híbrido,Healthcare,3.8,4.3,1,1,0,0,0,0,0,0,1
+EEUU,Senior,15550,True,Remoto 100%,Consulting,9.7,3.6,1,1,1,1,0,0,0,1,1
+EEUU,Senior,12050,True,Remoto 100%,Retail,9.8,2.2,1,1,0,1,1,0,0,0,1
+EEUU,Senior,13550,True,Presencial,Consulting,14.5,5.0,0,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,1900,False,Remoto 100%,Salud,3.7,2.2,0,1,1,1,0,0,0,0,1
+EEUU,Semi-Senior,8900,True,Híbrido,Finance,3.4,2.6,1,1,1,0,0,1,0,1,1
+Argentina,Semi-Senior,2700,True,Híbrido,Manufactura,4.2,4.2,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1200,False,Híbrido,Gobierno,0.5,2.8,0,1,1,1,1,0,0,1,0
+EEUU,Junior,6650,False,Remoto 100%,Retail,2.3,3.6,1,1,0,1,1,1,1,1,1
+Argentina,Junior,900,False,Remoto 100%,Telecomunicaciones,2.0,4.0,1,1,1,1,1,0,1,0,1
+Argentina,Semi-Senior,1850,False,Presencial,Gobierno,5.2,2.9,0,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2800,False,Híbrido,Consultoría,4.3,3.8,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2050,False,Híbrido,Consultoría,4.1,2.9,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,8200,True,Híbrido,Finance,2.6,2.9,1,1,0,0,1,0,0,1,1
+EEUU,Junior,5000,True,Híbrido,Consulting,0.4,4.5,1,1,1,1,1,0,0,1,0
+Argentina,Junior,500,True,Híbrido,E-commerce,0.4,3.6,0,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,8850,True,Remoto 100%,Retail,4.4,5.0,1,1,1,0,1,1,0,1,0
+Argentina,Senior,5700,True,Remoto 100%,Consultoría,13.4,2.8,1,1,1,0,1,1,1,0,0
+Argentina,Junior,1000,False,Remoto 100%,E-commerce,1.3,4.3,0,1,1,1,1,0,0,0,1
+Argentina,Junior,1000,False,Híbrido,Retail,0.8,3.0,0,1,0,1,0,0,0,0,0
+EEUU,Semi-Senior,7800,True,Remoto 100%,Retail,2.8,4.0,0,1,0,1,1,0,1,0,1
+Argentina,Semi-Senior,2950,True,Remoto 100%,Salud,3.0,3.2,1,1,1,1,1,0,0,0,1
+EEUU,Junior,5450,True,Remoto 100%,E-commerce,1.7,4.3,1,1,0,1,1,0,0,0,1
+Argentina,Junior,1050,False,Remoto 100%,Fintech,0.3,4.3,1,1,0,0,1,0,0,0,0
+EEUU,Junior,6100,True,Presencial,Consulting,2.3,4.0,1,1,0,1,1,0,0,1,0
+Argentina,Junior,1250,False,Híbrido,Manufactura,1.6,3.4,1,1,1,0,1,0,0,0,0
+Argentina,Junior,1000,True,Híbrido,Retail,1.0,4.1,0,0,0,0,1,0,0,0,0
+Argentina,Semi-Senior,3300,True,Remoto 100%,Retail,4.2,3.9,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,10450,True,Remoto 100%,Finance,5.5,4.1,1,1,0,0,1,0,0,0,1
+EEUU,Junior,6300,True,Híbrido,E-commerce,0.9,4.5,1,1,0,0,1,0,1,0,1
+EEUU,Semi-Senior,7450,True,Presencial,Manufacturing,3.2,2.8,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2550,False,Híbrido,Retail,2.8,3.9,1,1,1,0,0,1,0,1,0
+Argentina,Semi-Senior,2750,False,Remoto 100%,Fintech,4.1,4.2,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,1750,False,Híbrido,Tecnología/SaaS,3.8,3.2,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Salud,3.1,4.1,1,1,1,1,1,0,0,1,0
+Argentina,Senior,3900,True,Remoto 100%,Gobierno,7.8,3.3,1,1,0,1,1,1,0,0,1
+Argentina,Senior,3900,True,Híbrido,Manufactura,12.4,3.8,1,1,1,1,1,0,1,1,0
+Argentina,Junior,1000,False,Híbrido,Salud,0.3,3.3,1,1,0,0,1,0,0,1,0
+Argentina,Junior,850,False,Remoto 100%,Gobierno,0.3,3.3,1,1,1,0,1,0,1,1,1
+EEUU,Semi-Senior,8950,True,Híbrido,Finance,5.4,3.1,1,1,0,1,1,0,1,0,1
+EEUU,Senior,11800,True,Híbrido,Media,7.0,4.0,1,1,1,0,1,0,1,1,1
+Argentina,Semi-Senior,2300,True,Híbrido,Tecnología/SaaS,5.5,4.1,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,1850,False,Híbrido,Retail,4.5,2.2,1,0,1,1,1,0,0,0,0
+Argentina,Semi-Senior,1700,False,Presencial,Consultoría,3.1,3.7,1,1,1,1,1,0,1,0,1
+EEUU,Junior,5450,True,Híbrido,Manufacturing,1.6,2.8,0,1,1,1,1,1,0,0,0
+Argentina,Junior,850,True,Presencial,Gobierno,1.5,3.5,1,1,1,1,0,0,0,0,0
+Argentina,Junior,900,False,Híbrido,Telecomunicaciones,0.4,3.9,1,0,1,0,1,0,0,0,1
+EEUU,Junior,6550,True,Remoto 100%,E-commerce,0.1,3.4,0,1,0,0,0,0,1,0,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Retail,4.3,2.9,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,8450,True,Remoto 100%,Healthcare,5.8,3.0,1,1,0,1,1,0,0,1,1
+EEUU,Junior,6800,True,Presencial,Fintech,1.2,3.7,1,1,0,1,0,0,1,1,1
+Argentina,Junior,800,True,Presencial,Salud,0.5,3.5,1,1,1,0,1,0,0,0,1
+EEUU,Junior,8250,True,Remoto 100%,Retail,1.7,5.0,0,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,2000,False,Híbrido,Banca,5.0,3.4,1,1,1,0,1,0,0,0,0
+Argentina,Senior,5300,True,Remoto 100%,Consultoría,10.5,3.2,1,1,1,1,1,0,0,0,1
+Argentina,Junior,600,False,Remoto 100%,Manufactura,2.0,3.6,1,1,1,0,0,0,0,0,0
+Argentina,Junior,750,False,Remoto 100%,Banca,0.2,3.1,1,1,0,0,1,0,0,1,1
+Argentina,Senior,6150,True,Remoto 100%,Retail,11.3,3.3,1,1,1,1,1,1,0,0,1
+Argentina,Junior,1200,True,Remoto 100%,Tecnología/SaaS,0.9,2.8,0,1,1,1,1,0,0,0,0
+EEUU,Junior,6150,True,Remoto 100%,Tech/SaaS,2.2,4.8,1,1,1,0,0,0,0,0,0
+Argentina,Semi-Senior,1400,False,Remoto 100%,Consultoría,4.1,4.5,1,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,9850,True,Remoto 100%,Consulting,3.9,5.0,1,1,0,0,0,0,0,1,1
+EEUU,Semi-Senior,9900,True,Remoto 100%,Finance,3.8,3.8,1,1,1,0,0,0,1,0,1
+Argentina,Junior,950,True,Remoto 100%,Tecnología/SaaS,2.2,3.4,1,0,0,0,1,0,0,0,0
+Argentina,Senior,5500,True,Remoto 100%,Tecnología/SaaS,8.8,3.9,1,1,1,0,1,0,1,1,1
+Argentina,Junior,1050,False,Remoto 100%,Fintech,0.6,4.5,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,9250,True,Presencial,Fintech,4.1,3.9,1,1,0,1,1,0,0,1,1
+Argentina,Senior,4750,False,Remoto 100%,Retail,7.5,2.9,1,1,1,0,1,0,0,1,1
+EEUU,Junior,5900,True,Remoto 100%,Consulting,0.3,5.0,1,1,0,0,1,1,0,1,1
+EEUU,Semi-Senior,8450,True,Remoto 100%,Media,3.2,3.2,1,1,0,0,0,0,1,1,1
+Argentina,Junior,700,False,Remoto 100%,Telecomunicaciones,2.3,3.2,0,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,8750,True,Remoto 100%,Media,3.9,3.8,1,1,1,1,1,1,0,1,1
+Argentina,Junior,1000,False,Presencial,Gobierno,1.5,5.0,1,1,1,0,1,0,0,0,0
+Argentina,Junior,800,False,Híbrido,Consultoría,1.5,3.1,1,0,0,0,1,0,0,0,0
+EEUU,Senior,13050,True,Remoto 100%,Tech/SaaS,13.7,3.6,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,2250,True,Presencial,Manufactura,3.1,4.1,0,1,0,1,0,1,0,0,0
+Argentina,Senior,3550,True,Remoto 100%,E-commerce,10.1,3.3,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,1600,False,Presencial,Manufactura,3.2,4.1,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,2200,False,Híbrido,Banca,2.7,3.3,1,1,1,1,1,0,0,0,0
+Argentina,Junior,1000,False,Híbrido,Retail,1.6,3.5,0,1,0,1,1,0,0,0,0
+Argentina,Senior,3700,False,Remoto 100%,Tecnología/SaaS,6.7,3.5,1,1,1,1,1,0,1,0,0
+Argentina,Senior,4800,True,Remoto 100%,Consultoría,13.4,5.0,1,1,1,0,1,0,0,0,0
+EEUU,Junior,5700,True,Híbrido,Healthcare,1.0,4.0,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1950,False,Remoto 100%,Fintech,3.2,4.7,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,1950,True,Remoto 100%,Salud,3.1,3.6,0,1,1,0,1,1,0,1,0
+Argentina,Senior,3400,False,Remoto 100%,Banca,6.3,2.9,1,1,1,1,1,0,1,1,1
+Argentina,Junior,1050,False,Presencial,Banca,1.3,4.6,0,1,0,0,1,0,0,0,0
+Argentina,Senior,3300,True,Remoto 100%,Gobierno,8.6,2.4,1,1,1,1,1,0,1,0,1
+EEUU,Senior,11950,True,Remoto 100%,Manufacturing,12.1,4.0,0,1,1,1,0,1,1,1,1
+Argentina,Junior,1050,False,Presencial,Telecomunicaciones,1.7,3.3,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,3350,True,Híbrido,Retail,3.8,4.5,1,1,1,1,1,0,0,1,1
+Argentina,Senior,5700,True,Híbrido,Tecnología/SaaS,9.8,2.5,1,1,0,0,1,0,0,1,1
+Argentina,Junior,1150,True,Híbrido,Tecnología/SaaS,2.2,2.2,0,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2500,False,Presencial,Retail,3.5,3.2,1,1,0,0,1,0,0,0,1
+Argentina,Senior,4700,False,Híbrido,Manufactura,13.2,3.9,1,1,1,1,1,0,0,1,0
+EEUU,Junior,5300,True,Híbrido,Government,0.5,3.6,1,1,0,1,0,0,0,1,1
+EEUU,Senior,11350,True,Híbrido,E-commerce,10.9,4.4,1,1,0,0,0,1,1,1,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Consultoría,5.3,3.9,1,0,1,1,1,1,0,0,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Salud,5.6,3.5,1,1,1,1,1,0,1,0,0
+Argentina,Junior,1000,False,Híbrido,Salud,1.6,4.5,0,1,0,0,1,0,0,0,0
+EEUU,Junior,6950,True,Remoto 100%,Consulting,1.6,3.7,0,0,1,1,1,0,0,1,1
+Argentina,Senior,2900,False,Remoto 100%,Banca,7.3,3.8,1,1,1,0,1,0,1,0,1
+Argentina,Senior,2700,False,Remoto 100%,Fintech,14.5,3.1,1,1,1,1,1,0,0,1,1
+EEUU,Junior,6100,True,Remoto 100%,Media,0.1,2.6,1,0,0,1,1,0,0,1,1
+Argentina,Semi-Senior,1800,True,Remoto 100%,Fintech,3.2,4.0,0,1,1,1,1,1,1,0,0
+Argentina,Junior,1100,False,Híbrido,Telecomunicaciones,0.5,3.4,1,1,1,1,1,0,0,0,1
+EEUU,Senior,15300,True,Remoto 100%,Government,9.7,4.2,1,1,0,1,0,1,1,1,1
+Argentina,Semi-Senior,1650,False,Remoto 100%,Manufactura,6.0,3.7,1,0,1,1,1,1,1,0,0
+EEUU,Senior,15950,True,Remoto 100%,Healthcare,9.4,5.0,1,1,0,1,1,0,1,1,1
+Argentina,Junior,1100,False,Presencial,Gobierno,1.1,4.8,0,1,1,0,1,0,0,0,0
+EEUU,Junior,5850,True,Híbrido,Consulting,0.1,4.9,1,1,0,1,0,0,0,0,0
+Argentina,Junior,1250,True,Híbrido,Retail,0.3,4.1,0,0,1,1,1,0,1,0,1
+EEUU,Semi-Senior,9250,True,Remoto 100%,Retail,4.9,3.5,1,1,0,0,0,1,1,0,1
+Argentina,Semi-Senior,2500,True,Híbrido,Manufactura,4.6,4.7,1,1,1,0,0,1,0,0,1
+EEUU,Senior,15200,True,Híbrido,Retail,14.6,4.9,1,1,1,0,1,1,1,1,1
+Argentina,Junior,1100,False,Híbrido,Consultoría,1.1,4.0,1,0,1,1,1,1,0,1,0
+Argentina,Senior,5100,True,Presencial,Banca,12.1,3.8,0,1,1,1,0,1,0,1,1
+EEUU,Semi-Senior,7950,True,Remoto 100%,Tech/SaaS,5.5,4.2,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,8500,True,Presencial,Media,4.0,4.4,1,1,1,0,1,0,1,1,1
+Argentina,Junior,1350,True,Presencial,Banca,0.3,2.6,0,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1850,True,Remoto 100%,Gobierno,3.7,3.2,1,1,1,0,1,0,1,1,1
+EEUU,Junior,5750,True,Híbrido,Manufacturing,1.4,3.8,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,9000,True,Remoto 100%,E-commerce,5.9,4.5,0,1,1,0,1,1,0,1,1
+EEUU,Junior,5350,True,Híbrido,E-commerce,1.7,5.0,1,1,0,0,1,0,1,1,0
+Argentina,Senior,4350,False,Presencial,Manufactura,13.8,3.0,1,1,1,1,0,0,0,1,0
+Argentina,Senior,4750,True,Híbrido,Salud,7.0,3.7,1,1,1,0,1,1,0,1,1
+Argentina,Senior,3300,False,Remoto 100%,Gobierno,12.2,3.2,1,1,1,1,1,0,1,0,0
+Argentina,Semi-Senior,2200,True,Presencial,Fintech,6.0,3.1,0,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2950,True,Remoto 100%,Fintech,3.2,3.8,1,1,0,0,1,0,0,1,1
+Argentina,Senior,4300,False,Remoto 100%,Salud,10.2,3.9,1,1,1,1,1,1,0,1,1
+Argentina,Senior,5800,True,Remoto 100%,Gobierno,12.6,3.0,1,0,0,1,1,0,1,0,0
+EEUU,Senior,12550,True,Remoto 100%,Fintech,7.8,2.8,1,1,0,0,1,1,1,0,0
+Argentina,Semi-Senior,2250,True,Híbrido,Tecnología/SaaS,5.7,4.1,0,1,0,1,1,0,1,0,0
+Argentina,Senior,5250,True,Híbrido,E-commerce,7.2,4.6,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,3050,True,Remoto 100%,Telecomunicaciones,5.6,4.4,1,0,1,0,1,1,0,0,1
+Argentina,Senior,4600,True,Híbrido,Tecnología/SaaS,9.9,3.0,1,1,1,1,1,0,1,0,1
+EEUU,Senior,9700,True,Presencial,Healthcare,7.0,4.4,1,1,0,0,1,0,1,1,1
+EEUU,Semi-Senior,7900,True,Remoto 100%,Consulting,4.4,4.9,1,1,1,1,1,0,1,0,1
+EEUU,Senior,14900,True,Remoto 100%,Government,9.2,4.4,0,1,0,1,0,1,1,1,1
+EEUU,Semi-Senior,7250,True,Remoto 100%,Retail,4.1,2.1,1,1,1,0,1,1,0,0,1
+EEUU,Semi-Senior,9600,False,Remoto 100%,Tech/SaaS,5.4,4.1,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1050,True,Remoto 100%,Tecnología/SaaS,0.6,4.6,0,0,1,1,1,0,0,0,0
+EEUU,Junior,5500,True,Híbrido,Government,2.2,3.3,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,1600,False,Remoto 100%,Telecomunicaciones,5.1,2.5,1,1,1,1,0,0,0,0,0
+Argentina,Semi-Senior,1600,False,Remoto 100%,Salud,4.6,4.5,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1250,False,Remoto 100%,Telecomunicaciones,1.5,3.5,0,1,1,1,1,0,0,0,0
+EEUU,Senior,12450,True,Remoto 100%,Finance,9.2,3.9,1,1,0,0,0,1,0,1,1
+Argentina,Junior,650,False,Híbrido,Banca,2.4,2.8,0,1,1,1,1,0,0,0,0
+Argentina,Junior,1150,True,Presencial,Retail,1.8,2.8,1,1,1,0,0,0,1,0,0
+EEUU,Semi-Senior,7500,True,Remoto 100%,E-commerce,2.8,5.0,1,1,1,1,1,1,1,1,1
+Argentina,Semi-Senior,2000,False,Remoto 100%,Tecnología/SaaS,6.0,4.5,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5300,True,Presencial,Finance,2.5,4.1,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2950,True,Remoto 100%,Gobierno,4.3,3.5,1,1,0,1,1,1,1,1,1
+EEUU,Junior,6000,True,Híbrido,Tech/SaaS,0.9,3.7,0,1,1,0,1,1,0,0,1
+Argentina,Junior,800,False,Híbrido,E-commerce,0.9,3.3,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,8100,True,Presencial,Media,5.0,3.4,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,8550,True,Remoto 100%,Tech/SaaS,5.8,4.1,1,1,0,1,0,1,1,1,0
+Argentina,Semi-Senior,2600,True,Remoto 100%,Retail,3.4,2.3,1,1,1,0,1,0,0,0,0
+EEUU,Senior,13300,True,Híbrido,Consulting,9.7,4.2,1,1,1,1,1,1,1,0,1
+EEUU,Senior,15250,True,Remoto 100%,Media,7.4,3.6,1,1,0,0,0,0,0,1,0
+Argentina,Junior,1150,True,Remoto 100%,E-commerce,0.2,3.2,1,1,0,0,1,0,0,0,1
+EEUU,Junior,5800,True,Remoto 100%,Fintech,1.5,3.8,1,1,1,0,1,0,1,1,1
+Argentina,Senior,3100,True,Híbrido,E-commerce,12.3,2.8,1,1,0,1,1,1,0,1,1
+EEUU,Junior,6300,True,Remoto 100%,Fintech,0.7,5.0,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,1150,False,Presencial,Fintech,3.3,2.8,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9650,True,Híbrido,Media,3.8,2.9,1,1,0,0,1,0,0,1,1
+Argentina,Senior,3650,False,Híbrido,Gobierno,13.0,4.2,1,1,1,1,0,1,1,0,0
+Argentina,Junior,850,False,Presencial,Fintech,0.3,3.9,1,1,1,0,1,0,0,0,0
+EEUU,Senior,12200,True,Presencial,Tech/SaaS,8.6,4.1,1,1,0,0,1,0,1,1,1
+EEUU,Semi-Senior,9000,True,Presencial,Government,2.9,3.7,1,1,1,0,1,1,0,1,0
+Argentina,Semi-Senior,2100,False,Híbrido,Gobierno,5.0,4.8,1,1,1,0,1,1,1,0,0
+EEUU,Junior,5300,True,Híbrido,Government,0.7,3.9,1,1,1,0,1,0,0,1,1
+EEUU,Senior,12700,True,Remoto 100%,Government,6.3,3.7,1,1,1,1,1,0,1,1,1
+Argentina,Senior,4350,True,Híbrido,Banca,7.2,2.7,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,1300,True,Híbrido,Salud,5.1,4.1,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,7900,True,Híbrido,Tech/SaaS,4.4,4.0,1,0,0,1,0,0,1,1,1
+Argentina,Senior,5650,True,Remoto 100%,Fintech,11.3,3.9,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2750,True,Remoto 100%,Telecomunicaciones,5.6,3.7,1,1,1,0,1,0,0,0,0
+EEUU,Semi-Senior,9250,True,Presencial,Manufacturing,4.5,2.6,1,1,1,0,0,0,0,0,0
+Argentina,Semi-Senior,2700,True,Híbrido,Tecnología/SaaS,5.3,3.1,1,1,1,0,0,0,1,0,0
+EEUU,Senior,11550,True,Remoto 100%,Consulting,14.1,4.0,1,1,1,1,0,1,1,1,1
+EEUU,Junior,5750,True,Presencial,Manufacturing,2.2,3.5,1,1,0,1,1,1,0,0,0
+EEUU,Senior,13700,True,Híbrido,E-commerce,12.5,4.7,1,1,0,0,1,1,0,0,1
+Argentina,Junior,1250,False,Remoto 100%,Fintech,2.4,3.4,1,1,1,0,1,1,0,0,1
+Argentina,Semi-Senior,2100,False,Remoto 100%,Gobierno,2.8,2.8,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,2200,False,Remoto 100%,Fintech,4.6,3.3,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,9400,True,Híbrido,Media,2.9,4.1,1,1,0,0,1,0,0,1,1
+EEUU,Semi-Senior,8600,True,Híbrido,Healthcare,3.1,4.5,1,1,1,0,1,0,0,0,1
+Argentina,Junior,1350,True,Híbrido,E-commerce,2.0,3.1,1,1,1,1,1,1,0,0,0
+EEUU,Junior,4500,True,Remoto 100%,Consulting,2.4,3.3,1,1,0,1,1,0,0,0,0
+EEUU,Senior,16500,True,Remoto 100%,Retail,6.6,3.3,1,1,0,1,0,1,1,1,1
+EEUU,Semi-Senior,10550,True,Híbrido,Healthcare,3.2,3.4,1,1,1,1,1,0,0,1,0
+EEUU,Junior,4400,True,Remoto 100%,Fintech,0.4,4.3,1,1,0,1,1,0,1,1,0
+EEUU,Junior,6400,True,Remoto 100%,Finance,0.9,2.6,1,1,0,0,1,0,0,1,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Fintech,3.6,4.5,1,1,1,0,1,0,0,0,1
+EEUU,Senior,11750,True,Remoto 100%,Fintech,10.0,4.5,1,1,0,1,1,1,1,1,0
+Argentina,Junior,1000,False,Híbrido,Consultoría,1.8,3.9,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5650,True,Híbrido,Government,1.6,5.0,0,1,0,1,1,1,1,0,0
+Argentina,Senior,5350,True,Remoto 100%,Retail,6.0,3.9,0,1,1,1,1,0,1,0,0
+EEUU,Semi-Senior,10150,True,Híbrido,Finance,3.5,4.4,0,1,0,0,0,0,0,1,1
+Argentina,Junior,1000,False,Híbrido,Tecnología/SaaS,0.6,3.9,1,1,1,1,1,1,0,0,0
+Argentina,Semi-Senior,2050,False,Remoto 100%,Manufactura,4.9,3.8,1,1,1,1,1,1,0,0,1
+EEUU,Semi-Senior,8700,True,Híbrido,Tech/SaaS,2.9,3.1,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,11700,True,Remoto 100%,Finance,4.3,3.1,1,1,1,1,1,0,0,1,1
+Argentina,Senior,5250,True,Remoto 100%,Telecomunicaciones,7.3,4.5,1,0,0,1,1,0,0,1,1
+EEUU,Semi-Senior,7800,True,Remoto 100%,Media,3.0,3.7,1,1,0,0,1,0,0,0,0
+Argentina,Junior,750,False,Remoto 100%,E-commerce,1.7,4.5,1,1,0,1,1,0,0,1,0
+EEUU,Junior,6300,True,Híbrido,Media,0.6,3.5,1,1,0,1,1,0,0,1,0
+Argentina,Senior,4800,True,Híbrido,Fintech,12.9,3.6,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2150,True,Remoto 100%,Retail,3.0,3.6,1,1,0,1,1,0,0,1,0
+EEUU,Junior,6550,True,Presencial,Consulting,2.4,3.7,1,1,1,0,1,1,1,0,1
+Argentina,Senior,4550,True,Remoto 100%,Manufactura,7.2,3.8,1,1,1,1,1,0,0,1,0
+Argentina,Junior,1250,True,Presencial,Retail,2.0,3.2,0,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,9250,True,Remoto 100%,E-commerce,5.9,4.6,1,1,1,0,1,0,1,0,1
+EEUU,Semi-Senior,8300,True,Remoto 100%,Finance,5.7,3.1,1,1,0,1,1,1,1,1,1
+EEUU,Senior,12100,True,Presencial,Media,8.1,4.1,1,1,0,0,0,1,1,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Fintech,3.9,3.9,1,1,0,1,1,0,0,0,0
+EEUU,Senior,13450,True,Remoto 100%,Healthcare,6.1,2.4,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,8200,True,Remoto 100%,Tech/SaaS,3.3,4.9,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,10300,True,Remoto 100%,Retail,5.9,3.2,1,0,1,1,0,0,1,1,0
+Argentina,Junior,1000,False,Híbrido,Manufactura,0.4,3.5,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2600,False,Remoto 100%,Banca,4.3,2.7,0,1,1,1,0,0,0,1,0
+EEUU,Junior,4150,True,Remoto 100%,Media,1.9,3.8,1,1,0,0,1,0,0,1,1
+EEUU,Senior,13050,True,Remoto 100%,Government,13.1,3.8,1,1,0,0,1,1,0,1,1
+Argentina,Semi-Senior,3000,True,Remoto 100%,E-commerce,3.0,3.3,1,1,1,1,1,0,0,0,0
+Argentina,Semi-Senior,2850,False,Remoto 100%,Retail,4.0,3.6,0,0,1,1,1,1,1,0,1
+Argentina,Semi-Senior,2950,True,Híbrido,Manufactura,4.1,3.9,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1000,False,Presencial,E-commerce,2.0,3.2,1,1,0,1,1,0,0,0,0
+Argentina,Junior,1100,False,Presencial,Fintech,1.2,4.1,1,1,1,1,1,0,1,1,0
+Argentina,Junior,1050,False,Híbrido,Salud,1.2,3.0,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,10150,True,Remoto 100%,Retail,5.2,4.3,1,1,1,1,0,1,0,1,0
+EEUU,Semi-Senior,8050,True,Remoto 100%,Government,4.3,5.0,1,1,1,0,1,1,1,1,1
+Argentina,Senior,4750,False,Remoto 100%,Tecnología/SaaS,13.8,3.6,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,9200,True,Híbrido,Consulting,4.8,3.7,1,1,0,0,1,1,1,1,1
+Argentina,Senior,3050,False,Remoto 100%,Gobierno,12.9,3.7,1,1,1,0,1,1,1,1,0
+Argentina,Semi-Senior,2200,False,Remoto 100%,Banca,5.2,3.2,0,1,0,0,1,0,0,0,0
+EEUU,Junior,6000,True,Remoto 100%,Retail,2.1,3.5,1,1,0,0,1,0,0,0,1
+Argentina,Junior,1700,True,Híbrido,Consultoría,1.5,4.0,1,1,1,0,1,1,0,0,0
+Argentina,Senior,4950,True,Remoto 100%,Telecomunicaciones,8.2,3.5,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,8200,True,Híbrido,Government,4.4,3.7,1,1,0,1,1,1,1,1,1
+Argentina,Semi-Senior,2300,True,Presencial,Gobierno,5.5,2.9,0,1,1,1,1,0,1,1,0
+EEUU,Junior,5300,True,Remoto 100%,Tech/SaaS,0.1,4.5,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1150,True,Híbrido,Banca,1.7,4.0,0,0,1,0,1,0,0,1,0
+EEUU,Semi-Senior,8650,True,Híbrido,Finance,5.3,4.1,1,0,1,0,0,0,0,0,1
+Argentina,Semi-Senior,2750,False,Presencial,Telecomunicaciones,4.1,4.0,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,8300,True,Híbrido,Manufacturing,3.5,4.4,1,1,1,0,1,1,1,1,0
+EEUU,Senior,15400,True,Remoto 100%,Finance,6.2,4.6,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,2600,True,Remoto 100%,Fintech,3.1,3.0,1,1,1,1,1,0,0,1,1
+Argentina,Semi-Senior,1950,False,Presencial,Gobierno,5.8,4.3,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9200,True,Remoto 100%,Retail,4.3,3.7,0,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,7500,True,Híbrido,Finance,2.5,4.1,1,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,1800,False,Híbrido,Gobierno,3.5,2.2,0,1,1,1,1,0,1,0,1
+EEUU,Senior,13650,True,Híbrido,E-commerce,14.3,4.4,1,1,1,0,0,0,0,1,1
+EEUU,Senior,11600,True,Remoto 100%,Consulting,7.7,3.4,1,1,0,1,1,1,1,0,1
+EEUU,Semi-Senior,7800,True,Híbrido,Manufacturing,6.0,3.4,1,1,0,1,0,0,1,1,1
+Argentina,Junior,800,False,Híbrido,Fintech,0.7,3.1,0,1,1,1,1,0,0,0,0
+EEUU,Senior,12550,True,Remoto 100%,Fintech,10.0,3.4,0,1,1,1,1,1,1,1,0
+Argentina,Junior,1600,True,Presencial,Telecomunicaciones,1.0,2.8,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,10750,True,Remoto 100%,Finance,4.5,4.3,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,9450,True,Presencial,Manufacturing,4.0,3.3,1,1,0,0,0,1,0,0,1
+Argentina,Junior,1000,False,Híbrido,Salud,2.0,3.4,0,1,1,0,1,0,0,0,0
+Argentina,Junior,1000,False,Remoto 100%,Tecnología/SaaS,0.2,4.3,0,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,10700,True,Remoto 100%,Healthcare,4.3,2.8,1,1,0,1,1,0,1,0,1
+Argentina,Senior,5650,True,Híbrido,Tecnología/SaaS,9.1,1.5,1,1,1,0,1,0,1,0,0
+EEUU,Semi-Senior,8700,True,Híbrido,Fintech,6.0,4.2,0,1,1,0,1,0,0,1,0
+EEUU,Senior,15000,True,Remoto 100%,Retail,9.7,3.9,1,1,1,0,1,0,0,1,1
+Argentina,Junior,1250,False,Híbrido,Consultoría,0.4,3.3,0,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2400,True,Híbrido,Manufactura,4.9,1.8,0,0,1,1,1,0,0,0,0
+EEUU,Junior,7650,True,Híbrido,Tech/SaaS,2.1,4.1,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,8250,True,Híbrido,Finance,5.7,3.7,1,1,0,1,0,0,0,1,0
+EEUU,Junior,3550,True,Remoto 100%,Tech/SaaS,2.0,4.3,1,1,0,1,0,0,0,1,0
+Argentina,Semi-Senior,2300,False,Presencial,Salud,5.4,3.1,1,1,1,0,1,0,0,1,1
+Argentina,Semi-Senior,2300,True,Remoto 100%,Consultoría,5.3,4.1,0,1,0,1,1,1,1,0,0
+EEUU,Senior,13600,True,Presencial,Fintech,13.3,4.4,1,1,1,0,0,0,1,1,1
+EEUU,Semi-Senior,9050,True,Remoto 100%,Finance,3.0,4.0,0,1,0,0,0,0,1,0,1
+EEUU,Semi-Senior,10200,True,Remoto 100%,Media,5.5,4.5,1,1,1,0,1,0,1,0,1
+Argentina,Semi-Senior,2400,True,Remoto 100%,Consultoría,4.2,3.3,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,8750,True,Remoto 100%,Government,2.7,2.7,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,2000,True,Presencial,E-commerce,4.6,3.6,0,1,1,1,1,0,1,1,1
+EEUU,Junior,4800,True,Remoto 100%,E-commerce,0.5,3.1,0,1,1,0,0,0,0,1,1
+Argentina,Semi-Senior,2300,True,Remoto 100%,Retail,4.2,3.4,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9900,True,Remoto 100%,Finance,3.7,3.6,1,1,0,1,0,1,0,1,0
+EEUU,Semi-Senior,6300,True,Híbrido,Retail,2.8,3.7,1,1,1,1,1,1,0,1,1
+Argentina,Junior,850,False,Híbrido,E-commerce,0.8,3.8,1,1,0,0,0,0,0,0,1
+EEUU,Semi-Senior,9300,True,Remoto 100%,Government,4.5,4.8,1,1,0,1,1,0,1,1,1
+Argentina,Semi-Senior,3300,True,Híbrido,E-commerce,6.0,4.2,1,1,1,1,1,1,0,0,1
+Argentina,Semi-Senior,1750,False,Remoto 100%,Retail,4.2,3.9,1,1,0,1,1,0,0,0,1
+EEUU,Semi-Senior,7950,True,Híbrido,Fintech,4.1,3.4,1,0,0,0,1,0,0,1,0
+Argentina,Semi-Senior,2250,True,Híbrido,Gobierno,4.4,3.7,0,1,1,1,1,0,0,1,1
+Argentina,Junior,1150,True,Remoto 100%,Fintech,1.1,3.9,0,0,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2200,True,Híbrido,Tecnología/SaaS,2.8,3.5,1,1,1,1,0,0,0,0,0
+EEUU,Semi-Senior,8900,True,Híbrido,Retail,4.5,4.4,0,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8250,True,Híbrido,Tech/SaaS,5.1,3.3,1,1,0,0,1,1,0,1,1
+Argentina,Senior,4050,False,Remoto 100%,Telecomunicaciones,8.1,4.0,1,1,1,1,0,1,0,1,1
+Argentina,Senior,5800,True,Híbrido,Retail,9.4,3.2,1,1,1,0,0,0,1,1,1
+EEUU,Junior,5150,True,Remoto 100%,E-commerce,1.5,3.6,1,1,1,1,1,1,0,0,1
+Argentina,Junior,1400,False,Híbrido,Tecnología/SaaS,1.5,3.4,0,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9650,True,Híbrido,Retail,5.6,5.0,1,1,1,0,1,0,0,1,0
+Argentina,Junior,1050,False,Remoto 100%,Salud,2.1,3.2,1,1,1,0,1,1,1,0,1
+Argentina,Semi-Senior,2400,True,Híbrido,Manufactura,3.4,2.9,1,1,1,0,1,0,0,0,0
+Argentina,Junior,1250,True,Remoto 100%,Retail,1.2,3.4,1,1,0,0,1,0,0,0,1
+Argentina,Semi-Senior,3050,True,Remoto 100%,Manufactura,5.1,3.1,1,1,1,0,1,1,0,1,1
+Argentina,Senior,2900,False,Remoto 100%,E-commerce,9.5,3.3,1,1,0,0,1,0,0,1,1
+EEUU,Senior,15150,True,Remoto 100%,Fintech,9.0,4.1,1,1,1,0,1,1,1,0,1
+Argentina,Junior,1050,True,Remoto 100%,Telecomunicaciones,0.3,3.9,0,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,8800,False,Remoto 100%,Tech/SaaS,3.3,4.1,1,1,0,1,1,1,1,0,1
+Argentina,Semi-Senior,2500,True,Remoto 100%,Salud,2.6,3.2,1,1,1,1,1,0,0,0,1
+Argentina,Senior,3750,False,Presencial,Tecnología/SaaS,12.3,2.9,1,1,1,1,0,0,1,0,0
+EEUU,Junior,6000,True,Remoto 100%,Consulting,2.3,3.8,1,1,1,0,0,0,0,1,1
+EEUU,Senior,12400,True,Híbrido,Manufacturing,14.1,4.0,1,1,1,0,1,1,1,1,1
+EEUU,Junior,4600,True,Remoto 100%,Retail,1.6,3.3,1,1,0,1,1,0,0,0,1
+Argentina,Semi-Senior,3250,True,Remoto 100%,Salud,5.8,4.0,1,1,0,0,1,0,0,0,1
+EEUU,Semi-Senior,8200,True,Remoto 100%,E-commerce,3.2,3.8,1,1,0,1,1,0,1,1,1
+EEUU,Semi-Senior,8150,True,Híbrido,Manufacturing,2.6,3.2,0,1,1,0,1,1,0,1,1
+Argentina,Semi-Senior,2900,True,Remoto 100%,Salud,5.2,3.4,1,1,1,1,1,0,0,0,1
+EEUU,Junior,4650,True,Presencial,Manufacturing,1.5,4.1,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,7650,True,Híbrido,Manufacturing,3.8,4.1,0,1,1,0,1,0,0,1,0
+Argentina,Semi-Senior,2300,True,Remoto 100%,Manufactura,5.0,4.8,1,1,1,1,1,0,0,0,1
+EEUU,Junior,5600,True,Remoto 100%,Tech/SaaS,0.4,3.7,1,1,1,0,0,1,0,1,1
+EEUU,Junior,6750,True,Remoto 100%,Manufacturing,1.9,2.3,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2550,True,Remoto 100%,Retail,3.2,2.8,1,1,0,1,1,1,0,0,1
+EEUU,Semi-Senior,9650,True,Remoto 100%,E-commerce,4.3,4.3,1,0,0,1,1,0,0,1,0
+Argentina,Senior,5400,True,Remoto 100%,Retail,9.8,4.2,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,2350,False,Remoto 100%,Manufactura,4.6,4.6,0,1,0,0,1,1,0,0,1
+Argentina,Senior,3650,True,Remoto 100%,Tecnología/SaaS,14.9,2.8,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,9550,True,Remoto 100%,Fintech,2.6,4.4,0,1,1,0,1,0,0,1,1
+EEUU,Junior,5750,True,Híbrido,Media,0.8,4.8,1,1,0,1,1,0,0,0,1
+EEUU,Junior,6600,True,Remoto 100%,Government,0.3,2.8,1,1,1,1,1,0,1,1,1
+EEUU,Junior,6250,True,Híbrido,Healthcare,0.1,4.0,1,1,1,0,1,0,0,0,1
+EEUU,Semi-Senior,8200,True,Híbrido,Finance,5.3,4.8,1,1,0,1,1,1,1,1,1
+Argentina,Junior,1000,True,Remoto 100%,Telecomunicaciones,1.7,3.5,0,1,0,0,1,0,0,1,0
+EEUU,Senior,13650,True,Híbrido,E-commerce,7.5,4.6,1,1,0,1,0,0,1,1,1
+EEUU,Junior,5100,True,Remoto 100%,Media,2.2,4.7,1,1,0,1,1,0,0,1,1
+EEUU,Junior,4250,True,Presencial,Tech/SaaS,1.3,3.7,1,1,0,0,1,0,1,1,1
+Argentina,Junior,800,False,Presencial,Tecnología/SaaS,0.0,3.4,0,0,1,1,1,0,0,0,0
+Argentina,Junior,1150,True,Híbrido,Fintech,2.5,2.8,1,1,1,1,1,0,0,0,0
+EEUU,Semi-Senior,8600,True,Remoto 100%,Healthcare,5.5,4.1,1,1,0,1,0,1,0,1,0
+Argentina,Semi-Senior,2100,True,Remoto 100%,E-commerce,3.1,2.3,1,1,1,1,1,1,1,1,1
+Argentina,Junior,1400,True,Híbrido,Telecomunicaciones,1.0,3.3,0,0,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9200,True,Remoto 100%,Government,3.4,4.8,1,1,0,0,1,0,0,1,0
+EEUU,Semi-Senior,9800,True,Híbrido,Finance,3.9,3.1,1,1,0,0,1,0,0,1,1
+Argentina,Senior,6100,True,Híbrido,Fintech,7.1,3.9,1,1,1,0,1,0,0,1,0
+EEUU,Semi-Senior,7850,True,Remoto 100%,Government,4.8,3.6,1,1,1,1,1,1,0,1,1
+EEUU,Semi-Senior,9350,True,Híbrido,Government,5.7,3.3,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2900,True,Híbrido,Gobierno,5.6,3.2,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8500,True,Remoto 100%,Tech/SaaS,3.1,3.9,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8850,True,Presencial,Retail,2.9,5.0,1,1,0,1,1,1,1,0,1
+EEUU,Semi-Senior,9150,True,Remoto 100%,Consulting,3.7,4.2,1,1,0,1,1,0,0,1,1
+EEUU,Semi-Senior,8750,True,Remoto 100%,E-commerce,3.2,3.8,1,1,0,1,0,0,1,1,1
+EEUU,Semi-Senior,8350,True,Presencial,Manufacturing,3.6,2.5,1,1,0,1,0,0,0,1,1
+EEUU,Senior,10900,True,Híbrido,Consulting,8.4,3.6,1,1,1,0,1,1,0,1,1
+EEUU,Junior,5800,True,Híbrido,Healthcare,1.6,3.5,0,1,1,0,1,0,0,0,1
+EEUU,Junior,5550,True,Remoto 100%,Healthcare,1.8,5.0,0,1,1,1,1,1,1,0,0
+EEUU,Semi-Senior,7300,True,Híbrido,Government,5.8,3.8,1,1,0,0,1,0,0,1,1
+EEUU,Junior,6700,True,Híbrido,E-commerce,2.1,3.1,1,1,1,1,1,1,1,1,1
+EEUU,Junior,5550,True,Presencial,Tech/SaaS,0.4,3.8,0,1,0,1,1,0,0,0,1
+Argentina,Junior,800,False,Presencial,Salud,2.1,4.3,1,1,0,1,1,1,1,1,0
+Argentina,Junior,950,True,Remoto 100%,Telecomunicaciones,0.4,1.5,1,1,1,1,1,0,0,0,0
+EEUU,Senior,10300,True,Híbrido,Retail,11.7,2.6,1,1,1,1,0,1,0,1,1
+EEUU,Semi-Senior,8600,True,Presencial,Fintech,3.4,4.2,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,9350,True,Remoto 100%,Government,3.9,3.1,0,1,0,0,1,1,0,0,1
+Argentina,Senior,4350,True,Remoto 100%,Banca,15.0,2.3,1,1,0,0,1,0,1,1,1
+Argentina,Semi-Senior,1100,False,Híbrido,Fintech,5.3,3.4,1,1,1,0,1,0,0,0,1
+Argentina,Junior,900,False,Remoto 100%,E-commerce,0.8,3.3,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8750,True,Híbrido,Manufacturing,4.5,2.4,1,1,0,1,1,0,0,1,0
+EEUU,Senior,14050,True,Remoto 100%,Government,12.1,4.2,1,1,0,1,0,0,1,1,1
+EEUU,Junior,6600,True,Híbrido,Government,0.6,3.6,1,1,1,1,0,0,1,1,1
+Argentina,Junior,900,False,Híbrido,Telecomunicaciones,2.5,4.1,1,1,0,0,1,0,0,0,0
+Argentina,Junior,850,False,Híbrido,Banca,0.0,3.2,0,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2200,False,Híbrido,Gobierno,3.9,3.0,1,1,1,1,1,0,1,1,1
+Argentina,Semi-Senior,1900,False,Remoto 100%,Banca,3.0,4.1,1,1,0,0,0,0,1,0,1
+EEUU,Semi-Senior,6950,True,Remoto 100%,Manufacturing,3.3,4.1,1,1,1,1,1,1,0,0,1
+EEUU,Senior,11650,True,Remoto 100%,Manufacturing,7.9,4.5,1,1,0,0,1,1,0,1,1
+Argentina,Junior,1100,False,Híbrido,Tecnología/SaaS,0.5,4.3,1,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,1850,True,Remoto 100%,Consultoría,5.7,4.4,1,1,1,1,1,0,0,1,1
+Argentina,Junior,1100,False,Híbrido,Telecomunicaciones,1.8,4.3,0,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,2050,False,Híbrido,Fintech,3.7,3.4,0,1,1,1,0,0,0,0,0
+Argentina,Senior,3900,True,Remoto 100%,Fintech,14.4,4.2,1,1,1,0,1,0,0,1,1
+EEUU,Senior,10200,True,Remoto 100%,Healthcare,8.1,4.8,1,1,0,1,0,1,0,1,1
+Argentina,Senior,3400,False,Remoto 100%,E-commerce,11.4,4.1,1,1,1,1,0,0,1,0,1
+EEUU,Semi-Senior,6900,True,Híbrido,Tech/SaaS,3.1,3.9,1,1,1,1,0,1,0,1,1
+Argentina,Semi-Senior,1300,False,Híbrido,Retail,2.6,4.0,1,1,1,1,1,0,0,0,1
+EEUU,Senior,14800,True,Remoto 100%,Fintech,6.5,2.4,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,9250,True,Remoto 100%,Consulting,6.0,3.6,1,1,1,1,1,1,1,0,1
+Argentina,Junior,1050,False,Híbrido,Telecomunicaciones,2.3,3.3,0,0,0,0,1,0,1,0,0
+EEUU,Junior,5850,True,Presencial,E-commerce,1.6,3.9,1,1,1,0,1,1,0,1,0
+Argentina,Semi-Senior,2400,False,Remoto 100%,Salud,4.0,3.8,0,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,3350,True,Híbrido,Salud,4.9,3.3,1,1,1,1,1,0,0,0,1
+EEUU,Senior,14150,True,Remoto 100%,Fintech,13.4,4.6,1,1,0,1,0,0,1,1,1
+Argentina,Junior,700,False,Híbrido,Fintech,2.4,3.1,1,1,1,1,1,0,0,0,0
+EEUU,Senior,13200,True,Remoto 100%,Consulting,12.7,4.1,1,1,0,0,1,1,1,1,1
+EEUU,Semi-Senior,10900,True,Híbrido,Media,3.6,2.9,1,1,0,1,1,0,0,1,1
+Argentina,Semi-Senior,2300,False,Remoto 100%,Fintech,2.8,3.6,0,1,0,0,1,1,1,0,1
+Argentina,Semi-Senior,2700,False,Híbrido,Gobierno,5.0,2.8,1,0,1,1,1,0,0,0,1
+EEUU,Semi-Senior,9200,True,Remoto 100%,Finance,5.5,4.9,1,0,1,1,1,0,0,1,1
+Argentina,Senior,5150,True,Híbrido,Gobierno,12.1,3.9,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,9400,True,Híbrido,Tech/SaaS,4.1,2.5,1,1,0,1,0,1,0,0,1
+Argentina,Semi-Senior,2100,False,Híbrido,Salud,4.5,4.0,0,0,1,1,1,0,1,0,0
+EEUU,Semi-Senior,10150,True,Híbrido,Consulting,4.5,4.3,1,1,1,1,0,0,0,1,0
+EEUU,Semi-Senior,7750,True,Híbrido,Consulting,3.8,4.0,1,1,0,1,0,1,1,1,1
+Argentina,Junior,1350,False,Remoto 100%,Salud,1.2,5.0,1,1,1,1,1,1,0,0,0
+EEUU,Semi-Senior,10600,True,Híbrido,Fintech,5.4,3.5,1,1,0,0,1,1,1,1,1
+Argentina,Semi-Senior,2650,True,Remoto 100%,Tecnología/SaaS,6.0,3.1,1,0,1,1,1,0,0,1,1
+EEUU,Semi-Senior,9000,True,Híbrido,E-commerce,2.9,3.1,1,1,1,0,1,1,0,0,1
+Argentina,Senior,3950,True,Remoto 100%,Tecnología/SaaS,13.2,2.6,1,1,1,1,1,0,0,0,1
+Argentina,Semi-Senior,2100,False,Presencial,Manufactura,3.3,2.7,1,1,1,1,1,0,0,1,0
+Argentina,Semi-Senior,2200,True,Híbrido,Tecnología/SaaS,3.5,4.0,0,1,0,0,1,0,0,0,0
+Argentina,Junior,1350,False,Presencial,Tecnología/SaaS,1.0,4.6,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1700,False,Remoto 100%,Manufactura,3.7,3.5,1,1,0,1,1,1,1,0,1
+Argentina,Junior,1200,True,Remoto 100%,Gobierno,1.2,3.7,0,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2550,True,Híbrido,Banca,5.1,4.2,1,0,0,1,1,0,0,0,1
+Argentina,Semi-Senior,1550,False,Remoto 100%,Salud,5.3,3.0,1,1,1,0,1,0,0,0,0
+Argentina,Semi-Senior,2300,False,Híbrido,Tecnología/SaaS,5.3,3.9,1,1,1,0,1,1,0,0,0
+EEUU,Semi-Senior,7200,True,Remoto 100%,Retail,3.2,2.6,1,1,1,1,1,0,0,0,1
+Argentina,Senior,4550,True,Remoto 100%,E-commerce,12.5,3.7,1,1,1,1,1,0,1,1,0
+Argentina,Semi-Senior,2850,True,Híbrido,Consultoría,4.5,2.9,1,1,1,0,0,0,0,0,0
+Argentina,Semi-Senior,2400,False,Remoto 100%,Consultoría,4.1,4.0,1,1,1,0,1,1,0,0,1
+EEUU,Junior,5850,True,Híbrido,Manufacturing,0.3,4.4,0,1,1,0,0,0,0,0,0
+Argentina,Semi-Senior,2100,False,Híbrido,Banca,2.8,3.5,1,1,0,1,1,0,0,0,0
+Argentina,Semi-Senior,2200,True,Remoto 100%,Tecnología/SaaS,4.4,5.0,1,1,0,1,1,0,0,0,0
+EEUU,Junior,6800,True,Presencial,Tech/SaaS,2.0,4.1,0,1,0,0,1,0,0,0,1
+Argentina,Senior,5650,True,Híbrido,Manufactura,12.1,3.0,1,1,1,1,1,1,1,1,1
+EEUU,Semi-Senior,6900,True,Híbrido,Manufacturing,4.0,3.3,1,1,0,1,0,1,0,0,1
+Argentina,Junior,600,True,Remoto 100%,Salud,1.2,3.6,1,1,1,0,1,0,0,0,1
+Argentina,Semi-Senior,1900,False,Híbrido,Banca,4.5,3.6,1,1,1,0,1,0,0,1,1
+EEUU,Junior,5100,True,Remoto 100%,Healthcare,1.2,4.3,1,1,1,0,0,1,1,1,1
+EEUU,Senior,10500,True,Remoto 100%,Healthcare,12.9,4.1,1,1,1,1,1,0,0,0,1
+Argentina,Junior,1050,False,Híbrido,Banca,0.2,3.0,0,1,0,0,1,0,0,0,0
+Argentina,Semi-Senior,2550,True,Híbrido,Banca,5.8,3.4,1,1,1,0,1,1,1,0,1
+EEUU,Junior,6500,True,Remoto 100%,Retail,0.4,3.7,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,9550,True,Híbrido,E-commerce,2.7,3.4,1,1,1,0,1,0,0,1,1
+EEUU,Semi-Senior,8650,True,Remoto 100%,Retail,4.8,4.2,1,1,1,1,0,1,0,0,1
+EEUU,Junior,6550,True,Remoto 100%,Retail,1.5,4.8,1,1,0,1,0,1,0,0,1
+EEUU,Senior,16400,True,Híbrido,E-commerce,14.8,2.6,1,1,0,0,1,0,0,1,1
+Argentina,Semi-Senior,1450,False,Presencial,Tecnología/SaaS,5.1,3.6,1,1,1,0,1,0,0,1,1
+EEUU,Junior,6500,True,Presencial,Media,1.4,4.0,1,1,0,1,0,0,0,1,1
+Argentina,Senior,4900,True,Remoto 100%,Retail,10.9,3.2,1,1,1,1,1,1,0,0,1
+EEUU,Junior,6450,True,Remoto 100%,Manufacturing,0.4,2.3,1,1,0,1,1,0,1,0,0
+EEUU,Senior,13100,True,Híbrido,Healthcare,7.9,4.1,1,1,0,0,1,0,1,1,1
+Argentina,Junior,1000,False,Híbrido,Salud,1.2,4.1,0,1,1,1,1,1,0,0,1
+EEUU,Senior,12150,True,Remoto 100%,Finance,9.5,4.0,0,1,0,1,1,1,1,1,1
+EEUU,Semi-Senior,8300,True,Híbrido,E-commerce,2.9,3.7,0,1,1,0,0,0,0,1,1
+EEUU,Semi-Senior,7750,True,Remoto 100%,Media,2.5,3.2,1,1,0,1,0,0,0,1,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Telecomunicaciones,4.9,2.7,1,0,1,0,1,0,1,0,0
+Argentina,Senior,5100,False,Híbrido,Salud,7.8,2.9,1,1,1,1,1,0,1,1,1
+EEUU,Semi-Senior,8550,True,Híbrido,Tech/SaaS,5.6,4.2,1,1,1,1,1,1,0,1,1
+Argentina,Semi-Senior,1700,True,Remoto 100%,Salud,5.6,4.4,1,1,0,1,1,1,0,1,1
+EEUU,Semi-Senior,9850,True,Híbrido,Consulting,4.8,3.2,1,1,1,1,0,1,1,0,1
+Argentina,Semi-Senior,2750,False,Remoto 100%,Telecomunicaciones,3.3,2.8,1,1,1,0,1,0,0,1,1
+Argentina,Senior,3650,False,Presencial,Retail,12.4,3.7,1,1,1,1,0,0,1,0,1
+Argentina,Senior,6100,True,Híbrido,Banca,14.1,4.9,1,1,1,0,1,0,0,0,1
+Argentina,Junior,950,False,Presencial,Fintech,0.0,3.3,0,1,1,0,1,0,1,1,0
+Argentina,Junior,1050,True,Remoto 100%,Salud,1.2,3.6,1,1,1,1,1,1,0,0,0
+Argentina,Junior,750,False,Presencial,Tecnología/SaaS,1.1,4.4,1,1,1,0,1,0,0,0,1
+Argentina,Senior,6250,True,Remoto 100%,Gobierno,11.7,5.0,1,1,1,0,1,0,1,0,0
+EEUU,Semi-Senior,9250,False,Híbrido,Finance,3.4,3.2,1,1,1,1,1,0,1,0,1
+EEUU,Semi-Senior,6350,True,Híbrido,Healthcare,4.6,3.4,1,1,0,1,1,0,1,0,1
+Argentina,Junior,900,True,Remoto 100%,Consultoría,0.1,1.5,0,1,0,1,1,0,0,0,0
+EEUU,Senior,13050,True,Remoto 100%,Healthcare,13.1,3.1,1,1,0,0,0,0,0,1,1
+Argentina,Semi-Senior,2150,True,Híbrido,Retail,3.3,3.5,1,1,1,1,1,0,0,0,1
+EEUU,Semi-Senior,8550,True,Remoto 100%,E-commerce,5.0,3.5,1,1,0,1,1,0,1,1,0
+EEUU,Semi-Senior,9850,True,Remoto 100%,Media,4.3,3.7,1,1,0,1,0,1,1,1,1
+Argentina,Senior,4300,True,Remoto 100%,E-commerce,12.9,3.1,1,1,1,1,1,0,0,1,1
+EEUU,Semi-Senior,8500,True,Híbrido,Healthcare,3.7,4.9,1,1,1,1,1,0,1,1,1
+Argentina,Senior,2750,False,Híbrido,Salud,13.8,2.0,1,1,1,1,0,0,0,0,0
+EEUU,Senior,9300,True,Remoto 100%,Consulting,9.2,3.7,1,1,1,1,1,1,1,1,1
+EEUU,Junior,6700,True,Híbrido,Consulting,0.2,4.0,1,1,1,0,1,0,0,1,1
+Argentina,Senior,2650,False,Híbrido,Banca,12.0,3.8,1,1,1,1,0,0,0,0,0
+Argentina,Junior,1050,False,Híbrido,Salud,1.9,3.8,1,1,1,1,1,0,0,0,0
+EEUU,Junior,5200,True,Remoto 100%,Healthcare,1.2,3.9,1,1,1,1,1,1,0,0,0
+Argentina,Semi-Senior,2850,True,Híbrido,Fintech,3.2,3.3,1,1,1,1,1,1,0,0,0
